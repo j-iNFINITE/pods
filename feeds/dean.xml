@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:45:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2000,6 +2000,37 @@
 26:33 神秘事件揭秘：老杨家的诡异经历让人毛骨悚然！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1F11XBaE61.mp3" length="13920959" type="audio/mpeg"/>
       <itunes:duration>00:29:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」徒步山中巧获神奇紫石；是福还是祸？；陷入执念无法自拔，终赍志而殁；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1hq1SBgEVH</link>
+      <guid isPermaLink="false">dean-BV1hq1SBgEVH</guid>
+      <pubDate>Sat, 08 Nov 2025 08:04:04 +0000</pubDate>
+      <description>02:00 广东回乡后的恐怖经历：鬼压床与失去意识的恐惧
+
+04:00 一夜之间的病魔：困扰刁哥的奇怪病症背后隐藏的真相
+
+06:01 危机与转机：老道长的出现改变了他们的命运！
+
+08:01 阴阳先生的处理方式：魂魄寄托与仪式要求
+
+10:02 神秘石头的奇妙力量：刁哥与古代男人的对话
+
+12:02 神秘男人的求救与约定：一位飘忽不定的魂魄的奇遇
+
+14:17 供奉石头，逆袭人生：一个男人的神秘梦境改变了他的命运
+
+16:40 盲目追求梦想的代价：一个男人的迷失与反思
+
+19:02 诡异的笔画和自言自语：一个大师的奇怪行为
+
+21:26 奇怪的石头与刁哥的离奇事件：一个令人不安的谜团
+
+23:49 执念与邪术：刁哥的故事引发的连锁反应
+
+26:12 探寻古砚传奇：故事中男人的神秘身份和砚台的来龙去脉</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hq1SBgEVH.mp3" length="13729952" type="audio/mpeg"/>
+      <itunes:duration>00:28:36</itunes:duration>
     </item>
   </channel>
 </rss>
