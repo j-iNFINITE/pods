@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:59:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2665,6 +2665,39 @@
 26:33 诡异的梦境：老头儿的出现与床头上奇怪的牙印</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Fe3EzAEuP.mp3" length="13923049" type="audio/mpeg"/>
       <itunes:duration>00:29:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿亲身经历；游神活动被阿飘疯狂捶打；透明的弟弟可能对我有所企图；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1c63VzXE2d</link>
+      <guid isPermaLink="false">dean-BV1c63VzXE2d</guid>
+      <pubDate>Fri, 04 Jul 2025 02:16:25 +0000</pubDate>
+      <description>福建莆田的油灯活动中，小光和同伴遭遇了诡异事件。深夜山路上的坟墓、看不见的黑影、神秘的幻觉……这群少年经历了怎样的恐惧？为何他们无法离开原地？最后又是谁救了他们？一起揭开这段惊心动魄的故事。
+
+02:10 惊悚山林之旅：孩子们遭遇灵异事件！
+
+04:11 无尽的恐惧：他们一动不动地站在原地，周围却有神秘的黑影存在！
+
+06:11 神秘山林中的失踪事件：神像和牌匾引发的恐怖谜团
+
+08:13 失踪的小伙伴：山上找到昏迷的他们，奇怪的事件发生了！
+
+10:23 微信公众号分享：小卡小卡的表姐故事引发的奇怪事件！
+
+12:24 诡异的生日派对：表姐的突然失忆与神秘孩子的存在
+
+14:25 那个不存在的弟弟：表姐的奇怪行为背后隐藏的真相
+
+16:41 「小玉的失踪」：表姐的痛哭引发的家庭纷争与神秘照片
+
+19:05 离奇的梦境与诡异的现实：小卡遭遇的奇怪事件
+
+21:29 童年回忆与神秘事件：小卡追寻真相的故事
+
+23:51 迷失的灵魂：一个男孩儿对失踪妹妹的绝望寻找
+
+26:15 录音中的怪异经历：风扇转动和神秘气息的诡异事件！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1c63VzXE2d.mp3" length="13780734" type="audio/mpeg"/>
+      <itunes:duration>00:28:43</itunes:duration>
     </item>
   </channel>
 </rss>
