@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:59:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1558,6 +1558,39 @@
 25:18 神秘小黄：三个孩子不可忽视的奇怪遭遇</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17SrUBBEvj.mp3" length="26075216" type="audio/mpeg"/>
       <itunes:duration>00:54:19</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」童年时期遭遇旋风追逐；邻家兄弟莫名反目；河中黑棺开出绿眸老者；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1TXrKBiEZQ</link>
+      <guid isPermaLink="false">dean-BV1TXrKBiEZQ</guid>
+      <pubDate>Sat, 10 Jan 2026 02:00:00 +0000</pubDate>
+      <description>分了好几次录制的，可能音色有些变化。请见谅！！！
+
+十岁那年，三个孩子偷钢管惹上邪风，弟弟惨死、兄弟反目、桥塌命悬一线……这究竟是巧合还是报应？
+
+02:01 三个孩子的冒险之夜：偷盗工地钢管事件的背后故事
+
+04:01 三位小学童的惊险经历：遭遇神秘旋风的恐怖袭击！
+
+06:01 神秘的旋风：小金和小伙伴们不可思议的冒险故事
+
+08:01 悲剧发生：小白惨遭车祸，兄弟俩陷入沉默与悲伤
+
+10:02 兄弟之间的奇怪变化：热水泼洒、背后突袭与金元宝的诡异行为
+
+12:05 突然消失的老人：迷失在记忆中的恐怖之旅
+
+14:06 古关村的传说：神秘的马虎出没引发的恐怖故事
+
+16:07 河水泛滥，村庄淹没，黑色棺材的神秘出现引发连锁反应
+
+20:09 真相的揭露：大军的遭遇引发的恐怖事件
+
+22:10 大军的恐怖遭遇：失踪的媳妇、诡异的棺材和恐怖的诈尸故事
+
+24:11 欢迎收听我们的节目！点击订阅，品味历史与今天的交织。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1TXrKBiEZQ.mp3" length="11875258" type="audio/mpeg"/>
+      <itunes:duration>00:24:44</itunes:duration>
     </item>
   </channel>
 </rss>
