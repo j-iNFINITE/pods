@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:26:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1835,6 +1835,37 @@
 24:10 发现奇迹的意外之旅：追寻宝贝的奇幻人生</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1zZ29BKExq.mp3" length="12277335" type="audio/mpeg"/>
       <itunes:duration>00:25:35</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」深夜搭车男子竟在逐渐变得膨胀；车内凭空出现黑白相片；疑似进入阴阳通道；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1XzScBEEX7</link>
+      <guid isPermaLink="false">dean-BV1XzScBEEX7</guid>
+      <pubDate>Sun, 30 Nov 2025 02:00:00 +0000</pubDate>
+      <description>深夜送餐上山，竟被“人”搭车下山？农家乐老板亲历殡仪馆怪事，越送越不对劲……你敢听吗？
+
+02:00 深夜惊魂：殡仪馆里的奇怪电话和幽灵般的敲击声！
+
+04:00 不可思议的遭遇：一个晚上，一场生死之间的较量！
+
+06:01 推车男子的身份之谜：黑夜中的神秘邂逅
+
+08:02 离奇的西装男：老于的遭遇与诡异事件！
+
+10:03 诡异的西装男人：山中冤魂的传说引发的恐怖事件！
+
+12:05 恶臭扑鼻，浮肿的脸庞，惊悚的袭击！老于家的诡异事件曝光！
+
+14:07 诡异事件引发的连锁反应：神秘照片、恐怖臭味与道士的干预
+
+16:09 神秘的地下通道：一个跑步者遭遇的奇怪经历！
+
+18:10 神秘地下通道：安静得诡异，还有人要带我回家？
+
+20:10 诡异的经历：中年男人的消失与车祸中的神秘相似之人
+
+22:11 男子在医院中的神秘邂逅！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1XzScBEEX7.mp3" length="11721867" type="audio/mpeg"/>
+      <itunes:duration>00:24:25</itunes:duration>
     </item>
   </channel>
 </rss>
