@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:13:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1713,6 +1713,27 @@
 27:29 无声的复仇：两个秤钩挂在门口，一家四口的悲剧故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ToBHBMEhE.mp3" length="14401825" type="audio/mpeg"/>
       <itunes:duration>00:30:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿的亲身经历；盲猜你会说我短，但我脸皮厚；鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1W3mzBNET6</link>
+      <guid isPermaLink="false">dean-BV1W3mzBNET6</guid>
+      <pubDate>Mon, 15 Dec 2025 02:00:00 +0000</pubDate>
+      <description>废弃敬老院深夜买绳的老太太，三天后接连有人上吊？酒店改建后更诡异——敲门声、白骨、消失的鬼影，真相究竟藏在哪？
+
+02:01 意想不到的客人：敬老院里的老太太离奇死亡事件引发的连锁反应
+
+04:02 敬老院风波：老太太、绳子和虐待事件的谜团
+
+06:02 敬老院背后的诡异事件，老人的子女揭露真相！
+
+08:04 神秘老太太的诡异行为，引发酒店的倒闭与白骨事件！
+
+10:04 敬老院里的秘密：一位老太太的离奇失踪与悲惨结局
+
+12:06 精彩故事完美收官，点击关注继续收听！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1W3mzBNET6.mp3" length="6242004" type="audio/mpeg"/>
+      <itunes:duration>00:13:00</itunes:duration>
     </item>
   </channel>
 </rss>
