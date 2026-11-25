@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:37:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3634,6 +3634,39 @@ AI给出的时间轴：
 22:16 恶臭与谜团：烧尸过程中的奇怪现象引发恐慌</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1b59gYQEev.mp3" length="11750288" type="audio/mpeg"/>
       <itunes:duration>00:24:29</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」山中邪物；溺水孩童瞬间消失；小镇失踪母女现身石壁内；腹中胎儿不翼而飞；网友投稿民间故事；独家投稿</title>
+      <link>https://www.bilibili.com/video/BV1ik9cYrE9t</link>
+      <guid isPermaLink="false">dean-BV1ik9cYrE9t</guid>
+      <pubDate>Fri, 28 Feb 2025 02:00:00 +0000</pubDate>
+      <description>东北小镇神秘森林藏着不为人知的秘密，一场意外改变了镇民平静的生活。山洞、失踪的孩子、诡异的人影……一系列离奇事件接连发生，让所有人陷入了恐惧。这片森林背后隐藏着什么？为何会有人消失无踪？让我们一起揭开这个令人毛骨悚然的故事背后的真相。
+
+02:10 神秘失踪：女孩儿和镇上的诡异事件之间的联系
+
+04:11 神秘失踪：女孩儿与母亲的离奇消失引发小镇恐慌
+
+06:14 神秘失踪：女孩儿母亲的诡异踪迹引发山村恐慌
+
+08:16 诡异的山洞谜团：女孩儿失踪背后的恐怖真相
+
+10:18 山中惊魂：诡异事件引发的恐怖连锁反应
+
+12:20 失踪的小女孩儿与诡异的树精：一个男人的恐怖遭遇
+
+14:21 二奎的遭遇：神秘的黑影与恐怖的追逐游戏
+
+16:25 神秘失踪：二奎和他媳妇儿的诡异遭遇
+
+18:42 二奎的踪迹：失踪事件引发的紧张搜索与绝望猜想
+
+21:03 诡异的树洞谜团：二奎的失踪与神秘的空心钻头
+
+23:22 兄弟钓鱼引发的诡异事件，惊心动魄的冒险之旅！
+
+25:43 神秘失踪：小镇上的诡异事件引发的连锁反应</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ik9cYrE9t.mp3" length="13483774" type="audio/mpeg"/>
+      <itunes:duration>00:28:05</itunes:duration>
     </item>
   </channel>
 </rss>
