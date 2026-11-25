@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:04:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -178,6 +178,37 @@
 22:18 诡异事件引发的连锁反应：一个不幸的故事结局</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Dunb6HEiZ.mp3" length="12485896" type="audio/mpeg"/>
       <itunes:duration>00:26:01</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」闲置房内的旋转舞者；车外有人假装我和男友；中元节撞飘实录；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1vxnn6BEYA</link>
+      <guid isPermaLink="false">dean-BV1vxnn6BEYA</guid>
+      <pubDate>Tue, 20 Oct 2026 02:00:00 +0000</pubDate>
+      <description>02:00 迷信与现实的碰撞：打破认知的疑惑
+
+04:02 神秘的租屋：诡异事件引发的恐慌与冒险
+
+06:04 突如其来的惊悚遭遇，小A狼狈逃离租屋
+
+08:05 【民间传说】神秘奶奶的教诲：小A的恐怖遭遇与超自然现象
+
+10:07 夜路驾驶遇到诡异事件，小A和男友的遭遇令人胆寒！
+
+12:09 男友神秘失踪，她车内被困，惊心动魄时刻来临
+
+14:09 黑夜中的恐怖邂逅：男友的神秘失踪与带状疱疹的诡异原因
+
+16:10 神秘事件揭秘：假男友的阴谋与复仇！
+
+18:11 深夜的争吵和失踪：媳妇儿的离奇行动让小A陷入恐慌
+
+20:12 媳妇儿的异常举动，小A的惊恐发现，家里进了陌生人？
+
+22:12 神秘事件中的失踪与幻觉：小A的遭遇让人不寒而栗
+
+24:16 八卦镜的神秘力量：小A和媳妇儿的超自然遭遇</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1vxnn6BEYA.mp3" length="13523898" type="audio/mpeg"/>
+      <itunes:duration>00:28:10</itunes:duration>
     </item>
   </channel>
 </rss>
