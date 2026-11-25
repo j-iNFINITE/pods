@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:31:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -438,6 +438,39 @@
 25:25 神秘失踪的湖水：当地人对事件的猜测与后续发展</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Vib96JE56.mp3" length="14160868" type="audio/mpeg"/>
       <itunes:duration>00:29:30</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」那晚我钓到一条“人鱼”；那人从楼梯缝隙里盯着我；海量烂鱼正口；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1i8gL6PEdi</link>
+      <guid isPermaLink="false">dean-BV1i8gL6PEdi</guid>
+      <pubDate>Thu, 13 Aug 2026 02:00:00 +0000</pubDate>
+      <description>退休大爷夜钓青鱼，竟钓起失踪老头？烟头、死鱼、铁栅栏里的诡异馈赠，是报恩还是索命？独居女孩深夜归家，灵棚旁猫眼里的人影又藏着什么秘密？
+
+02:00 惊喜之夜：老人的指引下，老A的钓鱼连杆儿之旅
+
+04:01 夜钓惊魂：杆子消失、老头儿神秘消失，鱼却异常安静
+
+06:02 诡异的夜间钓鱼经历：老头儿的神秘失踪与鱼的奇怪行为
+
+08:04 老头儿的消失之谜：一场令人震惊的失踪事件！
+
+10:04 意外的恩人：一个老头儿的神秘行动引发的连锁反应
+
+12:05 都市独居女孩的噩梦：陌生人深夜来访引发的恐怖事件
+
+14:06 单元楼里的惊险遭遇：陌生人深夜来访引发的恐慌事件
+
+16:07 菜市场里的恐怖遭遇：小李遭遇黑帽人的追踪
+
+18:14 黑夜中的惊悚追逐，小李的逃生之路！
+
+20:31 失踪的帽子：诡异事件引发的连锁反应
+
+22:47 逝者家属的突然出现：小李的遭遇背后的隐情揭秘
+
+25:05 意外背后的故事：小李的诡异经历与大师的解释</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1i8gL6PEdi.mp3" length="13924094" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
     </item>
   </channel>
 </rss>
