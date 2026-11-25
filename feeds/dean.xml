@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:15:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2756,6 +2756,15 @@
 22:22 女朋友的恐惧与男生的抉择：一个令人不安的民间故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hKTvzDEEt.mp3" length="12177860" type="audio/mpeg"/>
       <itunes:duration>00:25:22</itunes:duration>
+    </item>
+    <item>
+      <title>「灵骨完整版」不明骨做成手串；虐杀小狗、掀翻道士法坛、炸仙家堂口、撕唐卡；车顶符文光头男；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1P6TezzEwY</link>
+      <guid isPermaLink="false">dean-BV1P6TezzEwY</guid>
+      <pubDate>Wed, 11 Jun 2025 04:00:00 +0000</pubDate>
+      <description>重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！重置完整版！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1P6TezzEwY.mp3" length="35686614" type="audio/mpeg"/>
+      <itunes:duration>01:14:21</itunes:duration>
     </item>
   </channel>
 </rss>
