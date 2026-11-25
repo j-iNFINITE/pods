@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:10:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1121,6 +1121,37 @@
 24:15 欢迎关注我们的节目！请搜索“稗官野史”以找到我们的播客。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1kYXNBSEEx.mp3" length="12001064" type="audio/mpeg"/>
       <itunes:duration>00:25:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」植物人爷爷醒后只剩半年可活；窗帘盖住位看不见的人；山顶高校的风水秘密；网友投稿鬼故事；灵异故事</title>
+      <link>https://www.bilibili.com/video/BV1TawWziEeJ</link>
+      <guid isPermaLink="false">dean-BV1TawWziEeJ</guid>
+      <pubDate>Sat, 14 Mar 2026 06:19:30 +0000</pubDate>
+      <description>一段关于爱与承诺的真实故事：爷爷昏迷三年醒来，只求半年时光告别；另一则校园怪谈揭开被坟地包围的学校秘密。生死之间，人鬼之际，你相信命运有期限吗？
+
+02:04 植物人苏醒后的诡异经历：家人的困惑与爷爷的谜语
+
+04:06 植物人康复奇迹：爷爷隔天下午就叫家人分配财产了
+
+06:07 爷爷的遗产：奶奶的决定引发的争议与后果
+
+08:12 大学里的独特之处：被坟地包围的校园背后的故事
+
+10:12 神秘的妖风：学校宿舍中的奇怪事件引发热议
+
+12:13 黄楼诡异事件：窗帘儿背后隐藏的神秘力量！
+
+14:16 神秘的黄楼事件：学生们对抗蚊虫和黑色苔藓的恐怖挑战
+
+16:16 诡异事件揭秘：大学宿舍中的离奇死亡现象
+
+18:17 取而代之的青砖小楼：神秘力量与学校怪事的关联
+
+20:19 黄楼怪事与神秘祭坛：能量平衡与超自然现象的谜团
+
+22:21 新校门和足球场建设，足球场中圈做成太极图，学校的奇妙设计！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1TawWziEeJ.mp3" length="11525426" type="audio/mpeg"/>
+      <itunes:duration>00:24:01</itunes:duration>
     </item>
   </channel>
 </rss>
