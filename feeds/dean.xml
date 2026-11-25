@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:59:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2129,6 +2129,39 @@
 22:09 神秘符水的奇妙力量：一段令人震惊的故事终结了一个家庭的谜团。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1sRxNz3EYe.mp3" length="11320417" type="audio/mpeg"/>
       <itunes:duration>00:23:35</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」充气娃娃上竟贴着我睡觉时的照片；室友的五官全都是画上去的；辞职同事变成了虚影；网友投稿亲身经历；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV116sozUEKe</link>
+      <guid isPermaLink="false">dean-BV116sozUEKe</guid>
+      <pubDate>Sat, 25 Oct 2025 08:06:31 +0000</pubDate>
+      <description>终于搞定了一个，困蒙了，睡一会儿再弄另一个。大家请品鉴。
+
+02:02 小云的调职：从混日子到商业街的网吧，不一样的工作体验
+
+04:02 神秘的网吧：清洁阿姨、奇怪的留言和神秘的离职现象！
+
+06:03 神秘尖叫，惊悚网吧之夜：小丽的突然病态让人大惊失色！
+
+08:10 紧急情况下的消失与诡异复苏！
+
+10:54 突如其来的虚弱与恍惚：经理的到来解密真相
+
+13:37 神秘办公室：老板背后的牌位与香炉，惊悚事件曝光！
+
+16:20 惊悚化妆事件：小丽的妆容惊吓小云，导致他昏死过去
+
+19:05 诡异的化妆：小丽脸上化妆的原因令人毛骨悚然！
+
+21:49 诡异的梦中场景，小丽的诡异行为，暗示着什么？
+
+24:33 突如其来的恐怖：小丽的幻觉还是真实存在？
+
+27:16 办公室的可怕秘密：一张照片引发的连锁反应
+
+30:00 神秘网吧背后的诡异事件，孩子的姓氏改变背后隐藏的诡异故事！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV116sozUEKe.mp3" length="15718188" type="audio/mpeg"/>
+      <itunes:duration>00:32:45</itunes:duration>
     </item>
   </channel>
 </rss>
