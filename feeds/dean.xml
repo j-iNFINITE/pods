@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:02:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1591,6 +1591,39 @@
 24:11 欢迎收听我们的节目！点击订阅，品味历史与今天的交织。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1TXrKBiEZQ.mp3" length="11875258" type="audio/mpeg"/>
       <itunes:duration>00:24:44</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」家中供奉的青色神像被梦中之人鞭挞；爬上我脊背的黑影；他好像成功了!!!；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1FNrNBSEEQ</link>
+      <guid isPermaLink="false">dean-BV1FNrNBSEEQ</guid>
+      <pubDate>Fri, 09 Jan 2026 04:31:08 +0000</pubDate>
+      <description>久等！
+
+02:00 离奇事件频发！小朱的神秘离职背后的真相！
+
+04:01 突如其来的鬼压床，小朱的身体遭遇不可思议的诡异状态！
+
+06:02 神秘的吸力：一夜之间，小朱面临不可思议的遭遇！
+
+08:02 诚心供奉两个月，命运将逆转！小朱迎接他的崛起时刻！
+
+10:42 诡异的梦境与神秘存在：小朱的遭遇令人震惊！
+
+13:20 谜团解开：那个黑色的东西背后的真相
+
+16:04 蒙蔽了心智的赞同与不断的道歉：一场奇怪的夜晚即将来临
+
+18:44 超自然现象引发的恐怖经历：斑秃、疼痛与神灵的诅咒
+
+21:25 神秘老太太的预言，小朱的噩梦还是幸福预言？
+
+24:05 失去自我控制的恐怖梦境，小朱陷入无法逃脱的恐怖循环！
+
+26:47 神秘园中的可怕遭遇：一名男子的惊心动魄之旅
+
+29:27 迷失在时间的漩涡：一段离奇的家族故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FNrNBSEEQ.mp3" length="15449649" type="audio/mpeg"/>
+      <itunes:duration>00:32:11</itunes:duration>
     </item>
   </channel>
 </rss>
