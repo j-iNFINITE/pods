@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:01:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3171,6 +3171,46 @@
 24:19 谜团揭秘：古农家里发生的故事引发小江的疑惑</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1QT5qzVEgb.mp3" length="12760925" type="audio/mpeg"/>
       <itunes:duration>00:26:35</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」民国遗留诡异老宅疑似拘人魂魄；河道边的乘客；缺德软件引入神秘小村；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV1PbdmYREgb</link>
+      <guid isPermaLink="false">dean-BV1PbdmYREgb</guid>
+      <pubDate>Sat, 12 Apr 2025 02:00:00 +0000</pubDate>
+      <description>一座民国军官的老宅，古色古香却怪事连连。村民讲述的离奇经历，婴儿莫名哭泣、阴冷的气息、神秘的大蛇...这一切都让这座老宅笼罩着一层诡异的面纱。小任发小小林的一次探险，竟让他的生活彻底改变。这个故事里到底隐藏着什么秘密？听完你或许会有自己的答案。
+
+
+00:00-11:02 诡异老宅
+
+11:02-18:24 河道乘车人
+
+18:24 -23:44 误入神秘村庄
+
+
+
+02:09 神秘宅子的诡异事件：小林的离奇遭遇与白发苍苍的老人面孔
+
+04:12 夜幕下的失踪之谜：小林的消失引发的恐慌与调查
+
+06:13 神秘的失踪与诡异事件：小林的离奇遭遇引发恐慌
+
+08:15 神秘的老宅：小林的噩梦与超自然现象的解谜之旅
+
+10:18 梦中的老宅，新家的难题：一个不可思议的梦境引发的故事
+
+12:19 失踪的乘客：三姨夫的引诱与神秘男子的复仇
+
+14:19 迷失在雾中的恐怖之旅：一位男子的遭遇与逃生
+
+16:21 那个夜晚的幽灵脚印阿练恋的外卖配送引发的恐怖事件
+
+18:33 金融业务员的诡异经历：送外卖时遭遇广州幽灵村
+
+20:34 村庄中的诡异遭遇：那几个人的防护服与神秘疾病
+
+22:45 独家解密：稗官野史背后的奇闻趣事！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1PbdmYREgb.mp3" length="11396706" type="audio/mpeg"/>
+      <itunes:duration>00:23:45</itunes:duration>
     </item>
   </channel>
 </rss>
