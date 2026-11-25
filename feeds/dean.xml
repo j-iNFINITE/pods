@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:38:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:41:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1967,6 +1967,39 @@
 24:28 灵魂出窍与歌声的诱惑</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV12qCMBGETg.mp3" length="24573489" type="audio/mpeg"/>
       <itunes:duration>00:51:12</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」租客提桶跑路；房内惊现两具站立猫干；骨灰阵法；他想夺舍我们全家；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1F11XBaE61</link>
+      <guid isPermaLink="false">dean-BV1F11XBaE61</guid>
+      <pubDate>Sun, 09 Nov 2025 02:00:00 +0000</pubDate>
+      <description>老杨一家搬回曾被租客“提桶跑路”的旧房，诡异接连上演：死猫、玻璃碴、深夜人影……是幻觉还是另有隐情？租客消失四年，为何频频“现身”？
+
+02:01 神秘失踪：两口子的离奇消失引发猜疑，揭开惊人真相！
+
+04:02 异常事件频发！老杨家的神秘秘密曝光！
+
+06:02 神秘的厨房阴影：杨家遭遇窃贼还是遇到了不可思议的事件？
+
+08:03 争吵、狗、黑夜——神秘事件令人心惊胆战
+
+10:04 家中出现的奇怪事件，让老杨陷入恐慌与迷雾之中
+
+12:06 恶梦般的邂逅：神秘女人和巨大猫咪的威胁
+
+14:28 老杨家的离奇事件：媳妇儿突然变成木偶，两个孩子神秘失踪！
+
+16:52 突如其来的恐怖画面：家中出现的异常事件引发恐慌
+
+19:17 神秘符咒与猫咪的诡异现象，老杨的家庭遭遇令人毛骨悚然！
+
+21:43 神秘师傅的诡异行为，老杨家中的奇怪符咒是什么？
+
+24:06 神秘照片背后的诡异符号，老杨一家的厄运之谜
+
+26:33 神秘事件揭秘：老杨家的诡异经历让人毛骨悚然！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1F11XBaE61.mp3" length="13920959" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
     </item>
   </channel>
 </rss>
