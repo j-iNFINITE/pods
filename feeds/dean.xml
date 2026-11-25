@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:11:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -728,6 +728,39 @@
       <description>久等了</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1G5EC6tEMm.mp3" length="13496939" type="audio/mpeg"/>
       <itunes:duration>00:28:07</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」夭寿!剧本杀竟然玩到真的；全家轮流中邪唱小曲儿；无法救赎的同伴；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1pEE26HEao</link>
+      <guid isPermaLink="false">dean-BV1pEE26HEao</guid>
+      <pubDate>Wed, 10 Jun 2026 02:00:00 +0000</pubDate>
+      <description>玩剧本杀后，她和父母接连撞见穿戏服的诡异人影。是幻觉，还是真的惹上了不该惹的东西？
+
+ 剧本杀之旅：男女角色比例不协调，但惊喜体验让人难忘！
+
+神秘的废弃工厂：夜幕下隐藏的诡异事件！
+
+突如其来的幻觉？小迪的诡异经历让人不寒而栗！
+
+剧本杀游戏中的诡异经历：恶臭气味和戏曲声的恐怖现象
+
+诡异的戏曲声与神秘的陌生人：一个令人毛骨悚然的夜晚
+
+神秘的妆容和诡异的微笑：小迪的异常行为让父母陷入恐慌
+
+神秘的灵异事件：小迪的恐怖遭遇与宗教场所的解释
+
+小迪的暑假奇遇：神秘人影、剧本杀游戏和离谱的结局！
+
+男子变成女孩？诡异事件引发剧本杀店混乱！
+
+剧本杀后的离奇事件：小婷的异常行为与神秘男子的纠缠
+
+剧本杀店的神秘事件：小婷的失踪与男人的疯狂追寻
+
+神秘废弃工厂背后的诡异事件，唱戏行头和鞭子的奇怪发现！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1pEE26HEao.mp3" length="13560887" type="audio/mpeg"/>
+      <itunes:duration>00:28:15</itunes:duration>
     </item>
   </channel>
 </rss>
