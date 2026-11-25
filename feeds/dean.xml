@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:52:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2603,6 +2603,35 @@
 16:24 求关注！收藏！评论！一起探讨节目精彩内容！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1abMdzJEXG.mp3" length="8218742" type="audio/mpeg"/>
       <itunes:duration>00:17:07</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿亲身经历；奶奶的黄仙儿朋友；窃取寿命；二号岗亭魅影；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1iEM9zEEPG</link>
+      <guid isPermaLink="false">dean-BV1iEM9zEEPG</guid>
+      <pubDate>Sat, 12 Jul 2025 13:58:50 +0000</pubDate>
+      <description>这期节目讲了一个士兵在站岗时遇到的一系列诡异事件，还有关于一只黄鼠狼和一家人的奇遇故事。想听听站岗时遇到了什么？为什么士兵会觉得自己遇见了鬼？那只黄鼠狼身上又有何秘密等你来揭秘呢！
+
+02:10 哨兵的惊魂经历：遇到了一个神秘的小人儿？
+
+04:12 “岗亭鬼影”：一个令人毛骨悚然的岗亭中的幽灵故事。
+
+06:13 消失的钢盔：诡异事件引发的连锁反应
+
+08:16 意想不到的出马仙故事：二宝的奶奶与黄鼠狼的奇妙友谊
+
+10:16 道士的到来引发的神秘事件：大黄的失踪与神秘恢复
+
+12:17 大黄的道行恢复了！但奶奶却不知道，他还在隐秘地保护着他们
+
+14:17 奶奶的意外离世：九年前的预言还是真实发生的事情？
+
+16:17 神秘青年与奶奶的奇异遭遇，二宝的遭遇引发疑问！
+
+18:18 奶奶的诡异行为：一个神秘梦境的启示！
+
+20:19 约定时间：下周五同一时间，不见不散，拜拜！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iEM9zEEPG.mp3" length="9841886" type="audio/mpeg"/>
+      <itunes:duration>00:20:30</itunes:duration>
     </item>
   </channel>
 </rss>
