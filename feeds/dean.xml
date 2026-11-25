@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:06:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -702,6 +702,23 @@
 16:58 与心灵共舞，倾听那些隐藏在角落里的故事！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dr7H6vEmF.mp3" length="8518419" type="audio/mpeg"/>
       <itunes:duration>00:17:45</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」韩国人在越南的离奇遭遇；绛红色人形恶魔；巫师做法惨遭反噬；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV15vjF6TEer</link>
+      <guid isPermaLink="false">dean-BV15vjF6TEer</guid>
+      <pubDate>Thu, 18 Jun 2026 02:00:00 +0000</pubDate>
+      <description>大家好，欢迎收听本期稗官野史。
+
+本期给大家带来的故事，是由投稿人的一位韩国同学讲述的。
+
+故事中，这位同学的爷爷被迫前往越南雨林，并在雨林中见到了无法消灭的士兵。并且经过火烧之后，那些人影还变成了绛红色的人影，手中拿着绛红色的刀
+
+后续，他们是全军覆没，只有同学的爷爷侥幸逃脱，但也患上了严重的PTSD。
+
+可事情并没有就此结束，被遣送回国后，同学的爷爷又经历了一系列离奇恐怖的事情。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV15vjF6TEer.mp3" length="14958961" type="audio/mpeg"/>
+      <itunes:duration>00:31:10</itunes:duration>
     </item>
   </channel>
 </rss>
