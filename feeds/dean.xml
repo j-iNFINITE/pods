@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:44:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1427,6 +1427,39 @@
 30:33 诡异的家族命运：婚姻、死亡与超自然现象的纠缠</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1P2FmztEqi.mp3" length="16016401" type="audio/mpeg"/>
       <itunes:duration>00:33:22</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」那套没人穿的衣服自己在动；腐烂之人将我引出迷途；相反的真相；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1gQ61B2E3h</link>
+      <guid isPermaLink="false">dean-BV1gQ61B2E3h</guid>
+      <pubDate>Sat, 31 Jan 2026 10:45:46 +0000</pubDate>
+      <description>护林员深夜巡山，竟遇空衣追人、腐尸引路？一段真实又毛骨悚然的山中奇遇，揭开人性与执念的边界。你敢信，有些善意，来自另一个世界？
+
+02:00 两个孩子的爱情悲剧：干涉与自我了结的故事。
+
+04:01 山中迷失：护林员与神秘人影的追踪之旅
+
+06:01 神秘山林中的诡异衣服：程老的遭遇与解谜之旅
+
+08:02 诡异的山林遭遇，衣服和女尸的奇怪行为引发恐慌！
+
+10:02 迷失在山林中的求生之旅：老程与神秘女人的相遇
+
+12:04 神秘女人的求助：一场离奇的失踪事件引发的追踪之旅
+
+14:07 神秘的护林房之旅：一位老人的离奇遭遇
+
+16:08 深山护林房的诡异事件，老马和小猴儿的失踪引发恐慌！
+
+18:09 真相的揭秘：两个大人之间的复杂关系与失踪之谜
+
+20:11 神秘失踪：两人的命运之谜与家人的无尽痛苦
+
+22:12 右肩膀托管人的恐惧：父亲的反应与梦境中的女人
+
+24:15 网易云音乐热门播客推荐：探索丰富音乐世界，发现不一样的乐趣！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1gQ61B2E3h.mp3" length="11856868" type="audio/mpeg"/>
+      <itunes:duration>00:24:42</itunes:duration>
     </item>
   </channel>
 </rss>
