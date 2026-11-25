@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:04:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1081,6 +1081,15 @@
 24:42 女儿被杀，真相曝光：一场血脉喷张的犯罪故事！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1mg9NBbEvc.mp3" length="12961325" type="audio/mpeg"/>
       <itunes:duration>00:27:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」深山乡村索命竹音；恶人还需狠人治；拦路的硅胶霹雳娇娃；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1YRXTBVE64</link>
+      <guid isPermaLink="false">dean-BV1YRXTBVE64</guid>
+      <pubDate>Sat, 28 Mar 2026 02:00:00 +0000</pubDate>
+      <description>「稗官野史」深山乡村索命竹音；恶人还需狠人治；拦路的硅胶霹雳娇娃；网友投稿鬼故事；民间故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1YRXTBVE64.mp3" length="12966340" type="audio/mpeg"/>
+      <itunes:duration>00:27:01</itunes:duration>
     </item>
   </channel>
 </rss>
