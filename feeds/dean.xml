@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:48:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:52:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2067,6 +2067,39 @@
 29:19 失踪的老人，诡异的宅子，神秘的和尚与秦家的诅咒</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1mH15BeEE8.mp3" length="15362086" type="audio/mpeg"/>
       <itunes:duration>00:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」那晚，我们遇到的黑色轿子会吃人；罕见门神像与无心之举成就的善果；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV14m1KByESp</link>
+      <guid isPermaLink="false">dean-BV14m1KByESp</guid>
+      <pubDate>Fri, 31 Oct 2025 07:01:41 +0000</pubDate>
+      <description>三个北方小伙在南方古城撞邪，门神不对、街道突变、黑轿追人，一夜后两人重病失业，真相至今成谜。你信这世上有些东西不能乱碰吗？
+
+02:00 神秘门神像：北方人三兄弟的奇妙遭遇
+
+04:02 诡异的塑像谜团：他们是谁？为什么在海边？
+
+06:05 神秘巷子的真相：海鲜烧烤店背后的恐怖变化！
+
+08:06 神秘电话引发的离奇事件，小沈他们被困电话两端！
+
+10:07 奇怪的黑暗物体：民宿老板的变化和神秘声音引发的恐慌
+
+12:09 巷子后面的惊悚秘密：黑色轿子的诡异行动！
+
+14:09 诡异的轿子怪物：小沈的惊险遭遇与解脱之旅
+
+16:31 突发事件：小沈等人的失踪引发恐慌，民宿老板与众乡亲展开紧急搜索
+
+18:52 迷信与现实的交织：阿旺二世的神奇鸟传说
+
+21:15 迷失乡村的诡异事件：小强和小财的离奇失踪与神秘水坑的谜团
+
+23:35 哥俩的愤怒与家庭矛盾：父母行为引发的连锁反应
+
+25:56 神秘事件背后的故事：小沈的遭遇与吊坠儿的来历</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV14m1KByESp.mp3" length="13614595" type="audio/mpeg"/>
+      <itunes:duration>00:28:22</itunes:duration>
     </item>
   </channel>
 </rss>
