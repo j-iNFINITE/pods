@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:38:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2479,6 +2479,39 @@
 28:44 神秘的岷江之谜：银子、阵法和灵魂的纠缠</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ooaszAEke.mp3" length="15109639" type="audio/mpeg"/>
       <itunes:duration>00:31:29</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」他们用头在玻璃围了一个圈；“可爱的”半身乘车；三蹦子奇遇；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1EFhYznEVk</link>
+      <guid isPermaLink="false">dean-BV1EFhYznEVk</guid>
+      <pubDate>Sat, 30 Aug 2025 03:54:21 +0000</pubDate>
+      <description>今天的故事有点特别，来自B站网友分享的大毛和小毛的诡异经历。兄弟俩开货车途中遇怪事，先是大雾突现，再是车上出现了奇怪的身影，最后竟然看到半身人。更令人震惊的是，车斗里装着的东西竟然是一些零碎骨头！这个故事背后隐藏着什么秘密？听完后你会怎么想？别忘了评论区说出你的看法！
+
+02:02 隧道后的惊悚发现：兄弟俩的车斗中隐藏着诡异的四条腿！
+
+04:02 四条腿、半身人和车斗上的惊悚场景，大毛和小毛的遭遇令人震惊！
+
+06:02 神奇现象！汽车突然停下，周围浓雾瞬间散去，兄弟俩遭遇了什么？
+
+08:03 意外的货主，惊悚的发现：他们拉的货究竟是什么？
+
+10:04 神秘箱子背后的诡异事件，兄弟俩的遭遇令人震惊！
+
+12:05 夜路行车，老段的诡异经历！三蹦子买卖干了一年，他发现了什么？
+
+14:07 夜总会背后的奇怪事件，老段冒险接单引发的恐怖之旅
+
+16:07 诡异的村子之旅：接单后遭遇迷失与恐惧
+
+18:09 惊心动魄的夜路旅程：老段与鬼魂的遭遇
+
+20:10 离奇事件揭秘：老段的遭遇引发村庄惊悚之旅
+
+22:12 神秘事件揭秘：夜总会聚餐后的失踪与一氧化碳中毒
+
+24:12 约定时间：下周五同一时间，不见不散，拜拜！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1EFhYznEVk.mp3" length="11729808" type="audio/mpeg"/>
+      <itunes:duration>00:24:26</itunes:duration>
     </item>
   </channel>
 </rss>
