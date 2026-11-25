@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:09:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1647,6 +1647,39 @@
 14:05 失去声音的告别：小å的故事引发的谜团</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Qii5BDEfX.mp3" length="7440502" type="audio/mpeg"/>
       <itunes:duration>00:15:30</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」电梯门口的通道突发异变；浑身缠满绷带的女人挡住去路；无良先生致家破人亡；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1LCBWBREWU</link>
+      <guid isPermaLink="false">dean-BV1LCBWBREWU</guid>
+      <pubDate>Tue, 23 Dec 2025 01:30:00 +0000</pubDate>
+      <description>电脑城深夜停电，维修师傅独乘货梯竟撞见诡异白衣女人？老楼旧事、离奇死亡，真相藏在绷带与霉味之中。你信吗？
+
+02:00 商场难题快速解决者：老胡的不凡之处
+
+04:02 电梯故障引发的恐怖事件：神秘女人的出现让人心惊胆战
+
+06:04 电梯惊魂：一个女人的可怕表情吓坏男子的瞬间
+
+08:05 失去的记忆与恐怖重生：老胡的可怕遭遇
+
+10:07 离奇事件背后隐藏的诡异工厂，小莎的探险揭秘之旅！
+
+12:09 神秘废弃宅子中的惊险探险：小沙的遭遇让人不寒而栗！
+
+14:09 诡异宅子背后的悲剧：一个家庭的离奇命运！
+
+16:18 小狗儿引发的灾难：一个家庭的命运之战
+
+18:37 命运的转折点：老海家的灾难与先生的解救之道
+
+20:56 邪祟附体，小海陷入危险！老海两口子的选择引发争议
+
+23:17 惨烈的凶案：大海的冷酷行动引发的连锁反应
+
+25:35 失踪的儿子与神秘的宅子：一个令人毛骨悚然的故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1LCBWBREWU.mp3" length="13440724" type="audio/mpeg"/>
+      <itunes:duration>00:28:00</itunes:duration>
     </item>
   </channel>
 </rss>
