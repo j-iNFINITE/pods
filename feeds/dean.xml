@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:29:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -815,6 +815,15 @@
       <description>迪恩敬上，诸君请品鉴~</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ExLU6yEoz.mp3" length="14068917" type="audio/mpeg"/>
       <itunes:duration>00:29:19</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」家中神像大显神威；小孙子半夜坐在鱼缸一角啃鱼；漂浮的布偶；网友投稿鬼故事；灵异故事</title>
+      <link>https://www.bilibili.com/video/BV1uZLC67EVu</link>
+      <guid isPermaLink="false">dean-BV1uZLC67EVu</guid>
+      <pubDate>Wed, 20 May 2026 03:11:00 +0000</pubDate>
+      <description>久等了，如果没有其他问题的话明天还有。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1uZLC67EVu.mp3" length="17175607" type="audio/mpeg"/>
+      <itunes:duration>00:35:47</itunes:duration>
     </item>
   </channel>
 </rss>
