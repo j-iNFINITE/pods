@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:28:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -405,6 +405,39 @@
 24:17 午夜惊魂：神秘老人的恐怖入侵</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1KJhK6kEQj.mp3" length="13752939" type="audio/mpeg"/>
       <itunes:duration>00:28:39</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」小镇少年脑袋栽入淤泥；捞尸人无故暴毙湖中；亲人欲将我拖入深渊；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1Vib96JE56</link>
+      <guid isPermaLink="false">dean-BV1Vib96JE56</guid>
+      <pubDate>Mon, 17 Aug 2026 02:00:00 +0000</pubDate>
+      <description>南方小镇有个神秘圆湖，水下真有村子？孩子溺亡、捞尸人离奇暴毙，皮肤泛绿、双眼突睁……传闻越传越邪，可湖边农田又不能荒着。这湖底到底藏着什么？
+
+02:01 诡异的湖水：四个怪异人类的消失与传说之谜
+
+04:02 失踪的孩子：乐乐的诡异遭遇与老张家的谜团
+
+06:03 诡异事件频发，老张家的小儿离奇失踪又神秘现身！
+
+08:06 深夜的湖边谜团：两个专业人士的诡异聚会引发的关注
+
+10:08 神秘铜盒引发的惊悚事件，隐藏在小镇的恐怖秘密！
+
+12:09 诡异的湖底之旅：铜盒子背后隐藏的诡异现象引发镇上恐慌
+
+14:10 诡异的湖畔传说：生物游动和失踪的家畜引发镇上恐慌
+
+16:11 诡异事件背后的家庭秘密，竹子的诅咒还是母亲的失踪？
+
+18:29 意外失踪：小男孩在湖边找到诡异脸孔的石头
+
+20:48 诡异的湖畔传说：居民们谈起了那个女人的诡异存在
+
+23:06 超自然现象？一个小村庄的诡异事件揭秘！
+
+25:25 神秘失踪的湖水：当地人对事件的猜测与后续发展</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Vib96JE56.mp3" length="14160868" type="audio/mpeg"/>
+      <itunes:duration>00:29:30</itunes:duration>
     </item>
   </channel>
 </rss>
