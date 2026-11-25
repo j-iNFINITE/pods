@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:35:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -471,6 +471,39 @@
 25:05 意外背后的故事：小李的诡异经历与大师的解释</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1i8gL6PEdi.mp3" length="13924094" type="audio/mpeg"/>
       <itunes:duration>00:29:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」潮汕小伙后续经历；倒悬的人首；办公室撞鬼经历；网友投稿亲身经历；鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1WqMf6hEJm</link>
+      <guid isPermaLink="false">dean-BV1WqMf6hEJm</guid>
+      <pubDate>Wed, 05 Aug 2026 02:00:00 +0000</pubDate>
+      <description>写字楼空荡荡，六层午休惊魂——窒息、掐脖、神秘老太与小孩现身？监控却啥也没拍到。真相是灵异还是另有隐情？
+ 
+03:31 公司宿舍楼六楼的诡异事件，一位员工的亲身经历！
+ 
+05:31 小碧的惊人自述：半夜惊魂，老太太多元化攻击！
+ 
+07:31 监控盲区？老太太和孩子阿飘的神秘出没引发大厦惊魂！
+ 
+09:31 阴阳先生的揭秘：大厦里的诡异事件背后的故事
+ 
+11:31 阴阳先生的诅咒与命运扭转：佳佳的神秘经历续集
+ 
+13:31 命运的转折点：他在职场中的挑战与成长
+ 
+15:40 厕所的惊魂时刻：一个男人的恐怖经历！
+ 
+17:40 厕所镜子里的陌生人：一个吓得无法逃脱的惊魂故事
+ 
+20:00 意外的惊喜：失而复得的香火让佳佳得以平安回家
+ 
+22:20 诡异事件追踪：他在夜间行驶时遭遇的奇怪遭遇！
+ 
+24:20 深夜回家的恐怖遭遇：电梯故障、神秘女人和惊悚楼梯间
+
+26:50 倒退者的命运：神秘女人的追踪与消失</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1WqMf6hEJm.mp3" length="14055333" type="audio/mpeg"/>
+      <itunes:duration>00:29:17</itunes:duration>
     </item>
   </channel>
 </rss>
