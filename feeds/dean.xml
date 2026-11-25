@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:47:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -930,6 +930,37 @@
 22:23 失而复得：孩子的安全回归与家庭的温暖</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1J9oSBUEKc.mp3" length="11732107" type="audio/mpeg"/>
       <itunes:duration>00:24:26</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」父母把弟弟的骨盒刨了出来；纸人塑体整形；蹲在桌子上的双头虚影在喝酒；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1gEoaBSEWc</link>
+      <guid isPermaLink="false">dean-BV1gEoaBSEWc</guid>
+      <pubDate>Thu, 23 Apr 2026 03:33:49 +0000</pubDate>
+      <description>02:00 工地惨案：崔老二惨遭害死，家人无尽的复仇之路
+
+04:03 诡异事件曝光！崔家三兄弟的阴谋在深夜工地揭秘！
+
+06:03 夜晚的工地谜团：纸人诡异行动引发惊悚事件！
+
+08:04 黑夜中的诡异遭遇：包工头儿与纸人之间的恐怖较量！
+
+10:38 诡异事件频发，崔家工地究竟隐藏了什么秘密？
+
+13:19 噩梦之夜：纸人惊现，崔氏兄弟的诡异行径引发惊悚事件！
+
+15:59 黑夜中的诡异追逐：崔老大与神秘纸人的较量！
+
+18:39 惊心动魄的夜间遭遇：崔老大的恐怖经历
+
+21:17 诡异事件引发的连锁反应：兄弟之间的复杂关系与神秘事件的解答
+
+23:57 诡异事件中的失踪与死亡：崔家的谜团
+
+26:38 神秘事件背后隐藏的恐怖真相：崔家的悲剧命运
+
+29:18 冤死的崔老二：家族悲剧与超自然事件的交织</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1gEoaBSEWc.mp3" length="15361668" type="audio/mpeg"/>
+      <itunes:duration>00:32:00</itunes:duration>
     </item>
   </channel>
 </rss>
