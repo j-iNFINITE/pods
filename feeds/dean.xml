@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:06:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1624,6 +1624,29 @@
 29:27 迷失在时间的漩涡：一段离奇的家族故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FNrNBSEEQ.mp3" length="15449649" type="audio/mpeg"/>
       <itunes:duration>00:32:11</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」无人隔壁突现口哨声；那双红鞋在靠近我；爷爷的葬礼；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1Qii5BDEfX</link>
+      <guid isPermaLink="false">dean-BV1Qii5BDEfX</guid>
+      <pubDate>Thu, 01 Jan 2026 02:54:15 +0000</pubDate>
+      <description>女校深夜厕所惊现红衣绣花鞋，隔间无人却吹口哨？校服、小脚、无声开门……是幻觉还是真有“她”？
+
+02:01 迷失在厕所的恐怖：小诗遭遇神秘事件！
+
+04:02 厕所惊魂：一只红色绣花鞋的诡异存在！
+
+06:02 神秘的厕所之旅：小师和小凤的恐怖遭遇
+
+08:04 学校里的邪灵事件：小诗的噩梦经历与母亲的解释
+
+10:04 厕所见鬼、钢琴声，还有那个失踪的结局！学校里的诡异故事
+
+12:05 惊心悲剧！小A遭遇离奇事件，遗体告别之际发生的恐怖事件！
+
+14:05 失去声音的告别：小å的故事引发的谜团</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Qii5BDEfX.mp3" length="7440502" type="audio/mpeg"/>
+      <itunes:duration>00:15:30</itunes:duration>
     </item>
   </channel>
 </rss>
