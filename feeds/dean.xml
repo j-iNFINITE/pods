@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:54:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -83,6 +83,39 @@
 16:09 诡异的租房经历：邻居的诡秘死亡引发的恐怖故事！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hm4p6XEgL.mp3" length="9098755" type="audio/mpeg"/>
       <itunes:duration>00:18:57</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」工地黑影误认我是他儿子；认鬼做父；恶毒继母将继子锤杀；两只鸡爪引发的虐杀血案；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1Nvxf6yEaV</link>
+      <guid isPermaLink="false">dean-BV1Nvxf6yEaV</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+      <description>贪玩溜进烂尾工地，保安追来，队友撤了。黑暗只剩冷风和一个名字。夜里床尾黑影反复出现，他为何动不了？真相藏在哪里？
+
+02:01 冒险进入停工工地，小伙伴们的鬼抓人游戏引发的危机！
+
+04:03 夜幕下的失踪小伙伴儿：小江的惊险遭遇与失踪之谜
+
+06:04 黑夜中的工地迷雾：一个孩子的恐惧之旅
+
+08:06 睡梦中的恐怖危机：小江遭遇神秘影子的折磨！
+
+10:38 一个孩子的恐惧之夜：影子的威胁与心灵之间的奇妙联系
+
+13:18 怪事儿背后的真相：小江经历的恐怖事件揭秘
+
+15:58 神秘男人的执念与选择：一场关于命运的奇妙经历
+
+18:38 离谱的鸡爪引发的灭顶悲剧：山西运城凶杀案背后的故事
+
+21:16 家暴受害者变身施暴者：朱红霞的黑暗蜕变之路
+
+23:57 人性的扭曲与悲剧：朱红霞对强强的惨案背后隐藏的真相
+
+26:38 痛心命案背后的人性扭曲：周红霞的疯狂报复与自毁人生
+
+29:17 令人无法理解的庭审：凶手的卖惨求饶与家人的冷漠态度</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Nvxf6yEaV.mp3" length="16294131" type="audio/mpeg"/>
+      <itunes:duration>00:33:57</itunes:duration>
     </item>
   </channel>
 </rss>
