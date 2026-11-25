@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:17:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2327,6 +2327,15 @@
 24:15 神秘怪物的威胁：小C与精神病院的危险之旅</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1EfHMzhEkP.mp3" length="12337103" type="audio/mpeg"/>
       <itunes:duration>00:25:42</itunes:duration>
+    </item>
+    <item>
+      <title>「闲聊吹水」回答各位朋友的一些疑问，与一些神志不清的吐槽！</title>
+      <link>https://www.bilibili.com/video/BV1q7HKzDEHB</link>
+      <guid isPermaLink="false">dean-BV1q7HKzDEHB</guid>
+      <pubDate>Fri, 03 Oct 2025 02:00:00 +0000</pubDate>
+      <description>大家好我是迪恩，今天聊聊生活趣事、回答粉丝问题，还顺便说说自己名字和头像的由来。咱们一起探讨下灵异故事背后的故事，还有那些让人哭笑不得的经历。你可能也会好奇：录这些节目对我有啥影响？运势低要不要听灵异故事？希望我的分享能让你更了解我，也欢迎大家留言交流！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1q7HKzDEHB.mp3" length="12964046" type="audio/mpeg"/>
+      <itunes:duration>00:27:00</itunes:duration>
     </item>
   </channel>
 </rss>
