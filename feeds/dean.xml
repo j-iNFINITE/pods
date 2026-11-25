@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:34:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1901,6 +1901,39 @@
 25:40 一家人的平静生活，背后隐藏的诡异事件！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1m7SjBUEMQ.mp3" length="13441351" type="audio/mpeg"/>
       <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>「网梦奇缘完整版」 面基网友的吊诡经历；山中巧遇山神宫；诚心膜拜获安全护送；悬浮魅影使众人惹疾；网友投稿亲身经历；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1B3CMBFExr</link>
+      <guid isPermaLink="false">dean-BV1B3CMBFExr</guid>
+      <pubDate>Sun, 16 Nov 2025 05:00:00 +0000</pubDate>
+      <description>小铁的故事开始了，一个河北小伙儿从高中到大学的心路历程和网游生涯。他与室友沉迷于魔兽世界，直到一次旅行改变了他们的命运。深夜里旅馆的敲击声、神秘的室友行为，这一切究竟隐藏着什么秘密？故事中的细节令人细思极恐，你想知道真相吗？
+
+02:06 魔兽世界与大学生活：
+
+04:08 网游情缘：两个游戏版本的开荒之路，一场青春的冒险之旅
+
+06:09 虚拟世界里的爱情：网恋在那个年代的真实故事
+
+08:09 土豪家女与小雨：一个普通校园故事的不凡之处！
+
+10:10 奇怪的声音：大牛的特殊癖好引发的谜团
+
+12:12 奇怪的共振：床头墙传来的异常声音引发恐怖猜想
+
+14:41 在游戏中迷失自我：大牛的奇怪梦境和令人震惊的真相
+
+17:07 噩梦惊醒，小娟儿的神秘消失与恐怖梦境！
+
+19:33 却认为小娟儿有问题，诡异事件在山中发生！
+
+22:01 生死之间：露营地的恐怖事件引发的连锁反应
+
+24:28 山里惊现怪异事件！大牛的惨叫声引发谜团，梦中的紫黑色女人到底是谁？
+
+26:55 神秘失踪：小娟的帐篷里究竟发生了什么？</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1B3CMBFExr.mp3" length="28801982" type="audio/mpeg"/>
+      <itunes:duration>01:00:00</itunes:duration>
     </item>
   </channel>
 </rss>
