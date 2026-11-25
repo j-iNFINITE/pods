@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:50:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -961,6 +961,33 @@
 29:18 冤死的崔老二：家族悲剧与超自然事件的交织</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1gEoaBSEWc.mp3" length="15361668" type="audio/mpeg"/>
       <itunes:duration>00:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」社工奇遇；二楼上的虚幻人影；拜完土地庙回来后，我的手上全是血；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1HkQ5BrEvR</link>
+      <guid isPermaLink="false">dean-BV1HkQ5BrEvR</guid>
+      <pubDate>Wed, 15 Apr 2026 02:36:56 +0000</pubDate>
+      <description>短点就短点吧，嘿嘿嘿！
+
+社工赵姐接到老人投诉臭味，两次上门查无异常，直到第三次破门而入——发现死者竟就是那位“投诉人”？另一个孩子拜土地庙后手上莫名染血，深夜哭声逼近窗边……这些真实经历，你敢听完吗？
+
+02:00 租房纠纷引发的离奇事件：老人的坚持与神秘臭味儿
+
+04:01 绝望与希望的交织：一位老人的坚持与臭味的谜团
+
+06:04 神秘臭味与奇怪声音：探秘失踪房屋的诡异事件！
+
+08:05 神秘事件：老人的尸体惊现家中，引发恐慌与好奇
+
+10:06 消失的影子与光线，神秘事件引发的连锁反应
+
+12:09 神秘的夜晚，表兄弟们的遭遇与恐怖发现！
+
+14:11 噩梦中的恐怖邂逅：一个孩子的惊险经历
+
+16:18 通俗、生动、幽默，历史故事焕发新生！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1HkQ5BrEvR.mp3" length="8255104" type="audio/mpeg"/>
+      <itunes:duration>00:17:12</itunes:duration>
     </item>
   </channel>
 </rss>
