@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:55:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2100,6 +2100,35 @@
 25:56 神秘事件背后的故事：小沈的遭遇与吊坠儿的来历</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV14m1KByESp.mp3" length="13614595" type="audio/mpeg"/>
       <itunes:duration>00:28:22</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」女飘or女仆？烟雾组成的字母与数字；横穿殡葬队的后果；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1sRxNz3EYe</link>
+      <guid isPermaLink="false">dean-BV1sRxNz3EYe</guid>
+      <pubDate>Sun, 26 Oct 2025 07:00:57 +0000</pubDate>
+      <description>02:01 烧香祭拜隔天神奇痊愈，大舅舅的诡异行为引出惊人真相！
+
+04:04 命运的转折点：屠夫的突然跪地与大舅舅的悲剧故事
+
+06:04 温暖的威士忌与失落的灵魂：一个酒吧的服务员与一个陌生人的互动
+
+08:05 神秘事件揭秘：电厂工人惨死背后的谜团！
+
+10:05 奇怪的店奇妙的事：探秘一家店的诡异事件！
+
+12:06 神秘的玻璃隔间：店里的奇异现象与老板的突然离职
+
+14:06 宿舍里的黑影传说：一个特殊体质的学生的恐怖经历
+
+16:07 厕所里的呼唤：小A的恐怖遭遇！
+
+18:08 迷失的黑夜：神秘女人的诡异行动引发校园轰动！
+
+20:09 姐姐的诡异遭遇：竹林中的神秘事件引发恐怖连锁反应
+
+22:09 神秘符水的奇妙力量：一段令人震惊的故事终结了一个家庭的谜团。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1sRxNz3EYe.mp3" length="11320417" type="audio/mpeg"/>
+      <itunes:duration>00:23:35</itunes:duration>
     </item>
   </channel>
 </rss>
