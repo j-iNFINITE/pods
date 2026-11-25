@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:38:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1354,6 +1354,41 @@
 02:00:27 神秘的花费之谜：阿香的遭遇与母亲的真相</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hvcYzaEwp.mp3" length="63107445" type="audio/mpeg"/>
       <itunes:duration>02:11:28</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」祖宅挖出了四口石棺；家中老人莫名同时离世；父亲深夜敲门扬言要把孩子扔下去；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1P2FmztEqi</link>
+      <guid isPermaLink="false">dean-BV1P2FmztEqi</guid>
+      <pubDate>Tue, 10 Feb 2026 04:12:34 +0000</pubDate>
+      <description>各位久等了。
+
+祖宅翻修竟挖出诡异小棺材，三兄弟同日离奇去世？家族灾祸背后藏着什么秘密？
+
+02:00 家族的兴衰与神秘小棺材：老房子拆除后的惊奇发现
+
+04:00 神秘石棺的真相：农村建筑地基下的诡异发现
+
+06:01 神秘力量引发的离奇事件：小卉家的翻盖工程引发的奇怪现象
+
+08:18 家族命运的转折点：三位老人的神秘失踪与先生的安慰
+
+11:07 诡异的离奇死亡：三兄弟的神秘失踪与道士的超度法事
+
+13:52 诡异事件揭秘：三个未碎的陶土盆儿引发恐慌！
+
+16:40 诡异的家事：丧家后的奇怪事件引发的恐怖连锁反应
+
+19:26 诡异的敲门声与扭曲的人脸：恐怖事件令人心惊胆战
+
+22:14 生死之间：一场突发事件引发的连锁反应
+
+24:59 诡异事件频发，家族成员相继离奇消失！
+
+27:47 家族的诅咒与宗教镇压：小惠儿的家族遭遇神秘事件！
+
+30:33 诡异的家族命运：婚姻、死亡与超自然现象的纠缠</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1P2FmztEqi.mp3" length="16016401" type="audio/mpeg"/>
+      <itunes:duration>00:33:22</itunes:duration>
     </item>
   </channel>
 </rss>
