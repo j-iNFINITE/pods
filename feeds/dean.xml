@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:45:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -570,6 +570,23 @@
 还有一集，嘿嘿嘿！！！封面名字下集才能点题！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1V8g162E4c.mp3" length="16443343" type="audio/mpeg"/>
       <itunes:duration>00:34:15</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」潮汕小伙广州中秋撞邪实录；那片迷雾好像遮住了我的眼睛；出窍状态下身体可控；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1PcKN6zEWM</link>
+      <guid isPermaLink="false">dean-BV1PcKN6zEWM</guid>
+      <pubDate>Sat, 18 Jul 2026 09:45:49 +0000</pubDate>
+      <description>各位朋友下午好，然后明天应该还有一集黑森林，就这样！ 
+
+2022 年中秋，一名潮汕青年广州与老友相聚。出门买酒途中突降浓雾，短短几十米的路程瞬间迷失，对着街边祭拜的树木躬身行礼后，迷雾才尽数散去。
+
+一行人当晚阴差阳错住进酒店顶层尾房，洗澡时耳边充斥各色哭声，水温骤然冰冷。走出浴室，同行几人面无表情齐刷刷望向他，一通来电响起，诡异景象才随之消散。
+
+后续青年突发高烧前往医院候诊，恍惚间见到一位蓝衣老人，特意叮嘱切勿踏入地铁站。时隔两月家中遭遇变故，深夜意识恍惚意外割伤手指，外出求医全程怪事接连发生。
+
+住院期间有老者前来讨烟，次日护工告知，那位老人当晚便已离世。青年本崇尚科学、敬畏民俗，接连几段无法解释的离奇经历，也让他往后很长一段日子诸事坎坷。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1PcKN6zEWM.mp3" length="11040802" type="audio/mpeg"/>
+      <itunes:duration>00:23:00</itunes:duration>
     </item>
   </channel>
 </rss>
