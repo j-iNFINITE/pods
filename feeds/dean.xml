@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:28:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2404,6 +2404,39 @@
 24:13 神秘的狮子雕像：工厂中的诡异存在！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1xZnMzMEEg.mp3" length="12691741" type="audio/mpeg"/>
       <itunes:duration>00:26:26</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友分享家中的奇异往事；墓坑里惊现陌生棺材；舅舅隐藏的秘密；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV13VWgzZEfp</link>
+      <guid isPermaLink="false">dean-BV13VWgzZEfp</guid>
+      <pubDate>Fri, 19 Sep 2025 04:12:24 +0000</pubDate>
+      <description>从边边角角里抠出来一个稿子，这周只能单更了。诸君请见谅！
+
+一位网友分享了关于大舅的神秘故事，从不婚到突然去世，背后隐藏着一段令人毛骨悚然的经历。一场婚礼上的诡异事件，让人心惊胆战。为什么大舅终身未娶？葬礼上又发生了什么奇异的事情？这个故事里藏着怎样不可思议的秘密？一起来揭开真相吧！
+
+02:00 突入其来的恐怖：一氧化碳中毒事件引发的谜团
+
+04:00 新娘子的神秘液体：一场惊心动魄的婚礼谜团
+
+06:01 结婚当天，惊悚的发现：新娘子的头颅不见了！
+
+08:02 村庄惊现无头尸体，引发恐慌与好奇，命运的转折点降临
+
+10:03 新娘子的悲剧命运：一场离奇的家族命运扭转之战！
+
+12:05 恍恍惚惚的梦中情人：小姑父的诡异命运！
+
+14:05 血海深仇：新郎父亲的复仇之路
+
+16:05 杀人仇、木头脑袋：一个学生的复仇故事！
+
+18:06 诡异的婚礼：新娘的复仇计划是否能成功？
+
+20:06 神秘的棺材：小常大舅的诡异行为背后隐藏的真相
+
+22:08 突如其来的离别：家庭成员的突然离世让人心痛不已</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV13VWgzZEfp.mp3" length="11384156" type="audio/mpeg"/>
+      <itunes:duration>00:23:43</itunes:duration>
     </item>
   </channel>
 </rss>
