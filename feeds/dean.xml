@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:36:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -833,6 +833,39 @@
       <description>木有简介！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV11j5g6GEAw.mp3" length="16515650" type="audio/mpeg"/>
       <itunes:duration>00:34:24</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」自搞玄学导致气运磁场降低；宿舍中爬行的黑色婴儿；误入平行世界？；网友投稿亲身经历；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1tSRCBgELP</link>
+      <guid isPermaLink="false">dean-BV1tSRCBgELP</guid>
+      <pubDate>Wed, 06 May 2026 02:00:00 +0000</pubDate>
+      <description>宿舍接连倒霉，半夜传来拖椅声，六爻占出“有东西”？衣服洗出诡异血迹，道观求符后真相竟是……你敢信吗？
+
+02:01 突如其来的恐怖声音：困扰宿舍的神秘事件！
+
+04:02 夜晚的惊奇邂逅：小婴儿的诡异来访引发的恐怖事件
+
+06:02 噩梦中的恐怖场景再现：小婴儿爬床引发惊悚
+
+08:03 怪异的道观之旅：血迹与超自然现象的谜团
+
+10:06 不可思议的实习经历：小志探索工厂中的神秘事件
+
+12:29 诡异工厂冒险记：诡异事件接连发生！
+
+15:01 诡异的宿舍经历：紫色旗袍女人的神秘出现与消失
+
+17:32 占卜与命运：小志的预言引发的惊险遭遇
+
+20:02 失落的世界：探寻消失的街道和虚幻的桥上影子
+
+22:32 诡异工厂之旅：同学们遭遇超自然现象的挑战
+
+25:02 诡异事件引发的离奇失踪：小志的恐怖遭遇
+
+27:34 「失踪的员工」：一个恐怖故事的惊人结局！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1tSRCBgELP.mp3" length="15255503" type="audio/mpeg"/>
+      <itunes:duration>00:31:47</itunes:duration>
     </item>
   </channel>
 </rss>
