@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:54:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -988,6 +988,39 @@
 16:18 通俗、生动、幽默，历史故事焕发新生！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1HkQ5BrEvR.mp3" length="8255104" type="audio/mpeg"/>
       <itunes:duration>00:17:12</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」儿子坐在神龛上让我拜拜他；口含观音掌中金球；男友母亲入土两年肉身不腐；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1yqQABLEzT</link>
+      <guid isPermaLink="false">dean-BV1yqQABLEzT</guid>
+      <pubDate>Sat, 11 Apr 2026 02:00:00 +0000</pubDate>
+      <description>小孩探险废弃烂尾楼，踢翻神秘雕像后行为诡异，观音像竟莫名开裂？一场假葬礼能否骗过缠身之物？真相令人脊背发凉。
+
+02:01 诡异事件引发恐慌：观音像神秘失踪，孩子竟成了“妖怪”？
+
+04:02 A家的神秘事件：观音像、金色珠子和持续发烧
+
+06:03 神秘的废弃楼房：孩子们的探险之旅引发的恐怖事件！
+
+08:03 神秘的雕像与孩子们的冒险：进入烂尾楼，迷失森林，解开诡异事件的谜团
+
+10:24 诡异的烂尾楼探险：解决小A困境的最后机会
+
+13:02 黑与A的关联：一场意外的厂爆炸引发的连锁反应
+
+15:38 邪门儿发烧与神秘梦境：小薇的遭遇令人毛骨悚然！
+
+18:14 梦游中的恐怖遭遇：架子上的陌生人和床边的阴影
+
+20:52 诡异的回家经历：小A发现男友家中的灵异现象
+
+23:28 神秘的棺材：迁坟背后的诡异事件！
+
+26:03 电梯奇遇：神秘楼层与恐怖街景之间的恐怖连接
+
+28:39 神秘电梯经历：一场关于阴阳交界之地的奇幻之旅</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1yqQABLEzT.mp3" length="15840859" type="audio/mpeg"/>
+      <itunes:duration>00:33:00</itunes:duration>
     </item>
   </channel>
 </rss>
