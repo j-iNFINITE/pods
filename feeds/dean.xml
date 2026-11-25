@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:30:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1866,6 +1866,41 @@
 22:11 男子在医院中的神秘邂逅！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1XzScBEEX7.mp3" length="11721867" type="audio/mpeg"/>
       <itunes:duration>00:24:25</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」观影过后我好像被盯上了；家中动物集体失常；八哥被拔毛后折断关节；狗遭遇车祸；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1m7SjBUEMQ</link>
+      <guid isPermaLink="false">dean-BV1m7SjBUEMQ</guid>
+      <pubDate>Fri, 28 Nov 2025 09:11:14 +0000</pubDate>
+      <description>emm，没有稿子咯。选了一片最早期被ban掉的稿子，应该有很多人都没有听过。
+
+大年初六看完电影，总觉被人盯着，回家后猫狗异常、电梯惊现诡异眼睛，宠物接连出事，八哥离奇惨死，后备箱竟传来笑声……这一切是巧合还是另有隐情？
+
+02:00 恐怖电梯之旅：回家途中发生的诡异事件！
+
+04:01 家里养的猫狗竟然有异于寻常的表现，小冉的家里发生了什么？
+
+06:02 突如其来的狗灾：一只狗被撞后的急救与拯救
+
+08:03 “神秘的八哥：聪明绝顶的宠物让家人陷入恐怖之中！”
+
+10:05 神秘的八哥之死：家中怪异事件的最新发展！
+
+12:08 诡异的笑声：家人陷入恐慌，神秘存在困扰家中！
+
+14:09 突如其来的幽灵惊吓，一家人逃离酒店度过凶险之夜
+
+16:19 突如其来的邪灵入侵，他们一家人的命运将何去何从？
+
+18:39 诡异的符咒：家人遭遇神秘生物的跟踪和攻击！
+
+20:59 救星现身？小冉他们一家的出路竟然在山西的一座古老寺庙！
+
+23:19 超自然事件背后的真相揭秘：地藏菩萨的神像为何流泪？
+
+25:40 一家人的平静生活，背后隐藏的诡异事件！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1m7SjBUEMQ.mp3" length="13441351" type="audio/mpeg"/>
+      <itunes:duration>00:28:00</itunes:duration>
     </item>
   </channel>
 </rss>
