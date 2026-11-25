@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:01:13 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -149,6 +149,35 @@
 24:15 诡异的怪物传说：村庄中的神秘事件与恐怖谜团</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iuxe6sEJh.mp3" length="13441351" type="audio/mpeg"/>
       <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」天花上的白色裸女骑在了我的身上；卧室房门无人自开；打开衣柜后我失去了意识；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1Dunb6HEiZ</link>
+      <guid isPermaLink="false">dean-BV1Dunb6HEiZ</guid>
+      <pubDate>Sat, 24 Oct 2026 02:00:00 +0000</pubDate>
+      <description>租房一切正常，直到深夜异响不断。天花板爬下白色女人，喊他妈妈，还吻他。噩梦与现实交织，门外砸门声响起——那个东西，到底是什么？
+
+02:02 突然消失的声音与恐怖遭遇：无神论者经历的离奇事件
+
+04:03 恐怖之夜：中年妇女的诡异行动引发的恐怖事件
+
+06:05 噩梦中的恐怖遭遇：小A的遭遇引发的奇怪反应和奇怪梦境
+
+08:07 他的困倦问题：咖啡、和站立办公都无效！
+
+10:09 噩梦的困扰：女友梦到神秘女人，究竟发生了什么？
+
+12:10 噩梦成真：女人闯入卧室引发的恐慌与冲突
+
+14:12 女友惊魂时刻：神秘事件引发的恐怖结局！
+
+18:15 诡异的客人：亲戚的神秘解释
+
+20:17 神秘阿飘的遭遇：迷失在阴森世界的诡异之旅
+
+22:18 诡异事件引发的连锁反应：一个不幸的故事结局</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Dunb6HEiZ.mp3" length="12485896" type="audio/mpeg"/>
+      <itunes:duration>00:26:01</itunes:duration>
     </item>
   </channel>
 </rss>
