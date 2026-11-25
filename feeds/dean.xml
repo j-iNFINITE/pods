@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:02:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2698,6 +2698,15 @@
 26:15 录音中的怪异经历：风扇转动和神秘气息的诡异事件！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1c63VzXE2d.mp3" length="13780734" type="audio/mpeg"/>
       <itunes:duration>00:28:43</itunes:duration>
+    </item>
+    <item>
+      <title>「双生老妪完整版」她“它”跑到我家撒了一泡尿；正道者甘堕邪道；梦中法界骨草髅花；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1nNKDzCEQG</link>
+      <guid isPermaLink="false">dean-BV1nNKDzCEQG</guid>
+      <pubDate>Fri, 27 Jun 2025 03:30:00 +0000</pubDate>
+      <description>重置完整版！！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1nNKDzCEQG.mp3" length="23239162" type="audio/mpeg"/>
+      <itunes:duration>00:48:25</itunes:duration>
     </item>
   </channel>
 </rss>
