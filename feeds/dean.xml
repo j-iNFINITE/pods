@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>迪恩_Dean</title>
+    <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
+    <description>迪恩_Dean</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 25 Nov 2026 16:31:32 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>迪恩_Dean</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>「稗官野史」午夜喝生水的怪人；一级头救我狗命；那些人后脑上全是脸；网友投稿亲身经历；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1g6y8zYEnK</link>
+      <guid isPermaLink="false">dean-BV1g6y8zYEnK</guid>
+      <pubDate>Sat, 21 Nov 2026 03:56:16 +0000</pubDate>
+      <description>02:00 工作室的诡异经历：深夜的洗手间声响和陌生人的存在
+
+04:02 奇怪的水声和消失的男子：小艾的奇幻经历
+
+06:03 诡异的水声和臭味：小艾的困扰与发现
+
+08:03 神秘味道的来源：小艾的追踪与发现
+
+10:04 神秘异味：小艾的困惑与三楼的神秘死亡
+
+14:06 三楼的臭味与死亡：一个群演的恐怖经历
+
+16:08 午夜时分的诡异剧组：阿翔的亲身经历！
+
+18:10 剧组收工后发生的恐怖事件，群演一夜之间全部消失！
+
+20:10 惊悚片拍摄现场的恐怖事件，群演遭遇幽灵场景！
+
+22:11 穿越山林的惊险之旅：幽灵、头盔和幸存者的秘密
+
+24:12 神秘救援：山上的好阿飘救了一条小命</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1g6y8zYEnK.mp3" length="12130004" type="audio/mpeg"/>
+      <itunes:duration>00:25:16</itunes:duration>
+    </item>
+  </channel>
+</rss>

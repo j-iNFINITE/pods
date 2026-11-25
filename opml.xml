@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Podcasts" title="Podcasts">
+      <outline type="rss" text="迪恩_Dean" title="迪恩_Dean" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" htmlUrl="https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK"/>
       <outline type="rss" text="诡话人言无图版" title="诡话人言无图版" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_310711896.xml" htmlUrl="https://space.bilibili.com/310711896/lists/9283853?type=season"/>
     </outline>
   </body>
