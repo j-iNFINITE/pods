@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:00:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1050,6 +1050,37 @@
 20:10 神秘的佛牌和失踪的金项链：一个令人惊奇的发现！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV12w9gBgEru.mp3" length="10561403" type="audio/mpeg"/>
       <itunes:duration>00:22:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」空寂无人走廊的神秘脚步声；怪楼一层住户皆为奇怪人家；耳语者破案；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1mg9NBbEvc</link>
+      <guid isPermaLink="false">dean-BV1mg9NBbEvc</guid>
+      <pubDate>Fri, 03 Apr 2026 02:24:03 +0000</pubDate>
+      <description>02:00 男生宿舍的诡异事件，小吉的画作业生涯与鬼神之谜！
+
+04:03 宿舍午夜敲门事件：神秘脚步声引发的恐怖故事
+
+06:04 神秘的敲门声：三号楼的闹鬼事件引发的连锁反应
+
+08:06 神秘的三号楼：毕业生的恐怖回忆与社交软件上的诡异请求
+
+10:08 阳台上的怪异遭遇：三号楼的神秘气息与幽灵邂逅
+
+12:10 神秘的三号楼：女生自杀事件与男生宿舍的诡异事件！
+
+14:11 神秘的家属院儿：二十八号楼的奇怪之处！
+
+16:12 二十八号楼的神秘事件：邻居之间的秘密和个人隐私的边界
+
+18:12 神秘的二十八号楼：流动人口、失踪事件与奇怪的氛围
+
+20:15 那栋邪性大楼的诡异秘密：小吴家庭的恐怖命运！
+
+22:39 高中集训时的恐怖故事：一个最有话语权的人的离奇遭遇
+
+24:42 女儿被杀，真相曝光：一场血脉喷张的犯罪故事！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1mg9NBbEvc.mp3" length="12961325" type="audio/mpeg"/>
+      <itunes:duration>00:27:00</itunes:duration>
     </item>
   </channel>
 </rss>
