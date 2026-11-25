@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:59:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -650,6 +650,33 @@
 33:10 错乱的手机与诡异的咚咚声：小A的恐怖遭遇！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dmMe62E9X.mp3" length="18240985" type="audio/mpeg"/>
       <itunes:duration>00:38:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」废弃酒店偶遇黑毛怪物；衣服反穿；邻居贪吃触犯禁忌，家中妻儿突生异状；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1ovMt6hEh7</link>
+      <guid isPermaLink="false">dean-BV1ovMt6hEh7</guid>
+      <pubDate>Wed, 08 Jul 2026 02:00:00 +0000</pubDate>
+      <description>02:16 神秘酒店的诡异存在，小群的冒险揭示真相！
+
+04:37 恐怖来袭：神秘生物现身，引发惊悚危机！
+
+06:57 恐怖沙发背后的怪物：一场超越想象的恐怖之旅
+
+09:04 神秘酒店的怪异现象，乘客和司机的惊悚遭遇！
+
+11:10 神秘的出租车之旅：小群的遭遇与疑问
+
+13:15 神秘的蛇皮袋：老李家的诡异事件揭秘！
+
+15:34 古怪的媳妇，恐怖的厨房：老李面临离奇事件的挑战！
+
+17:35 诡异事件引发的离奇命运！老李一家的遭遇惊人揭秘！
+
+19:43 神秘的蛇仙显灵：老李家的诡异经历
+
+21:49 神秘的蛇胆疮：老李的诡异经历与社区的传闻</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ovMt6hEh7.mp3" length="12163232" type="audio/mpeg"/>
+      <itunes:duration>00:25:20</itunes:duration>
     </item>
   </channel>
 </rss>
