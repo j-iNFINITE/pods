@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:55:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2632,6 +2632,39 @@
 20:19 约定时间：下周五同一时间，不见不散，拜拜！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iEM9zEEPG.mp3" length="9841886" type="audio/mpeg"/>
       <itunes:duration>00:20:30</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿民间故事；友人奇遇两则；午夜哨塔的磨牙声；租屋奇遇；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1Fe3EzAEuP</link>
+      <guid isPermaLink="false">dean-BV1Fe3EzAEuP</guid>
+      <pubDate>Sat, 05 Jul 2025 02:00:00 +0000</pubDate>
+      <description>今晚的稗官野史有点儿特别小白与叶子的经历让你毛骨悚然两个故事发生在广东小镇一个奶茶店门口出现的神秘黑影和深夜祠堂外的诡异三人组还有当兵时一号哨塔下的磨牙声与白色人影你想知道更多吗听我慢慢道来
+
+02:08 神秘女人的出现：一场令人毛骨悚然的恐怖经历
+
+04:09 夜晚的神秘祠堂：三个人的奇怪队形和摩托车手的惊险遭遇
+
+06:10 遭遇神秘事件！小白在黑夜中看到了什么？
+
+08:13 “神秘的铁窗之旅：新兵在夜晚的巡逻中遇到了什么？”
+
+10:15 哨塔之谜：小K的恐怖经历与疑惑解答
+
+12:16 电话里的磨牙声与哨塔下的白色人影，让人不寒而栗！
+
+14:28 枪击后的消失，恐惧达到巅峰！哨兵的神秘遭遇！
+
+16:53 军旅生涯中的恐怖遭遇：阿明的失踪与惊悚磨牙声
+
+19:17 神秘声音的焦急告急：阿明与高草地的恐怖遭遇！
+
+21:42 诡异的房子里发生的奇怪事件，女友遭遇鬼压床，他们想搬家却经济不允许。
+
+24:08 男友的诡异经历：鬼压床、小猫惊吓，家里闹鬼了！
+
+26:33 诡异的梦境：老头儿的出现与床头上奇怪的牙印</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Fe3EzAEuP.mp3" length="13923049" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
     </item>
   </channel>
 </rss>
