@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:38:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1934,6 +1934,39 @@
 26:55 神秘失踪：小娟的帐篷里究竟发生了什么？</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1B3CMBFExr.mp3" length="28801982" type="audio/mpeg"/>
       <itunes:duration>01:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>「印尼诡事完整版」友人家深夜的神秘吟唱，我可能被做局了；隐藏的真相；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV12qCMBGETg</link>
+      <guid isPermaLink="false">dean-BV12qCMBGETg</guid>
+      <pubDate>Fri, 14 Nov 2025 11:00:00 +0000</pubDate>
+      <description>职场新人小天被派往印尼子公司，却遭遇前所未有的排挤。正当他孤立无援时，本地同事小黄伸出了友谊之手。然而一次偶然的乡下之旅，小天却经历了惊悚一夜，神秘现象让他心有余悸。这背后究竟隐藏着什么秘密？听完这个故事，你会不会也有类似的经历想要分享呢？
+
+02:04 异乡人的温暖援助：小黄在财务科的热心帮助与背后的故事
+
+04:04 意外的鬼压床经历：小天在小黄家的恐怖之夜
+
+06:05 突如其来的超自然经历：压床、铜锣声与陌生人的谜团
+
+08:05 神秘声音的解谜之旅：小天儿的身体失控与头部凹坑的出现
+
+10:07 诡异的女人头颅：小天儿的遭遇与惊悚梦境
+
+12:10 那个晚上，鬼压床持续了一个小时，他害怕极了！
+
+14:10 村庄里的秘密冲突：小黄和村长的争吵引发的震动
+
+16:12 鬼压床的恐怖经历：小天儿无法动弹的恐怖故事
+
+18:13 小天儿的遭遇：被鬼压床后发生的奇异事件
+
+20:17 突如其来的恐惧：一男一女的诡异存在和吟唱声引发的连锁反应
+
+22:17 灵魂出窍的恐怖经历：小天在另一个世界与自己对话
+
+24:28 灵魂出窍与歌声的诱惑</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV12qCMBGETg.mp3" length="24573489" type="audio/mpeg"/>
+      <itunes:duration>00:51:12</itunes:duration>
     </item>
   </channel>
 </rss>
