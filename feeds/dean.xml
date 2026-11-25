@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:16:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1734,6 +1734,39 @@
 12:06 精彩故事完美收官，点击关注继续收听！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1W3mzBNET6.mp3" length="6242004" type="audio/mpeg"/>
       <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」延续四代的家族诅咒；众阿飘委托我更换错别字墓碑；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1wHmRBCEKN</link>
+      <guid isPermaLink="false">dean-BV1wHmRBCEKN</guid>
+      <pubDate>Sun, 14 Dec 2025 02:00:00 +0000</pubDate>
+      <description>又是延期的一周，抱歉啦。最近又忙，状态又不是很好，身体也不太舒服。然后最近的稿子也不太理想，能符合情况的太少了。本来想鸽的，但还是不想让大家失望。
+
+02:01 墓地业务的艰辛与挑战：一家人的努力与坚持
+
+04:02 紧急求援：碑文错乱、命名失误，墓园陷入混乱！
+
+06:03 深夜的墓园更换任务：隐秘的世仇背后的真相！
+
+08:04 吃饭喝酒后发生的诡异事件：墓园里的失踪之人
+
+10:05 梦中的折磨与现实的麻烦，小熊面对家人的责备和恐惧
+
+12:06 托梦还愿：家中离去的亲人托梦告知来龙去脉，引发惊人故事！
+
+14:09 家族的诅咒：小尹的爷爷和太爷的悲剧命运
+
+16:32 命运的循环：爷爷、父亲和自己的命运交织在一起
+
+18:54 失踪的父亲与神秘的黄鼠狼：一个孩子的恐惧与勇敢求索
+
+21:17 神秘的大祭司和孩子的命运：一段扑朔迷离的旅程
+
+23:38 噩梦中的怪异经历：孩子的奇异形态和惊悚的遭遇
+
+26:00 迷雾中的真相：小尹身上的诡异事件揭秘！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1wHmRBCEKN.mp3" length="13626716" type="audio/mpeg"/>
+      <itunes:duration>00:28:23</itunes:duration>
     </item>
   </channel>
 </rss>
