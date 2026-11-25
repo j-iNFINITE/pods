@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:20:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1767,6 +1767,41 @@
 26:00 迷雾中的真相：小尹身上的诡异事件揭秘！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1wHmRBCEKN.mp3" length="13626716" type="audio/mpeg"/>
       <itunes:duration>00:28:23</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」头可以旋转180°的人；我家被人做成了困瓢笼；山中奇遇诡异鳞片无性人；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1UP2ZBZEiC</link>
+      <guid isPermaLink="false">dean-BV1UP2ZBZEiC</guid>
+      <pubDate>Mon, 08 Dec 2025 02:00:00 +0000</pubDate>
+      <description>录到一半突然鼻塞，声音上瞬间发生了变化，惆怅~
+
+深夜归家撞见“人”转头，一家三口被邪局困住，真相竟是熟人设局？玄学师傅揭穿：这不是撞鬼，是有人拿命练手！
+
+02:01 文先生的遭遇：回家路上的可怕经历与符水疗法的惊人效果
+
+04:03 师傅的托梦和阿飘的诡异存在，让这个家庭陷入恐慌！
+
+06:04 梦中惊吓，阿飘吓阻玄学从业者，求助者家中出现邪乎事！
+
+08:06 文先生家中的阿飘困局：死人纠纷与风水布局的纷争
+
+10:06 游方先生的布局与阿飘的突然离开：一个令人疑惑的事件结局
+
+12:08 邪修作恶的故事：石头下滑引发的惊险事件与邪恶阴谋
+
+14:10 助手小A的责任：在荒凉项目中的紧急任务！
+
+16:10 夜幕中的陌生人：声音、脚步声与恐怖的追逐
+
+18:10 突如其来的挑战：小A追逐神秘人，揭秘展厅内的恐怖事件！
+
+20:11 神秘生物的威胁：一个小男孩的恐怖经历
+
+22:13 身体无恙，心有隐痛——一宗离奇事件的谜团
+
+24:13 精彩节目推荐：大观野史播客，历史故事揭开真相！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UP2ZBZEiC.mp3" length="12003362" type="audio/mpeg"/>
+      <itunes:duration>00:25:00</itunes:duration>
     </item>
   </channel>
 </rss>
