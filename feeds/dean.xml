@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:08:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3253,6 +3253,51 @@
 24:33 故事讲完了，内容丰富，喜欢的话请给个一键三连！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1EcdLY9Eva.mp3" length="12195624" type="audio/mpeg"/>
       <itunes:duration>00:25:24</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」六岁哥哥冲撞“没脸儿”；美丽哑女的悲惨遭遇；未曾消失的羁绊；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV16JZQYPEQe</link>
+      <guid isPermaLink="false">dean-BV16JZQYPEQe</guid>
+      <pubDate>Sat, 05 Apr 2025 02:00:00 +0000</pubDate>
+      <description>今天聊聊我的近况与焦虑，还有两个灵异故事。先说说上周因身体不适和装修噪音导致断更，分享了拖延症困扰及克服过程。接着带来两个故事：一是关于小虎兄弟遇见的神秘事件；二是小浩经历女友去世后出现幻听幻视的故事。生活中的意外和心理状态变化引人深思，你会怎么面对呢？
+
+时间轴：
+
+00:00-02:56 preface 
+
+02:56-11:41 悲惨哑女
+
+11:41-19:26 阴阳契
+
+19:26-23:17 一些看法和一个小故事
+
+23:17-24:00 END
+
+超级时间轴：
+
+02:05 超越常规的超能力：双胞胎兄弟的心灵感应之旅
+
+04:06 夜幕下的诡异小镇，小虎遭遇了什么？
+
+06:09 悲惨的秘密：哑女的遭遇与大虎的复仇
+
+08:11 哑女的悲剧：一场意外还是预谋的凶案？
+
+10:12 哑女的突然消失：小虎家庭的神秘事件揭秘！
+
+12:13 爱情的残酷：大学生的突然离世与未婚夫的悲痛之旅
+
+14:14 梦中情人的离去与阿飘的纠缠：一个精神疾病患者的恐怖经历
+
+16:15 “神秘的蓝绿色裙子：合租室友和住户的奇怪遭遇”
+
+18:16 为生死的问题烦恼吗？这个故事或许能给你答案
+
+20:16 梦中的已故亲人：一场令人惊喜的重逢之旅！
+
+22:16 珍惜眼前人，别让离别后的生活一片空虚！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV16JZQYPEQe.mp3" length="11521037" type="audio/mpeg"/>
+      <itunes:duration>00:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
