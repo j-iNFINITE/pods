@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:43:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -899,6 +899,37 @@
 29:16 邪性佛像背后的诡异事件，我哥到底在做什么？</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hSRLBiEko.mp3" length="15361455" type="audio/mpeg"/>
       <itunes:duration>00:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」恶王爷or好神明？；赶走彩蝙等于赶走财富；烛火之路与巨大斗笠人影；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1J9oSBUEKc</link>
+      <guid isPermaLink="false">dean-BV1J9oSBUEKc</guid>
+      <pubDate>Mon, 27 Apr 2026 02:00:00 +0000</pubDate>
+      <description>村里邪庙灵验背后藏玄机，修行人梦中斗法竟与现实同步？露营夜遇山魈、深山撞见彩光蝙蝠……这些真实经历，是巧合还是另有隐情？
+
+02:01 梦境中的王爷，实际的庙柱事件：小A的遭遇与揭秘
+
+04:01 王爷的诅咒与庙会的传说：一段神秘的故事终结者遗忘的过去。
+
+06:01 夜晚的噩梦：野营帐篷中的神秘脚步声引发的恐慌
+
+08:03 黑夜中的幽灵来访：小吉和媳妇儿的恐怖遭遇！
+
+10:16 诡异的蝙蝠：小弟的家乡村里传说的精怪现身了！
+
+12:16 诡异的蝙蝠之谜：邪性的东西真的存在吗？
+
+14:17 命运的捉弄：工厂倒闭、家庭破碎，那只蝙蝠为何如此诡异？
+
+16:19 离开人世的瞬间：舅妈的突然离去与投稿人的经历
+
+18:19 农村惊现影子怪异现象，年轻人的恐惧与求生欲望
+
+20:20 逃离村子的恐怖旅程：黑夜中的幽灵追逐
+
+22:23 失而复得：孩子的安全回归与家庭的温暖</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1J9oSBUEKc.mp3" length="11732107" type="audio/mpeg"/>
+      <itunes:duration>00:24:26</itunes:duration>
     </item>
   </channel>
 </rss>
