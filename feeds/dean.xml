@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:03:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -677,6 +677,31 @@
 21:49 神秘的蛇胆疮：老李的诡异经历与社区的传闻</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ovMt6hEh7.mp3" length="12163232" type="audio/mpeg"/>
       <itunes:duration>00:25:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿鬼故事；不学无术青年赌场被借运；两只鬼做的一条龙服务；互拼刺刀？；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1dr7H6vEmF</link>
+      <guid isPermaLink="false">dean-BV1dr7H6vEmF</guid>
+      <pubDate>Sat, 27 Jun 2026 12:18:15 +0000</pubDate>
+      <description>两个赌徒夜闯诡异赌场，赢钱后却莫名输光，深夜又被纸扎人抱进垃圾堆——他们到底碰上了什么？
+
+02:12 命运的捉弄：
+
+04:16 美女与输赢：一场赌博中的纷争与命运转折点
+
+06:23 赌瘾发作，他们输光了所有的钱，前途堪忧！
+
+08:34 意外邂逅：在城中村的黑暗交易中寻求刺激
+
+10:40 神秘楼梯口的诡异遭遇，两个人会经历怎样的惊险？
+
+12:47 邪术害人！两个年轻人在夜店迷失自我，竟遭遇不可思议的邪灵附身！
+
+14:54 迷失纸人世界：两个荒唐人的悲剧故事！
+
+16:58 与心灵共舞，倾听那些隐藏在角落里的故事！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dr7H6vEmF.mp3" length="8518419" type="audio/mpeg"/>
+      <itunes:duration>00:17:45</itunes:duration>
     </item>
   </channel>
 </rss>
