@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:24:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -372,6 +372,39 @@
 悲剧依旧如期上演。有些流传在黑土地上的老规矩，或许值得敬畏。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Xu4f6sEiL.mp3" length="14836917" type="audio/mpeg"/>
       <itunes:duration>00:30:55</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」旅游途中入住诡异民宿，我遗失了一部分记忆；租屋发生的那些怪事；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1KJhK6kEQj</link>
+      <guid isPermaLink="false">dean-BV1KJhK6kEQj</guid>
+      <pubDate>Tue, 25 Aug 2026 02:00:00 +0000</pubDate>
+      <description>乌镇民宿惊魂夜：便宜房背后藏着白衣老头？灵魂出窍、诡异长廊、兄弟反目……一段被抹去的记忆，揭开后竟指向不祥之物。有些地方，真的不能随便住。
+
+02:02 迷失的旅途：恐怖楼梯背后的诡异事件！
+
+04:03 衣柜里的怪异老人：一个让人毛骨悚然的诡异经历
+
+06:04 恐怖梦境中的失去记忆，阿泽和柜子里的老头儿的诡异存在让我心慌不止！
+
+08:05 友情的边界：当失望变成绝望，友谊是否会终结？
+
+10:06 兄弟间的纷争：从小到大的情谊究竟有多脆弱？
+
+12:08 迷失在记忆中的恐怖之旅：乌镇之旅引发的诡异事件
+
+14:09 迷失的午休：神秘声音在民宿房间响起
+
+16:10 深夜的谜团：家中惊现的奇怪声音和消失的门缝
+
+18:12 怪异的老人、诡异的声响：一段神秘的夜晚之旅！
+
+20:12 午夜凶铃？老头儿的诡异行为引发惊悚事件！
+
+22:13 惊悚之夜：陌生老人的诡异行径引发的恐怖事件
+
+24:17 午夜惊魂：神秘老人的恐怖入侵</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1KJhK6kEQj.mp3" length="13752939" type="audio/mpeg"/>
+      <itunes:duration>00:28:39</itunes:duration>
     </item>
   </channel>
 </rss>
