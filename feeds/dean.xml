@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:26:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1288,6 +1288,37 @@
 54:29 阴阳婚礼：女孩儿带来的神秘队伍消失了！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1bWciziEMC.mp3" length="28536160" type="audio/mpeg"/>
       <itunes:duration>00:59:27</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」六楼失足跌落的小偷来我家了；学生预见老师惨状；见过那台车的人都要被开除；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV1xrZWBREmh</link>
+      <guid isPermaLink="false">dean-BV1xrZWBREmh</guid>
+      <pubDate>Sat, 21 Feb 2026 02:00:00 +0000</pubDate>
+      <description>深夜爬楼的小贼摔死后，整栋楼开始被敲窗；怀孕女教师离奇惨死，宿舍竟成灵堂。这些真实经历，你敢听吗？
+
+02:00 诡异的拍窗户声音：六楼的恐怖事件引发的连锁反应
+
+04:01 神秘的拍窗户声音：小九家中发生的诡异事件揭秘
+
+06:01 神秘事件：窗户上的血影子引发的恐怖故事！
+
+10:03 噩梦的开端：一位女学生不可思议的遭遇！
+
+12:04 悲剧的结局：韩老师因极端封建思想骨灰不得归家
+
+14:05 私人加油站的诡异事件：一个十八岁少年的恐怖经历
+
+16:05 加油站谜团：红色轿车与神秘女人的失踪之谜
+
+18:05 致命的爱情骗局：一场车祸背后隐藏的复杂关系案
+
+20:06 值夜班背后的恐怖真相：红色轿车的诡异行为令人惊悚
+
+22:06 怪异的加油事件：究竟隐藏了什么？
+
+24:12 诡异事件频发，三家人的命运在加油站交织！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1xrZWBREmh.mp3" length="12690905" type="audio/mpeg"/>
+      <itunes:duration>00:26:26</itunes:duration>
     </item>
   </channel>
 </rss>
