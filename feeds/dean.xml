@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:40:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -866,6 +866,39 @@
 27:34 「失踪的员工」：一个恐怖故事的惊人结局！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1tSRCBgELP.mp3" length="15255503" type="audio/mpeg"/>
       <itunes:duration>00:31:47</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」同学爬山后性情大变；焚香静心竟无意间招惹邪物；威猛老哥铁锤破障；稻草人；网友投稿亲身经历</title>
+      <link>https://www.bilibili.com/video/BV1hSRLBiEko</link>
+      <guid isPermaLink="false">dean-BV1hSRLBiEko</guid>
+      <pubDate>Sun, 03 May 2026 01:00:00 +0000</pubDate>
+      <description>九零后插画师转述八零后亲历的灵异事件：文静女生爬香山后性情大变，深夜狂奔、力大无穷，行为诡异如被附体。她到底遭遇了什么？真相藏在那条漆黑胡同里……
+
+02:02 学校附近的谜团：小珍的奇怪行为引发的连锁反应
+
+04:02 诡异的宿舍事件：小珍的怪异行为引发的连锁反应
+
+06:02 迷失在胡同中的追寻：小珍的神秘行动引发的追逐之旅
+
+08:04 黑夜中的追踪：小珍的诡异微笑引发的恐怖事件
+
+10:38 诡异变化！小珍同学的状态突然恶化，引发班级轰动！
+
+13:16 女生宿舍的可怕秘密！智哥与小珍的离奇遭遇！
+
+15:58 小珍的失踪：诡异事件引发的连锁反应
+
+18:37 命理师的预言：哥哥的突然消失与神秘算命先生的预言
+
+21:17 兄弟之间的奥秘：一个晚上的遭遇让小衣陷入恐惧
+
+23:54 神秘的敲门声和诡异的梦境：小衣的恐怖遭遇
+
+26:35 鬼压床的可怕经历：小衣的梦境与现实的交织
+
+29:16 邪性佛像背后的诡异事件，我哥到底在做什么？</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hSRLBiEko.mp3" length="15361455" type="audio/mpeg"/>
+      <itunes:duration>00:32:00</itunes:duration>
     </item>
   </channel>
 </rss>
