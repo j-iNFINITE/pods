@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:47:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3765,6 +3765,27 @@ AI给出的时间轴：
 27:09 鸡脚神事件揭秘：赵匡胤与神秘鬼神的对决！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1RGAbeMEo7.mp3" length="14240071" type="audio/mpeg"/>
       <itunes:duration>00:29:40</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」有人要入住宿舍的那张空床；童年误入空间折叠；他们说我遇到了夜游神；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV1BaKTedEsY</link>
+      <guid isPermaLink="false">dean-BV1BaKTedEsY</guid>
+      <pubDate>Sat, 15 Feb 2025 02:00:00 +0000</pubDate>
+      <description>迪恩带你走进一段神秘经历，B站网友分享的真实故事，带你感受不一样的宿舍生活。从诡异的水滴声到阴冷的室温，再到那令人毛骨悚然的敲门声，一系列超自然现象让三位室友不寒而栗。究竟是什么力量在作祟？又是什么样的遭遇让他们决定再也不敢入住那个房间？听完这些，你还会觉得世界上只存在科学可以解释的一切吗？快来一探究竟吧！
+02:10 宿舍惊魂夜：神秘的敲门声与无人出现的访客
+04:11 夜间惊魂：神秘敲门声引发的宿舍惊悚故事
+06:12 学校换宿舍，太奶的善良与太爷爷的暴力家庭
+08:12 太奶奶的怪异行为：孩子的涂药过程中的突发事件
+10:13 江湖郎中的秘密疗法：解开太奶奶精神恍惚的谜团
+12:14 那些年，我们玩过的恐怖游戏：小环的诡异评论区故事
+14:14 废弃小区的诡异探险：A哥的遭遇与惊险挑战
+16:31 幻觉还是真实？废弃居民楼里的神秘事件引发的好奇与恐惧
+18:51 “失踪的狗子和诡异的影子：一位辞职者的故事”
+21:15 神秘的影子和高人：不可思议的遭遇让人心生恐惧
+23:37 教堂背后的诡异事件：夜游神的传说引发的恐怖连锁反应！
+25:58 揭秘古代传说中的夜游神与日游神：恶神还是保护神？</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1BaKTedEsY.mp3" length="13616894" type="audio/mpeg"/>
+      <itunes:duration>00:28:22</itunes:duration>
     </item>
   </channel>
 </rss>
