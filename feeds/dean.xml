@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:58:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3138,6 +3138,39 @@
 24:59 无法控制的奇怪梦境：探寻心灵深处的未知力量！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1qA5EzPEAp.mp3" length="12960907" type="audio/mpeg"/>
       <itunes:duration>00:27:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」幼年惹祸至人自缢；那个东西跟了我十几年；空中漂移；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1QT5qzVEgb</link>
+      <guid isPermaLink="false">dean-BV1QT5qzVEgb</guid>
+      <pubDate>Fri, 18 Apr 2025 02:00:00 +0000</pubDate>
+      <description>嗨害嗨~
+
+02:08 神秘的猫笼：四个孩子探寻拾荒者的小窝
+
+04:09 奇怪的罐子，恐怖的骨灰坛子揭秘！小孩子们的胆大包天引发的连锁反应！
+
+06:10 噩梦还是现实？神秘头颅的出现让一家三口陷入恐慌！
+
+08:11 诡异事件引发的连锁反应：小江家的奇怪遭遇
+
+10:12 恐怖的洗手间经历：小雨和室友们遭遇了神秘的访客
+
+12:14 舌舔舔水声，小猫般的可爱动作让人动容，但这个场景背后隐藏着什么？
+
+14:15 走廊尽头的恐怖邂逅：一位拾荒者的诡异出现引发的恐慌事件
+
+16:15 噩梦的阴影：小雨的遭遇与超自然恐怖现象
+
+18:16 宗教场所里的求助与自我认知：一个心灵成长的故事
+
+20:18 那个穿白裙子的幽灵，究竟是人还是妖？
+
+22:19 诡异的穿白色裙子的长发女人：外婆的回家之旅变得恐怖起来
+
+24:19 谜团揭秘：古农家里发生的故事引发小江的疑惑</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1QT5qzVEgb.mp3" length="12760925" type="audio/mpeg"/>
+      <itunes:duration>00:26:35</itunes:duration>
     </item>
   </channel>
 </rss>
