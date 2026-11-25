@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:06:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2707,6 +2707,15 @@
       <description>重置完整版！！！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1nNKDzCEQG.mp3" length="23239162" type="audio/mpeg"/>
       <itunes:duration>00:48:25</itunes:duration>
+    </item>
+    <item>
+      <title>「心灵唤道完整版」湖心岛举行罕见通灵游戏；神秘台仙儿控制友人；所有人都被掩住了耳朵；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV1JTKDzGEmk</link>
+      <guid isPermaLink="false">dean-BV1JTKDzGEmk</guid>
+      <pubDate>Thu, 26 Jun 2025 03:45:00 +0000</pubDate>
+      <description>重置完整版！！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1JTKDzGEmk.mp3" length="25207123" type="audio/mpeg"/>
+      <itunes:duration>00:52:31</itunes:duration>
     </item>
   </channel>
 </rss>
