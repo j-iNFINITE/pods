@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:31:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2437,6 +2437,15 @@
 22:08 突如其来的离别：家庭成员的突然离世让人心痛不已</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV13VWgzZEfp.mp3" length="11384156" type="audio/mpeg"/>
       <itunes:duration>00:23:43</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」生食动物内脏可保性命；敞开胸怀自取某物食之；第二个故事被抬了；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1YpYMzLEP8</link>
+      <guid isPermaLink="false">dean-BV1YpYMzLEP8</guid>
+      <pubDate>Sat, 06 Sep 2025 17:15:05 +0000</pubDate>
+      <description>原视频31分钟，剩下的不能发，改了好几遍都不能发。某云是没事儿的，感兴趣的朋友辛苦一下吧。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1YpYMzLEP8.mp3" length="7025677" type="audio/mpeg"/>
+      <itunes:duration>00:14:38</itunes:duration>
     </item>
   </channel>
 </rss>
