@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:19:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3428,6 +3428,47 @@ AI给出的时间轴：
 25:38 神秘的黑佛传说：电影院里的幽灵事件引发的疑团</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1jeXeYAEQA.mp3" length="13441153" type="audio/mpeg"/>
       <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」发生在外婆家那栋居民楼的怪事；热心二叔遭歹人迫害；广西民间传说山隆婆；网友投稿</title>
+      <link>https://www.bilibili.com/video/BV1LrQTYSEtG</link>
+      <guid isPermaLink="false">dean-BV1LrQTYSEtG</guid>
+      <pubDate>Sat, 15 Mar 2025 02:00:00 +0000</pubDate>
+      <description>一栋市中心的老楼，背后藏着许多离奇故事。居民们遭遇的不幸接踵而至，每两年似乎就有悲剧发生。这究竟是巧合还是另有隐情？为什么癌症患者在这里都能治好却不敢再回来？阿芬一家的故事将带你走进这座充满谜团的大楼，你会相信这一切吗？
+
+时间轴：00:00-13:52 住宅消消乐
+
+13:52-21:11 二叔
+
+21:11-27:47 山隆婆
+
+27:47-28:41 END（纯音乐欣赏）
+
+超级时间轴“：
+
+02:05 命运的捉弄：高大爷、高大妈与王大爷的悲剧故事
+
+06:06 命运的捉弄：癌症患者不得不面对的困境与抉择
+
+08:08 退休后的困境与神秘访客：一个令人心碎的故事
+
+10:09 诡异的楼梯事件：阿芬的外公家遭遇神秘事件！
+
+12:12 神秘的家属楼：诡异事件频发，住进去的人都命运堪忧！
+
+14:18 他父亲的失败婚姻与二叔的崛起：两个男人的不同命运
+
+16:41 二叔的突然离世：诡异事件背后的真相揭示
+
+19:05 梦境与诡异事件：二叔的离奇死亡与神秘老太太的诡异梦境
+
+21:28 民国之前的山隆婆传说：两个小孙子的遭遇
+
+23:51 恐怖奶奶的传说：兄妹俩面对山隆婆的恐怖真相
+
+26:14 传说中的山隆婆：村民如何处理她的遗骸？</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1LrQTYSEtG.mp3" length="13769658" type="audio/mpeg"/>
+      <itunes:duration>00:28:41</itunes:duration>
     </item>
   </channel>
 </rss>
