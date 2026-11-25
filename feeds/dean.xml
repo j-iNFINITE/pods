@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:07:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1090,6 +1090,37 @@
       <description>「稗官野史」深山乡村索命竹音；恶人还需狠人治；拦路的硅胶霹雳娇娃；网友投稿鬼故事；民间故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1YRXTBVE64.mp3" length="12966340" type="audio/mpeg"/>
       <itunes:duration>00:27:01</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」可控人思维的纸片人；痴呆外婆突然恢复救命；同事梦中道别照进现实；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1kYXNBSEEx</link>
+      <guid isPermaLink="false">dean-BV1kYXNBSEEx</guid>
+      <pubDate>Fri, 27 Mar 2026 12:25:02 +0000</pubDate>
+      <description>02:01 神秘剪纸小人儿：三位同事的不寻常遭遇
+
+04:02 同事梦中的诡异遭遇引发关注，小黑的离奇失踪让人担忧
+
+06:03 命运的捉弄：小程在失去小黑和小文后的遭遇
+
+08:04 噩梦中的陌生人：小程镜子中的陌生面孔和诡异体验
+
+10:05 失踪的小黑：邻居的证言引发的谜团
+
+12:05 退伍大哥的勇敢拯救：十字路口的惊险瞬间
+
+14:06 失忆三天：迷糊中的恐怖发现，他的大脑正在被神秘力量操控！
+
+16:08 失去意识背后的玄学处理：小程的奇怪梦境与师傅们的解释
+
+18:09 从梦中醒来，发现身体虚弱，大脑清明——康复之路的第一步
+
+20:11 噩梦中的反复醒来与失去意识，小程的困扰与希望
+
+22:12 诡异梦境背后隐藏的谜团：小程的遭遇与神秘师傅的干预
+
+24:15 欢迎关注我们的节目！请搜索“稗官野史”以找到我们的播客。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1kYXNBSEEx.mp3" length="12001064" type="audio/mpeg"/>
+      <itunes:duration>00:25:00</itunes:duration>
     </item>
   </channel>
 </rss>
