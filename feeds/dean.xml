@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:09:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2228,6 +2228,37 @@
 22:17 幽灵般的声音：小杰的恐怖经历让人不寒而栗！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1F8WbzfECN.mp3" length="11620303" type="audio/mpeg"/>
       <itunes:duration>00:24:12</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友的亲身经历；棺材与纸扎三轮车；恶飘深夜上门送温暖；青面舅公救吾兄之性命；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1RD4kzaErU</link>
+      <guid isPermaLink="false">dean-BV1RD4kzaErU</guid>
+      <pubDate>Mon, 13 Oct 2025 04:10:18 +0000</pubDate>
+      <description>今晚带来几个短小精悍的灵异故事，让你大呼过瘾！废弃小区里突如其来的灯光和尖叫，探险者们差点命丧荒宅；西安城中村里的小男孩频繁遇到诡异现象；还有那神秘的送饭敲门声，究竟是谁在作祟？听完这些故事，你会不会也觉得背后一凉？别急，更多精彩等你来听！
+
+02:02 惊悚探险：白发女人与无人驾驶三轮车的诡异遭遇
+
+04:02 诡异的探险经历：两个人在废弃小区中遭遇了什么？
+
+06:03 神秘消失的破洞：探寻古老小区的谜团与诡异事件！
+
+08:03 风水大家的传承之谜：小T的风水职业生涯与神秘事件！
+
+10:06 深夜的诡事：小T酒店住宿遭遇阴气冲顶！
+
+12:06 戏曲脸谱背后的诡异秘密！小A的超自然经历！
+
+14:08 胆小的小A遭遇妖怪传说，夜晚的恐怖探险之旅！
+
+16:10 突如其来的消失与惊悚：一个孩子的恐惧之夜
+
+18:12 失踪的舅舅：旧宫中的诡异供奉仪式与神秘救援
+
+20:14 神秘的药方和诡异的祖屋：小A的疾病与家族的诡异命运
+
+22:18 小A的哥哥：温暖的陪伴与爱的故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1RD4kzaErU.mp3" length="11094719" type="audio/mpeg"/>
+      <itunes:duration>00:23:07</itunes:duration>
     </item>
   </channel>
 </rss>
