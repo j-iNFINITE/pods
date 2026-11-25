@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:48:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2031,6 +2031,42 @@
 26:12 探寻古砚传奇：故事中男人的神秘身份和砚台的来龙去脉</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1hq1SBgEVH.mp3" length="13729952" type="audio/mpeg"/>
       <itunes:duration>00:28:36</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友邻居家的一些陈年往事；邻居兄弟赶走的后妈，才是家里的守护神；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1mH15BeEE8</link>
+      <guid isPermaLink="false">dean-BV1mH15BeEE8</guid>
+      <pubDate>Sat, 01 Nov 2025 06:23:13 +0000</pubDate>
+      <description>这期不好取名字，就这样了。祝大家生活愉快
+
+一个老和尚的预言，一场突如其来的死亡，一段被家暴困住的人生。命运为何如此巧合？真相到底藏在哪？
+
+02:00 诡异的寺庙邂逅：大师的预言引发的连锁反应
+
+04:03 消失的老和尚：神秘事件令人心慌意乱
+
+06:03 爱情与命运的抉择：女儿的抉择引发的家庭矛盾
+
+08:05 爱与背叛：一个女孩在爱情中的挣扎与痛苦
+
+10:38 湖北噩梦：老徐的变态行为与嫣红的苦难生活
+
+13:19 命运的转折点：嫣红和老秦的决定引发的连锁反应
+
+15:57 亲生孩子与养母之间的复杂关系：一个令人动容的故
+事
+
+18:36 一个孩子的孤独成长：老徐的离去与小木的坚持
+
+21:19 失踪多年的老秦重现村中，金哲的诡异经历引发恐慌
+
+23:59 命运的转折点：老和尚的预言与三个孩子的命运交织
+
+26:39 悲剧的结局：大秦的绝望与小琴的悲惨命运
+
+29:19 失踪的老人，诡异的宅子，神秘的和尚与秦家的诅咒</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1mH15BeEE8.mp3" length="15362086" type="audio/mpeg"/>
+      <itunes:duration>00:32:00</itunes:duration>
     </item>
   </channel>
 </rss>
