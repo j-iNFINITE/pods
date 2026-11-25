@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:48:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1460,6 +1460,37 @@
 24:15 网易云音乐热门播客推荐：探索丰富音乐世界，发现不一样的乐趣！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1gQ61B2E3h.mp3" length="11856868" type="audio/mpeg"/>
       <itunes:duration>00:24:42</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」新家的无名球声与诡异男孩儿；更名避讳躲凶魂；邻居父子双双遭遇木劫；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1r9zkB9EjF</link>
+      <guid isPermaLink="false">dean-BV1r9zkB9EjF</guid>
+      <pubDate>Sat, 24 Jan 2026 10:49:42 +0000</pubDate>
+      <description>02:01 神秘乒乓球：家中诡异声音的来源是什么？
+
+04:02 窗内伸出的无数手臂：恐怖惊悚的梦境还是真实存在的诡异现象？
+
+06:03 神秘力量的谜团：他父亲的异常经历引发的奇怪事件
+
+08:07 迷失游戏中的小男孩：一场充满挑战的乒乓球对决
+
+10:17 梦境中的乒乓球比赛：一场令人无法自拔的幻想之旅
+
+12:53 失踪的孩子，诡异的梦境，小叶的遭遇惊心动魄！
+
+15:28 失踪的孩子：小叶在乒乓球梦中的诡异遭遇
+
+18:03 通过符号预测未来：老太太的神秘能力与小男孩儿的命运纠葛
+
+20:37 村庄里的冲突与和解：老王和老李的家庭纷争
+
+23:12 村庄的暗斗与冲突：老王与小李的激烈对抗
+
+25:47 意外的葬礼：纸锤掉落、鸡冠渗血，一切诡异现象的起源！
+
+28:21 老李一家的悲剧：意外、丧偶和命运的捉弄</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1r9zkB9EjF.mp3" length="14881642" type="audio/mpeg"/>
+      <itunes:duration>00:31:00</itunes:duration>
     </item>
   </channel>
 </rss>
