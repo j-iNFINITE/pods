@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:12:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2259,6 +2259,39 @@
 22:18 小A的哥哥：温暖的陪伴与爱的故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1RD4kzaErU.mp3" length="11094719" type="audio/mpeg"/>
       <itunes:duration>00:23:07</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」我梦见的人都死了；刚被祖传黑蛇附身；正在处理太爷的烂摊子；网友投稿民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1qU4gzyEaL</link>
+      <guid isPermaLink="false">dean-BV1qU4gzyEaL</guid>
+      <pubDate>Sun, 12 Oct 2025 12:58:20 +0000</pubDate>
+      <description>本期稗官野史带你走进一段离奇故事。一位曾涉足玄学的朋友小萨，在经历了灵异事件后决定退出江湖，却因一场意外再次被卷入谜团。他梦见的旧友接连发生不幸，是巧合还是某种预示？小萨尝试寻找答案，却发现事情远比想象中复杂。面对未知力量，他将如何选择？真相究竟是什么？让我们一起揭开谜底。
+
+02:02 冲突与危险：际遇与挑战
+
+04:03 危机预兆与朋友的不幸：小萨的担忧与事实的真相
+
+06:06 突如其来的死亡：小萨的朋友们一个接一个地离奇身亡
+
+08:08 神秘事件揭秘：昏迷中看到的超自然现象引发的连锁反应
+
+10:10 他为何要逃离城市？灵异事件背后隐藏的恐怖真相揭秘！
+
+12:10 诡异事件调查：邪物伤害的四个阶段与潜在威胁
+
+14:22 诡异的死亡事件：四个陌生人相继离世，引发恐慌与猜测
+
+16:46 神秘宅子的邪物秘密：太爷的勇敢抉择与残酷现实
+
+19:08 太爷的传承与家族命运：黑蛇、雷劈和家族分裂的故事
+
+21:33 黑蛇的预兆：小萨遭遇的奇怪事件与太爷的过去有关联
+
+23:57 巧合还是阴谋？一个奇怪的事件背后的秘密解读
+
+26:19 命运的捉弄：一场突如其来的辞职与死灰的诡异收集</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1qU4gzyEaL.mp3" length="13920750" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
     </item>
   </channel>
 </rss>
