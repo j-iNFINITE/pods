@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:10:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -273,6 +273,15 @@
 20:09 一个神秘的夜晚：男孩的梦境还是真实的遭遇？</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1QRhk6WERU.mp3" length="11039966" type="audio/mpeg"/>
       <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」镇宅佛像竟被掀翻在地；娘娘送来财富带走长子；供奉百年“神明”灭族行动；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1paeS6PEw5</link>
+      <guid isPermaLink="false">dean-BV1paeS6PEw5</guid>
+      <pubDate>Sat, 19 Sep 2026 02:00:00 +0000</pubDate>
+      <description>提前祝大家中秋节快乐！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1paeS6PEw5.mp3" length="12880868" type="audio/mpeg"/>
+      <itunes:duration>00:26:50</itunes:duration>
     </item>
   </channel>
 </rss>
