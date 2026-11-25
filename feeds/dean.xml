@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:11:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1680,6 +1680,39 @@
 25:35 失踪的儿子与神秘的宅子：一个令人毛骨悚然的故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1LCBWBREWU.mp3" length="13440724" type="audio/mpeg"/>
       <itunes:duration>00:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」尘封的童年往事竟然另有隐情；深夜敲墙与哭泣；傻子哥持秤贯穿弟弟；网友投稿民间故事</title>
+      <link>https://www.bilibili.com/video/BV1ToBHBMEhE</link>
+      <guid isPermaLink="false">dean-BV1ToBHBMEhE</guid>
+      <pubDate>Mon, 22 Dec 2025 01:04:06 +0000</pubDate>
+      <description>两个姑娘深夜上吊，年幼的我竟冲她们喊了声姐姐？童年旁观的诡异事件，真相远比想象更复杂。
+
+02:09 童年记忆中的恐怖故事：遗体、阴暗的胡同和神秘的事件
+
+04:11 胡同里的阴暗神秘：一个孩子眼中的恐怖经历
+
+06:12 夜晚的恐怖声音：隔壁的姑娘们发生了什么？
+
+08:12 诡异的村子，深夜的哭声，隐藏的真相背后隐藏的恐怖事件！
+
+10:13 幽灵床背后的恐怖事件：一个孩子的恐惧回忆！
+
+12:28 突如其来的幽灵惊吓：一个孩子的恐惧之夜
+
+14:59 夜幕中的消失之谜：两个姑娘的神秘失踪事件引发的恐怖连锁反应
+
+17:28 傻子大哥的发疯事件：兄弟四个的离奇命运！
+
+19:58 幽灵魅影：那个晚上发生的事情让我永生难忘
+
+22:30 诡异事件后的秘密与谜团，小舞、小樱和小武的命运转折点
+
+24:59 两个吓人的女人，身上穿的寿衣破烂不堪，青面獠牙，引发恐怖事件！
+
+27:29 无声的复仇：两个秤钩挂在门口，一家四口的悲剧故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ToBHBMEhE.mp3" length="14401825" type="audio/mpeg"/>
+      <itunes:duration>00:30:00</itunes:duration>
     </item>
   </channel>
 </rss>
