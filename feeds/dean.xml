@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:18:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -770,6 +770,33 @@
       <description>看这里看这里，求个三连。嘿嘿！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1y87Z6SEMY.mp3" length="14401612" type="audio/mpeg"/>
       <itunes:duration>00:30:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」出逃学校误入诡异空间；清风控体带我吃席；那个脚步声竟是......；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1f2V26eEHc</link>
+      <guid isPermaLink="false">dean-BV1f2V26eEHc</guid>
+      <pubDate>Thu, 04 Jun 2026 02:01:41 +0000</pubDate>
+      <description>02:19 【悬疑】校墙外的诡异事件！初中生的惊险逃亡！
+
+04:34 回家的艰难路程：小A在深夜的荒芜街道上行走
+
+06:55 厕所的可怕遭遇：小A遇到了什么诡异的事情？
+
+09:12 失踪的双脚：小A的恐惧与厕所里的奇怪声音！
+
+11:21 黑暗中的餐桌：一个让人毛骨悚然的遭遇
+
+13:30 逃离餐桌的恐怖之旅：黑夜中的追逐与迷失
+
+15:46 陷入困境的男人：追逐与回忆的恐怖故事
+
+17:53 失忆男孩的神秘复苏：滴下液体的床与陌生人的情感纠葛
+
+19:59 神秘女生的失踪之谜：学校的秘密角落揭示真相！
+
+22:09 神秘女生的踪迹：学校里的秘密开关揭秘！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1f2V26eEHc.mp3" length="12027817" type="audio/mpeg"/>
+      <itunes:duration>00:25:03</itunes:duration>
     </item>
   </channel>
 </rss>
