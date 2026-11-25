@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:48:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2578,6 +2578,31 @@
 24:16 晴空万里，诅咒画上句号，他终于松了口气</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FNevziExk.mp3" length="12514735" type="audio/mpeg"/>
       <itunes:duration>00:26:04</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」小学生课桌惊现失传鬼文；作业本中暗藏羽毛；马皮封门；鸟骸浴缸；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1abMdzJEXG</link>
+      <guid isPermaLink="false">dean-BV1abMdzJEXG</guid>
+      <pubDate>Sun, 13 Jul 2025 01:00:00 +0000</pubDate>
+      <description>小学生小胖身上发生了一系列怪事，痱子粉味儿、冰凉体温、羽毛血迹与神秘文字让他与众不同。六六老师和好友二宝探寻真相，牵扯出水族鬼师的禁忌传说。小胖到底是被附身还是另有隐情？故事背后隐藏着什么秘密？一起探究这场灵异事件背后的答案！
+
+02:11 小胖的异常表现引发六六的警觉，一场危机解救行动展开
+
+04:11 命盘中的秘密：小胖的预言能力引发的疑团与观察
+
+06:14 诡异的字画：小胖家里究竟发生了什么？
+
+08:15 神秘的水族文字：揭开古代民族的反对与祭祀之道
+
+10:16 失踪的孩子与神秘的黄仙儿：二宝与小胖的奇幻之旅
+
+12:17 小胖身上的奇怪味道：黄仙儿揭示的可怕秘密
+
+14:18 小胖家中的诡异事件：奶奶的消失与父亲的奇怪行动
+
+16:24 求关注！收藏！评论！一起探讨节目精彩内容！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1abMdzJEXG.mp3" length="8218742" type="audio/mpeg"/>
+      <itunes:duration>00:17:07</itunes:duration>
     </item>
   </channel>
 </rss>
