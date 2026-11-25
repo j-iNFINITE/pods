@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:22:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1257,6 +1257,37 @@
 22:12 小李和她的故事：一段离奇而美丽的爱情之旅</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV18pAzzQEUj.mp3" length="11041429" type="audio/mpeg"/>
       <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>「鬼面神主-完整版」人物志；山中鬼子兵离奇复活；扯淡大仙儿冒充土地；狠人先生召天雷惩戒；网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1bWciziEMC</link>
+      <guid isPermaLink="false">dean-BV1bWciziEMC</guid>
+      <pubDate>Sun, 22 Feb 2026 02:00:00 +0000</pubDate>
+      <description>02:09 日本侵略下的悲惨遭遇：一个和尚的抗争与逃生
+
+04:55 搜索山林：日军指挥官或神主的的可能性引发警惕
+
+09:53 山涧中的鬼子复活了：一场生死较量的开始
+
+14:50 慷慨赴死，以命护国——裘、仇师傅的英雄壮举
+
+19:46 兄弟牺牲，血战江湖！一个战士的尊严与复仇！
+
+24:45 失忆僧人的梦境启示：宗教符号与超自然力量的奇妙联系
+
+29:41 莫名其妙的枯萎死掉，土地爷的诅咒还是村民的无知？
+
+34:40 神秘失踪与怪异现象：村庄中的诡异事件引发恐慌
+
+39:37 神秘土地庙的真相揭秘，惊心动魄的仇师傅除妖故事！
+
+44:33 神秘的黑蛇：村庄中的超自然现象引发的恐怖事件
+
+49:29 神秘事件频发！小斌的离奇遭遇引发恐慌！
+
+54:29 阴阳婚礼：女孩儿带来的神秘队伍消失了！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1bWciziEMC.mp3" length="28536160" type="audio/mpeg"/>
+      <itunes:duration>00:59:27</itunes:duration>
     </item>
   </channel>
 </rss>
