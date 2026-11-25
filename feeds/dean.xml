@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:23:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1802,6 +1802,39 @@
 24:13 精彩节目推荐：大观野史播客，历史故事揭开真相！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UP2ZBZEiC.mp3" length="12003362" type="audio/mpeg"/>
       <itunes:duration>00:25:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」温婉的妻子要掐死我；指甲嵌进我的脖子；凭空出现的爆炸头女人竟然是“人”；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1zZ29BKExq</link>
+      <guid isPermaLink="false">dean-BV1zZ29BKExq</guid>
+      <pubDate>Sun, 07 Dec 2025 02:00:00 +0000</pubDate>
+      <description>北京公交司机捡到金项链后，家中接连怪事不断：铁锈味变血腥、妻子突变“爆炸头”掐他脖子……这究竟是心虚作祟，还是真有“东西”缠上了他？
+
+02:01 人性与欲望的较量：文人捡包、项链儿与家中的不寻常气味
+
+04:02 奇怪的香味和神秘的卧室：三哥的新家有隐藏的臭味儿！
+
+06:02 卧室惊魂：神秘女人的突然出现引发的恐怖事件
+
+08:04 衣柜里的惊悚遭遇：失踪的媳妇儿与诡异的事件！
+
+10:05 幻觉还是真实？三哥媳妇儿的神秘变化引发惊悚事件！
+
+12:06 紧急求助：家里闹鬼，媳妇儿受伤，街坊邻居的反应与行动
+
+14:07 诡异的项链引发的连锁反应，三哥的求助之路！
+
+16:08 神秘的梦中女人，恐怖的袭击，和尚的神秘操作！
+
+18:08 神秘先生的摸骨术，三哥的家庭秘密揭露！
+
+20:09 意外发现的神奇力量：一户人家的诡异遭遇
+
+22:09 神秘吊坠带来的命运转折：福报消失与幸运降临
+
+24:10 发现奇迹的意外之旅：追寻宝贝的奇幻人生</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1zZ29BKExq.mp3" length="12277335" type="audio/mpeg"/>
+      <itunes:duration>00:25:35</itunes:duration>
     </item>
   </channel>
 </rss>
