@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:20:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -346,6 +346,32 @@
 30:46 驱除邪灵，平安生活：郭先生的神奇咒语与雷鸣声的故事</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Nmb76KEP9.mp3" length="16909785" type="audio/mpeg"/>
       <itunes:duration>00:35:14</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」黑土地五仙连环索命；墙角处的长牙喜神爷；墓地里的半兽生物；属相竟然与身体相同？网友投稿鬼故事；民间故事</title>
+      <link>https://www.bilibili.com/video/BV1Xu4f6sEiL</link>
+      <guid isPermaLink="false">dean-BV1Xu4f6sEiL</guid>
+      <pubDate>Fri, 28 Aug 2026 02:00:06 +0000</pubDate>
+      <description>本篇收录两则网友投稿的民间奇闻。
+
+第一则来自网友小妍的家族亲身经历：西北山沟里外婆家六个女儿各遇怪事，大姨拥有阴阳眼，撞见样貌诡异的喜神爷、坟地的半兽人；
+
+二姨在新疆果园夜半听见荒野聚会人声；
+
+四姨频繁收到亡故外公托梦，梦到祖辈衣不蔽体、无法归坟，挖出坟中铁钉才化解危机，梦境还屡次预警外婆的生死劫难。
+
+
+第二则是法医林 SIR 分享的卷宗故事。
+
+吉林龙潭山，六人一时贪念烧毁五大仙栖息的石洞，就此开启长达十年的连环死亡。
+
+一桩桩密室凶案，死者皆惊吓致死，尸检中出现无法用科学解释的怪异物证。
+
+就算把最后一名幸存者安置在戒备森严的公安局留置室内，
+
+悲剧依旧如期上演。有些流传在黑土地上的老规矩，或许值得敬畏。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Xu4f6sEiL.mp3" length="14836917" type="audio/mpeg"/>
+      <itunes:duration>00:30:55</itunes:duration>
     </item>
   </channel>
 </rss>
