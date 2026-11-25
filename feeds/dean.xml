@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:17:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -315,6 +315,37 @@
 24:13 神秘的魔术师小薇：她的魔法带来了什么变化？</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1RoY469EUA.mp3" length="12641377" type="audio/mpeg"/>
       <itunes:duration>00:26:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」灵魂攻击？；一枚弹壳招来的无形枪伤；虐杀生灵引人神共愤；烫香续命；网友投稿鬼故事；灵异故事</title>
+      <link>https://www.bilibili.com/video/BV1Nmb76KEP9</link>
+      <guid isPermaLink="false">dean-BV1Nmb76KEP9</guid>
+      <pubDate>Sun, 06 Sep 2026 02:00:00 +0000</pubDate>
+      <description>虐杀动物的小孩突然遭报应，跪地磕头后离奇暴毙？他到底惹上了什么？真相令人脊背发凉。
+
+02:00 突如其来的噩梦：小A抓貂和邻居的可怕秘密
+
+06:03 神秘的金色光团：邻居家的诡异事件引发恐慌！
+
+08:23 神秘的金色光团：小A的命运之谜！
+
+11:09 神秘和尚的解决方案：念经超度与土地爷的条件！
+
+13:58 消失的痕迹：小A的诡异失踪与谜样的死亡
+
+16:47 童年的探险：在建设中的工厂中寻找子弹壳儿的惊喜之旅
+
+19:34 生死之间：志成的神秘病症引发的危机事件
+
+22:23 阴邪缠身：道士郭先生的符咒术能否拯救志成？
+
+25:09 神秘弹壳的咒语解开：志成与阿飘的较量终结？
+
+27:58 诡异事件引发的连锁反应
+
+30:46 驱除邪灵，平安生活：郭先生的神奇咒语与雷鸣声的故事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Nmb76KEP9.mp3" length="16909785" type="audio/mpeg"/>
+      <itunes:duration>00:35:14</itunes:duration>
     </item>
   </channel>
 </rss>
