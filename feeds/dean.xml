@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:49:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -587,6 +587,25 @@
 住院期间有老者前来讨烟，次日护工告知，那位老人当晚便已离世。青年本崇尚科学、敬畏民俗，接连几段无法解释的离奇经历，也让他往后很长一段日子诸事坎坷。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1PcKN6zEWM.mp3" length="11040802" type="audio/mpeg"/>
       <itunes:duration>00:23:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」山神爷爷睚眦必报；名为变婆的霹雳X娃；带镯子的人熊；网友投稿鬼故事；灵异故事</title>
+      <link>https://www.bilibili.com/video/BV15aK36kExb</link>
+      <guid isPermaLink="false">dean-BV15aK36kExb</guid>
+      <pubDate>Fri, 17 Jul 2026 02:11:43 +0000</pubDate>
+      <description>黔桂交界，月亮山与雷公山连绵百里，深山隔绝人烟，自古怪事丛生。
+
+网友转述贵州本地人阿贵口中代代相传的山野秘闻，皆源自祖辈亲身经历。
+
+九十年代山道离奇命案，裸身死者身上留有诡异粘液，全村人皆传是山中变婆作祟；
+
+两层牛棚深夜突现仿尽鸟兽声响的无名黑影，群牛惊惧对峙整夜；孩童出言冒犯山中灵物，归家后骤然染病离世；
+
+七十年代猎户围捕偷食苞谷的人熊，猎物似人似熊，手腕竟嵌着一枚铜镯。
+
+山中还有夜夜偷叼猪崽、留下椭圆怪印的未知山灵。闭塞大山里无法用常理解释的桩桩旧事，藏在苗侗村寨尘封数十年，只敢私下说与外人听。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV15aK36kExb.mp3" length="12095522" type="audio/mpeg"/>
+      <itunes:duration>00:25:12</itunes:duration>
     </item>
   </channel>
 </rss>
