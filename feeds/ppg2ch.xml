@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:35:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -662,6 +662,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1o6NwzhEKg.mp3" length="13864015" type="audio/mpeg"/>
       <itunes:duration>00:28:53</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1o6NwzhEKg.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：禁箱</title>
+      <link>https://www.bilibili.com/video/BV1KQPWz6E5U</link>
+      <guid isPermaLink="false">ppg2ch-BV1KQPWz6E5U</guid>
+      <pubDate>Fri, 06 Mar 2026 11:31:17 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1KQPWz6E5U.mp3" length="8234313" type="audio/mpeg"/>
+      <itunes:duration>00:17:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1KQPWz6E5U.jpg"/>
     </item>
   </channel>
 </rss>
