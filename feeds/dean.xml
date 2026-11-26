@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:20:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5823,6 +5823,25 @@ hi~大家好。
 温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Gr421G7MB.mp3" length="17747177" type="audio/mpeg"/>
       <itunes:duration>00:36:58</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」傻子家隐藏多年的秘密；水龙头里拉出来一缕十几米长的头发；红木沙发；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1HH4y1M7Kb</link>
+      <guid isPermaLink="false">dean-BV1HH4y1M7Kb</guid>
+      <pubDate>Sat, 13 Apr 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史36下」
+
+投稿人：视频内播报
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎  风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1HH4y1M7Kb.mp3" length="14050526" type="audio/mpeg"/>
+      <itunes:duration>00:29:16</itunes:duration>
     </item>
   </channel>
 </rss>
