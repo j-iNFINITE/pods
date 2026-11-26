@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:17:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -194,6 +194,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1zHWE65Ebt.mp3" length="25615564" type="audio/mpeg"/>
       <itunes:duration>00:53:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1zHWE65Ebt.jpg"/>
+    </item>
+    <item>
+      <title>三伏天桥头夜夜站怪人，裹大棉袄光着腿不吭声，二十村民吓得绕路丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1FEWE6jEyu</link>
+      <guid isPermaLink="false">3546967225403396-BV1FEWE6jEyu</guid>
+      <pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+      <description>三伏天桥头夜夜站怪人，裹大棉袄光着腿不吭声，二十村民吓得绕路丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1FEWE6jEyu.mp3" length="25977726" type="audio/mpeg"/>
+      <itunes:duration>00:54:07</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1FEWE6jEyu.jpg"/>
     </item>
   </channel>
 </rss>
