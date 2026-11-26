@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:57:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -512,6 +512,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1cK9QBUE3s.mp3" length="7062774" type="audio/mpeg"/>
       <itunes:duration>00:14:43</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1cK9QBUE3s.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：シシノケ，我在野外露营，遭遇到了不知名生物袭击</title>
+      <link>https://www.bilibili.com/video/BV1zVoQB9E9r</link>
+      <guid isPermaLink="false">ppg2ch-BV1zVoQB9E9r</guid>
+      <pubDate>Sat, 25 Apr 2026 13:20:09 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1zVoQB9E9r.mp3" length="8869611" type="audio/mpeg"/>
+      <itunes:duration>00:18:29</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1zVoQB9E9r.jpg"/>
     </item>
   </channel>
 </rss>
