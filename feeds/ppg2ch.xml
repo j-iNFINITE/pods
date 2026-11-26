@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:19:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -143,6 +143,15 @@
       <description>该帖子为实时帖标红为楼主，其他发帖的是网友</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1Urpv6rEvu.mp3" length="13893792" type="audio/mpeg"/>
       <itunes:duration>00:28:57</itunes:duration>
+    </item>
+    <item>
+      <title>大阪梅田泉之广场的红衣女人，日本2ch论坛都市传说</title>
+      <link>https://www.bilibili.com/video/BV17Hpc64EhJ</link>
+      <guid isPermaLink="false">ppg2ch-BV17Hpc64EhJ</guid>
+      <pubDate>Tue, 06 Oct 2026 13:32:19 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV17Hpc64EhJ.mp3" length="4245622" type="audio/mpeg"/>
+      <itunes:duration>00:08:51</itunes:duration>
     </item>
   </channel>
 </rss>
