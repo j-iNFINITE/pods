@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:46:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5000,6 +5000,43 @@ hi~大家好。
 31:34-32:11 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1a94rewEbF.mp3" length="15449239" type="audio/mpeg"/>
       <itunes:duration>00:32:11</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」邻家女童的求助；亮黄色的书包；邻居的变态程度；黄大仙儿附身；网友投稿民间鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1YppFeqEqf</link>
+      <guid isPermaLink="false">dean-BV1YppFeqEqf</guid>
+      <pubDate>Sat, 07 Sep 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史51·下」
+
+大家好，在这儿先跟大家道个歉。
+
+因我十月初有出行的计划，为了保证不会断更。我最近一有时间就在赶稿子，最近天气热加上过度劳累可能会有些状态不佳。希望各位朋友能予以理解。
+
+另外为了防止后续这种事情再度发生，十一假期回来后我会提前录制好约3周的存量来防范有突发事件。别的不能跟大家保证，只能保证尽可能的不会断更，不会让大家空等。
+
+好，大体的事情就这样。请大家鉴赏本期的故事。
+
+------------------------------------------------------------------  分  割  线  ------------------------------------------------------------------
+
+片尾BGM：古典吉他独奏 押尾光太郎 风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-09:13 你书包呐？
+
+09:13-24:10 女童的默示
+
+24:10-28:32 附身
+
+28:32 -29:20 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1YppFeqEqf.mp3" length="14080828" type="audio/mpeg"/>
+      <itunes:duration>00:29:20</itunes:duration>
     </item>
   </channel>
 </rss>
