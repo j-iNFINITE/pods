@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:22:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6361,6 +6361,19 @@ hi~大家好。
 本期素材由猿粪天空聊天室业主提供</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1jC4y197pP.mp3" length="13565694" type="audio/mpeg"/>
       <itunes:duration>00:28:16</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」女孩儿轮回十世依旧跟随恶果；胎里素；爷爷卧室的诡异声音；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1Lb4y157i5</link>
+      <guid isPermaLink="false">dean-BV1Lb4y157i5</guid>
+      <pubDate>Fri, 15 Dec 2023 02:00:00 +0000</pubDate>
+      <description>欢迎收听稗官野史21上
+
+本期素材由猿粪天空聊天室业主投稿
+
+另外问各位小伙伴一件事情，在视频中穿插恐怖图片各位能接受吗？哈哈哈哈</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Lb4y157i5.mp3" length="14599108" type="audio/mpeg"/>
+      <itunes:duration>00:30:25</itunes:duration>
     </item>
   </channel>
 </rss>
