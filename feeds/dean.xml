@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:09:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6061,6 +6061,23 @@ hi~大家好。
 嗨~大家好，感谢各位小伙伴儿的收听。求个三连，赞赞也行。感谢！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1az421972j.mp3" length="16824322" type="audio/mpeg"/>
       <itunes:duration>00:35:03</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史春节特别篇8」网友投稿；遇难的朋友要成精了；村长给纸人点了眼睛；舅舅；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1cF4m1M7Wj</link>
+      <guid isPermaLink="false">dean-BV1cF4m1M7Wj</guid>
+      <pubDate>Sat, 17 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史春节特别篇8」
+
+祝各位小伙伴儿初八快乐，希望得到您的三连
+
+在传统节日里今天是众星下界之日。也是咱们连更的最后一期。
+
+祝大家在新的一年里：日有熹，月有光，富且昌，寿而康，新春嘉平，长乐未央。
+
+投稿的小伙伴儿直接联系我即可。谢谢</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1cF4m1M7Wj.mp3" length="14749363" type="audio/mpeg"/>
+      <itunes:duration>00:30:44</itunes:duration>
     </item>
   </channel>
 </rss>
