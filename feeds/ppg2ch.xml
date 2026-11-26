@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:26:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -612,6 +612,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV18tXFBUEhp.mp3" length="8958846" type="audio/mpeg"/>
       <itunes:duration>00:18:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV18tXFBUEhp.jpg"/>
+    </item>
+    <item>
+      <title>投稿篇：桥边黑树</title>
+      <link>https://www.bilibili.com/video/BV1PEAJzXEcM</link>
+      <guid isPermaLink="false">ppg2ch-BV1PEAJzXEcM</guid>
+      <pubDate>Fri, 20 Mar 2026 12:00:30 +0000</pubDate>
+      <description>偶遇湖边黑树，后续发生了一系列诡异的事情</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1PEAJzXEcM.mp3" length="7456909" type="audio/mpeg"/>
+      <itunes:duration>00:15:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1PEAJzXEcM.jpg"/>
     </item>
   </channel>
 </rss>
