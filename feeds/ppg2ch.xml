@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:30:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -361,13 +361,13 @@
       <itunes:duration>00:12:29</itunes:duration>
     </item>
     <item>
-      <title>日本2ch论坛：久流木，这件事流传在小孩子们之间，大人完全不知情</title>
-      <link>https://www.bilibili.com/video/BV19WjA63Ejn</link>
-      <guid isPermaLink="false">ppg2ch-BV19WjA63Ejn</guid>
-      <pubDate>Thu, 18 Jun 2026 11:20:09 +0000</pubDate>
+      <title>日本2ch论坛：地下圆环，我穿过这个圆环来到这个世界，本来想一直隐瞒下去，但是由于某种变故我得写下这段经历</title>
+      <link>https://www.bilibili.com/video/BV1o1JP6dEFv</link>
+      <guid isPermaLink="false">ppg2ch-BV1o1JP6dEFv</guid>
+      <pubDate>Sun, 14 Jun 2026 12:16:06 +0000</pubDate>
       <description>-</description>
-      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV19WjA63Ejn.mp3" length="3709487" type="audio/mpeg"/>
-      <itunes:duration>00:07:44</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1o1JP6dEFv.mp3" length="8888420" type="audio/mpeg"/>
+      <itunes:duration>00:18:31</itunes:duration>
     </item>
   </channel>
 </rss>
