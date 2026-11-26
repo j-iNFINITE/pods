@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:39:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4922,6 +4922,43 @@ hi~大家好。
 29:34-30:10 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UhtHeuEo9.mp3" length="14482917" type="audio/mpeg"/>
       <itunes:duration>00:30:10</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」旅途中遇到连环怪事儿；符箓房间；老式电车爆炸；黑狗拦路；领路鱼；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1N44reDEMc</link>
+      <guid isPermaLink="false">dean-BV1N44reDEMc</guid>
+      <pubDate>Sat, 14 Sep 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史52·下」
+
+大家好，在这儿先跟大家道个歉。
+
+我十月一有出行的计划，为了保证不会断更。我最近一有时间就在赶稿子，最近天气热加上过度劳累可能会有些状态不佳。希望各位朋友能予以理解。
+
+另外为了防止后续这种事情再度发生，十一回来后我会提前录制好来防范有突发事件，别的不能跟大家保证，只能保证尽可能的不会断更，不会让大家空等。
+
+好，大体的事情就这样。请大家鉴赏本期的故事。
+
+------------------------------------------------------分割线-------------------------------------------------------------
+片尾BGM：古典吉他独奏 押尾光太郎 风之诗
+
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+------------------------------------------------------分割线-------------------------------------------------------------
+
+时间轴：
+
+00:00-08:07 领路鱼
+
+08:07-28:45 路途中遇到的三两怪事
+
+28:45-29:19 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1N44reDEMc.mp3" length="14079575" type="audio/mpeg"/>
+      <itunes:duration>00:29:20</itunes:duration>
     </item>
   </channel>
 </rss>
