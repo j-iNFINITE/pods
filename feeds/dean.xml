@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:31:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6166,6 +6166,21 @@ hi~大家好。
 祝各位小伙伴儿初二快乐，投稿直接联系我。希望得到您的三连</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1MC41147Ee.mp3" length="12844514" type="audio/mpeg"/>
       <itunes:duration>00:26:46</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史春节特别篇1」网友投稿；奇怪的父亲；高速路上看不到的车；它要占有我的内脏；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV17Z421U7mq</link>
+      <guid isPermaLink="false">dean-BV17Z421U7mq</guid>
+      <pubDate>Sat, 10 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史春节特别篇1」
+
+祝各位小伙伴儿新年快乐，希望大家能多多三连。
+
+祝愿大家在新的一年里辞暮尔尔，烟火年年，朝朝暮暮，岁岁平安
+
+另外，渴望得到各位小伙伴儿的投稿。想做几期关于都市类的网友投稿系列。希望得到各位的支持。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17Z421U7mq.mp3" length="13171976" type="audio/mpeg"/>
+      <itunes:duration>00:27:26</itunes:duration>
     </item>
   </channel>
 </rss>
