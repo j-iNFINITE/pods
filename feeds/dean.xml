@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:05:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3957,6 +3957,31 @@ AI给出的时间轴：
 29:28 黑衣神仙的诅咒：杀过很多人后的生活变故！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Umf5YVELF.mp3" length="15520291" type="audio/mpeg"/>
       <itunes:duration>00:32:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」百日宴村民自称祖先；金口言中新丁命数；蜥蜴乘客执意取命；网友投稿民间鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1XbcoeVEfR</link>
+      <guid isPermaLink="false">dean-BV1XbcoeVEfR</guid>
+      <pubDate>Sun, 19 Jan 2025 02:00:00 +0000</pubDate>
+      <description>那么上一集视频中讲过，最近用嗓的强度很大。在这一集就可以听出来，很多地方完全是拖出来的，甚至很多声音都发不全，非常嘶哑。基本上是挤着嗓子录完的，对我来说有点煎熬。不过我已经尽量优化重新录制了，不过有些地方还是不太行，请大家见谅！
+
+下面是超级时间轴，请见。
+
+今天的故事来自网友小武的分享，关于他二大爷的一段诡异经历。勤奋朴实的二大爷，为了家庭幸福，转行做起黑客运。然而，在一个冬日的夜晚，一次普通的出车竟变成了恐怖之旅。神秘乘客、突然消失的声音、还有家中那不可思议的现象...这背后究竟藏着怎样的秘密？听完这个故事，或许你会对平凡生活中的不平凡有了新的认识。
+02:04 黑客运背后的危险与挑战：一场意想不到的夜晚之旅
+04:04 命运的交错：二大爷的凶险经历与家人的惊吓故事
+06:05 诡异的阴影：二大娘和二大爷遭遇奇怪的访客
+08:05 神秘的访客：二大爷家的诡异经历
+10:06 神秘的十字路口：二大爷的离奇遭遇
+12:08 诡异事件！接人途中遭遇三胞胎兄弟的惊人秘密！
+14:08 离奇遭遇：国道两旁的怪异景象与跟踪追击
+16:08 疯狂追逐：一辆车与三个神秘东西的激烈追逐战！
+18:09 神秘的咒语与二大爷的突然死亡：一场令人不安的事件！
+20:09 家族命运的转折点：二大爷的健康问题引发的连锁反应
+22:09 鱼鳞病的痛苦与心灵拷问：一个家庭的离奇故事
+24:11 养殖商的失踪：二大娘的离奇离职引发的连锁反应</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1XbcoeVEfR.mp3" length="12310144" type="audio/mpeg"/>
+      <itunes:duration>00:25:39</itunes:duration>
     </item>
   </channel>
 </rss>
