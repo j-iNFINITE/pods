@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:03:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -792,6 +792,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV179Fez5E8m.mp3" length="3695277" type="audio/mpeg"/>
       <itunes:duration>00:07:42</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV179Fez5E8m.jpg"/>
+    </item>
+    <item>
+      <title>洒落怖恐怖故事：牛の森</title>
+      <link>https://www.bilibili.com/video/BV1FHfoBrEnF</link>
+      <guid isPermaLink="false">ppg2ch-BV1FHfoBrEnF</guid>
+      <pubDate>Wed, 04 Feb 2026 12:33:27 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1FHfoBrEnF.mp3" length="3663512" type="audio/mpeg"/>
+      <itunes:duration>00:07:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1FHfoBrEnF.jpg"/>
     </item>
   </channel>
 </rss>
