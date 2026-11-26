@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:19:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5321,6 +5321,37 @@ hi~大家好。
 32:15-32:54 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1kZ421N71y.mp3" length="15794682" type="audio/mpeg"/>
       <itunes:duration>00:32:54</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」嘴馋男孩误食蛊虫；人面虫要吃掉我；野外露营偶遇“鬼王”；一个女孩儿的来信；网友投稿民间鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1AH4y1A7PP</link>
+      <guid isPermaLink="false">dean-BV1AH4y1A7PP</guid>
+      <pubDate>Sat, 06 Jul 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史46·下」
+
+本期内含往期被ban视频，请留意
+
+投稿人：为保护投稿人隐私以后将不在播报，除非有特殊要求的
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-14:41 男孩儿误食蛊虫
+
+14:41-25:30 自称鬼王的老头
+
+25:30-34:48 （往期被ban重置版） 一个女人的来信
+
+34:48-35:20 ending</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1AH4y1A7PP.mp3" length="16968729" type="audio/mpeg"/>
+      <itunes:duration>00:35:21</itunes:duration>
     </item>
   </channel>
 </rss>
