@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:34:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1144,6 +1144,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1mLu16wEg5.mp3" length="34050189" type="audio/mpeg"/>
       <itunes:duration>01:10:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1mLu16wEg5.jpg"/>
+    </item>
+    <item>
+      <title>城隍麾下鸡脚神引渡枉死鬼：西南偏远山村九十年代灵异往事丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1GjGP6wEkq</link>
+      <guid isPermaLink="false">3546967225403396-BV1GjGP6wEkq</guid>
+      <pubDate>Tue, 11 Aug 2026 23:30:00 +0000</pubDate>
+      <description>城隍麾下鸡脚神引渡枉死鬼：西南偏远山村九十年代灵异往事丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1GjGP6wEkq.mp3" length="29711564" type="audio/mpeg"/>
+      <itunes:duration>01:01:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1GjGP6wEkq.jpg"/>
     </item>
   </channel>
 </rss>
