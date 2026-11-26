@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:18:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6534,6 +6534,15 @@ hi~大家好。
       <description>肝完了，下周见。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1g8411y7kw.mp3" length="11823859" type="audio/mpeg"/>
       <itunes:duration>00:24:38</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」童年玩伴拿了功德箱里的香火钱；我家的租客可能是被人虐待而亡的？</title>
+      <link>https://www.bilibili.com/video/BV1ZH4y1Z7rH</link>
+      <guid isPermaLink="false">dean-BV1ZH4y1Z7rH</guid>
+      <pubDate>Fri, 06 Oct 2023 01:00:00 +0000</pubDate>
+      <description>肝.......</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ZH4y1Z7rH.mp3" length="11988953" type="audio/mpeg"/>
+      <itunes:duration>00:24:59</itunes:duration>
     </item>
   </channel>
 </rss>
