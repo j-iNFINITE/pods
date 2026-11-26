@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:18:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6339,6 +6339,17 @@ hi~大家好。
 请大家理性观看。感谢大家的支持</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1au4y1T7Jg.mp3" length="15952669" type="audio/mpeg"/>
       <itunes:duration>00:33:14</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」我的四姥姥是远近闻名的大神；来自刺猬的报复；守村人说这个村子风水不好让我们搬离；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1qb4y157tF</link>
+      <guid isPermaLink="false">dean-BV1qb4y157tF</guid>
+      <pubDate>Fri, 22 Dec 2023 02:00:00 +0000</pubDate>
+      <description>欢迎收听稗官野史22期上
+
+本期故事来自缘分天空聊天室业主及B站小伙伴投稿</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1qb4y157tF.mp3" length="13502801" type="audio/mpeg"/>
+      <itunes:duration>00:28:08</itunes:duration>
     </item>
   </channel>
 </rss>
