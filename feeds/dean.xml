@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:57:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6479,6 +6479,15 @@ hi~大家好。
       <description>本期听个乐，不吓人，各位老板放心下饭。如果可以给个三点推荐吧，求求了</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Nj411Y7hK.mp3" length="12985357" type="audio/mpeg"/>
       <itunes:duration>00:27:03</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」邻居跪在满是神像的房间里，宿舍楼外急促的高跟鞋；已故亲人回来的方式。网友投稿</title>
+      <link>https://www.bilibili.com/video/BV19N4y1r7Da</link>
+      <guid isPermaLink="false">dean-BV19N4y1r7Da</guid>
+      <pubDate>Sat, 28 Oct 2023 02:00:00 +0000</pubDate>
+      <description>最近感谢大家的支持。大家一起加油！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV19N4y1r7Da.mp3" length="12458520" type="audio/mpeg"/>
+      <itunes:duration>00:25:57</itunes:duration>
     </item>
   </channel>
 </rss>
