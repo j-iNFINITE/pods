@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:56:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -354,6 +354,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1eAJR6tEt4.mp3" length="36711126" type="audio/mpeg"/>
       <itunes:duration>01:16:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1eAJR6tEt4.jpg"/>
+    </item>
+    <item>
+      <title>化龙山夜半突发怪事，全村闻声赶赴郊外，林间一物时隐时现难辨真身。丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1nrJB6tEMZ</link>
+      <guid isPermaLink="false">3546967225403396-BV1nrJB6tEMZ</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+      <description>化龙山夜半突发怪事，全村闻声赶赴郊外，林间一物时隐时现难辨真身。丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1nrJB6tEMZ.mp3" length="26433092" type="audio/mpeg"/>
+      <itunes:duration>00:55:04</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1nrJB6tEMZ.jpg"/>
     </item>
   </channel>
 </rss>
