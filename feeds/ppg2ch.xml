@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:53:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -742,6 +742,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1ovZuBYEVX.mp3" length="6357468" type="audio/mpeg"/>
       <itunes:duration>00:13:15</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1ovZuBYEVX.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：三人的秘密</title>
+      <link>https://www.bilibili.com/video/BV1TucjzLEko</link>
+      <guid isPermaLink="false">ppg2ch-BV1TucjzLEko</guid>
+      <pubDate>Fri, 13 Feb 2026 10:43:25 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1TucjzLEko.mp3" length="4787404" type="audio/mpeg"/>
+      <itunes:duration>00:09:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1TucjzLEko.jpg"/>
     </item>
   </channel>
 </rss>
