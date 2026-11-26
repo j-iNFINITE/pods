@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:33:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5435,6 +5435,36 @@ hi~大家好。
 时间轴：一整个的</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UZ421M7z9.mp3" length="15504618" type="audio/mpeg"/>
       <itunes:duration>00:32:18</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿鬼故事；神秘村庄的变态习俗；飞翔的人皮画；几个短篇鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1FS421o7iT</link>
+      <guid isPermaLink="false">dean-BV1FS421o7iT</guid>
+      <pubDate>Sat, 22 Jun 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史44下」
+
+投稿人：为保护投稿人隐私以后将不在播报，除非有特殊要求的
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏&amp;amp;风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+
+00:00-13:27 人皮画
+
+13:27-25:59 失踪姨公
+
+25:59-34:40 几篇小故事
+
+34:40-35:11 ending</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FS421o7iT.mp3" length="16894751" type="audio/mpeg"/>
+      <itunes:duration>00:35:12</itunes:duration>
     </item>
   </channel>
 </rss>
