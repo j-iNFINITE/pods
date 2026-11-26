@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:42:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6211,6 +6211,19 @@ hi~大家好。
 求给三连，给个关注。感谢</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1up421f7yW.mp3" length="14015627" type="audio/mpeg"/>
       <itunes:duration>00:29:12</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」天津大哥后续；我家门前的小河有东西在抓交替；和我约定的奶奶是个瘫痪在床的人；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1jw411j7di</link>
+      <guid isPermaLink="false">dean-BV1jw411j7di</guid>
+      <pubDate>Sat, 27 Jan 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史27下」
+
+投稿人：L、笑笑
+
+谢谢各位三连关注。哈哈哈</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1jw411j7di.mp3" length="13306768" type="audio/mpeg"/>
+      <itunes:duration>00:27:43</itunes:duration>
     </item>
   </channel>
 </rss>
