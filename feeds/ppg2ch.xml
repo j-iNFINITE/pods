@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:08:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -116,6 +116,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1i5Jk6aE76.mp3" length="12293217" type="audio/mpeg"/>
       <itunes:duration>00:25:37</itunes:duration>
+    </item>
+    <item>
+      <title>你见过微笑狗图片吗，这一期是经典都市传说smiledog</title>
+      <link>https://www.bilibili.com/video/BV11BpQ6mE6d</link>
+      <guid isPermaLink="false">ppg2ch-BV11BpQ6mE6d</guid>
+      <pubDate>Mon, 12 Oct 2026 06:26:18 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV11BpQ6mE6d.mp3" length="6197282" type="audio/mpeg"/>
+      <itunes:duration>00:12:55</itunes:duration>
     </item>
   </channel>
 </rss>
