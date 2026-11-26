@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:54:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -114,6 +114,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1H8sH6bEBw.mp3" length="24977131" type="audio/mpeg"/>
       <itunes:duration>00:52:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1H8sH6bEBw.jpg"/>
+    </item>
+    <item>
+      <title>传呼台接线员每晚十二点后接到电话，女人只说一句：我在桥下等你丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1k8sH6bEJs</link>
+      <guid isPermaLink="false">3546967225403396-BV1k8sH6bEJs</guid>
+      <pubDate>Sun, 15 Nov 2026 14:03:48 +0000</pubDate>
+      <description>传呼台接线员每晚十二点后接到电话，女人只说一句：我在桥下等你丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1k8sH6bEJs.mp3" length="26681151" type="audio/mpeg"/>
+      <itunes:duration>00:55:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1k8sH6bEJs.jpg"/>
     </item>
   </channel>
 </rss>
