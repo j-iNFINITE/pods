@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:48:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -472,6 +472,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1YmLn6RE1s.mp3" length="4603084" type="audio/mpeg"/>
       <itunes:duration>00:09:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1YmLn6RE1s.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：人体模型  14岁那年，我去朋友家做客，这次经历至今缠绕着我</title>
+      <link>https://www.bilibili.com/video/BV1Mk576BE9v</link>
+      <guid isPermaLink="false">ppg2ch-BV1Mk576BE9v</guid>
+      <pubDate>Sun, 10 May 2026 10:50:39 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1Mk576BE9v.mp3" length="6732168" type="audio/mpeg"/>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1Mk576BE9v.jpg"/>
     </item>
   </channel>
 </rss>

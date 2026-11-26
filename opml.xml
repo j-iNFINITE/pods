@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Podcasts" title="Podcasts">
+      <outline type="rss" text="_方水_" title="_方水_" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_47632997.xml" htmlUrl="https://www.bilibili.com/list/47632997?sort_field=pubtime&amp;oid=117681181169855&amp;bvid=BV1TpySz2EE1"/>
       <outline type="rss" text="黑森林_official" title="黑森林_official" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_1509451666.xml" htmlUrl="https://www.bilibili.com/list/1509451666?sort_field=pubtime&amp;oid=116945315696704&amp;bvid=BV1FgKq6XEBe"/>
       <outline type="rss" text="机器商店的员工" title="机器商店的员工" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_3546849432570793.xml" htmlUrl="https://www.bilibili.com/list/3546849432570793?sort_field=pubtime&amp;oid=117591557281284&amp;bvid=BV15eWu65EvJ"/>
       <outline type="rss" text="小黑屋的貘_mo" title="小黑屋的貘_mo" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_96609715.xml" htmlUrl="https://www.bilibili.com/list/96609715?sort_field=pubtime&amp;oid=117676768758310&amp;bvid=BV1JkykzSEyi"/>
