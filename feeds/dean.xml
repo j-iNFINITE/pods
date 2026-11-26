@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:16:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4668,6 +4668,55 @@ BGM（按分段章节）：
 1、古典吉他独奏 风之诗 押尾桑</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1LUSHYWEkM.mp3" length="14402669" type="audio/mpeg"/>
       <itunes:duration>00:30:00</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿的亲身经历；门外那个东西会模仿熟人说话；童年遇灵记；螣蛇势的另一种；民间故事</title>
+      <link>https://www.bilibili.com/video/BV13ZSHY7ER9</link>
+      <guid isPermaLink="false">dean-BV13ZSHY7ER9</guid>
+      <pubDate>Fri, 01 Nov 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史56·上」
+
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+------------------------------------------------ 分 割 线 ------------------------------------------------------------
+
+时间轴：
+
+00:00-12:24 模仿声音
+
+12:24-21:54 童年遇灵记
+
+21:54-30:56 螣蛇势
+
+30:56-31:16 END
+
+BGM（按分段章节）：
+
+第一章节：
+
+1、Myuu - Hold On
+
+2、高梨康治 (たかなし やすはる) - 寂れた町
+
+第二章节：
+
+1、Myuu - Scent of Night
+
+第三章节：
+
+1、.Myuu - Don&amp;#39;t Die on Me
+
+2、Myuu - Nebula
+
+
+第四章节（片尾）：古典吉他独奏 风之诗 押尾桑</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV13ZSHY7ER9.mp3" length="15012054" type="audio/mpeg"/>
+      <itunes:duration>00:31:16</itunes:duration>
     </item>
   </channel>
 </rss>
