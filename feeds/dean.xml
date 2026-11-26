@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:08:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6507,6 +6507,15 @@ hi~大家好。
       <description>之前的违规限流了，修改一下重发一次。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17g4y1d7cj.mp3" length="13036766" type="audio/mpeg"/>
       <itunes:duration>00:27:10</itunes:duration>
+    </item>
+    <item>
+      <title>「网友投稿中篇故事合集」同学右眼的秘密；路边穿着和服的女人到我家里来了；那个飘要带我们姐弟走；碟仙；</title>
+      <link>https://www.bilibili.com/video/BV1dH4y1R7Kt</link>
+      <guid isPermaLink="false">dean-BV1dH4y1R7Kt</guid>
+      <pubDate>Fri, 20 Oct 2023 01:00:00 +0000</pubDate>
+      <description>感冒了，录的时候迷迷糊糊的！感谢收听。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dH4y1R7Kt.mp3" length="12918494" type="audio/mpeg"/>
+      <itunes:duration>00:26:55</itunes:duration>
     </item>
   </channel>
 </rss>
