@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:44:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5529,6 +5529,38 @@ hi~大家好。
 37:46-38:17 ending</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1RZ421u7P1.mp3" length="18384566" type="audio/mpeg"/>
       <itunes:duration>00:38:18</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」电梯中蹦跳的瘦高巨眼男；剧组诗人；流传于民间的感应之说；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1ix4y1b7Fh</link>
+      <guid isPermaLink="false">dean-BV1ix4y1b7Fh</guid>
+      <pubDate>Fri, 14 Jun 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史43上」
+
+投稿人：为保护投稿人隐私以后将不在播报，除非有特殊要求的
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+
+00:00-00:34 preface
+
+00:34-12:29 电梯惊魂
+
+12:29-24:35 剧组诗人
+
+24:35-32:08 预感
+
+32:08-32:30 ending</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ix4y1b7Fh.mp3" length="15603466" type="audio/mpeg"/>
+      <itunes:duration>00:32:30</itunes:duration>
     </item>
   </channel>
 </rss>
