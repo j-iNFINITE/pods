@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:21:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4748,6 +4748,36 @@ BGM（按分段章节）：
 27:46-28:20 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV13YykY4E36.mp3" length="13600802" type="audio/mpeg"/>
       <itunes:duration>00:28:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」居住在墳地的少女； 妹妹的報復； 赤狐一族特有的借運術； 網友投稿民間故事； 鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1aNyDYmE24</link>
+      <guid isPermaLink="false">dean-BV1aNyDYmE24</guid>
+      <pubDate>Fri, 25 Oct 2024 14:10:02 +0000</pubDate>
+      <description>「稗官野史53·下」突然发现少了一个视频，误删了。哈哈哈
+ 
+ 
+片頭BGM:.古典吉他獨奏押尾光太郎Kotaro Oshio黃昏
+
+片尾BGM：古典吉他獨奏押尾光太郎風之詩
+
+如有侵犯權，請删除聯系
+
+謝謝大家的收聽，希望大家都能喜歡。 喜歡還請給個三連支持
+
+故事純屬娛樂，請不要比較真兒
+
+----------------------------------分割線----------------------------------
+
+时间轴：
+ 
+00:00-12:40 妹妹的報復
+ 
+12:40-26:55 赤狐傳法
+ 
+26:55-27:35 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1aNyDYmE24.mp3" length="13241357" type="audio/mpeg"/>
+      <itunes:duration>00:27:35</itunes:duration>
     </item>
   </channel>
 </rss>
