@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:11:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -414,6 +414,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV12HpC64Eou.mp3" length="26327349" type="audio/mpeg"/>
       <itunes:duration>00:54:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV12HpC64Eou.jpg"/>
+    </item>
+    <item>
+      <title>二婚媳妇去庙里许了愿，七百万大单到手，夫家老小接连出事！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV16jpd6EE1g</link>
+      <guid isPermaLink="false">3546967225403396-BV16jpd6EE1g</guid>
+      <pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
+      <description>二婚媳妇去庙里许了愿，七百万大单到手，夫家老小接连出事！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV16jpd6EE1g.mp3" length="25641895" type="audio/mpeg"/>
+      <itunes:duration>00:53:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV16jpd6EE1g.jpg"/>
     </item>
   </channel>
 </rss>
