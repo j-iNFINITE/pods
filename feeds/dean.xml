@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:23:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5842,6 +5842,25 @@ hi~大家好。
 温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1HH4y1M7Kb.mp3" length="14050526" type="audio/mpeg"/>
       <itunes:duration>00:29:16</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」借刀的邻居头飞起来了；同事的母亲要带她走；我的网友生活在格子里；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1dC41157ox</link>
+      <guid isPermaLink="false">dean-BV1dC41157ox</guid>
+      <pubDate>Fri, 12 Apr 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史36上」
+
+投稿人：视频内播报
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏&amp;amp;风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dC41157ox.mp3" length="14121162" type="audio/mpeg"/>
+      <itunes:duration>00:29:25</itunes:duration>
     </item>
   </channel>
 </rss>
