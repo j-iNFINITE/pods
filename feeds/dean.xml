@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:06:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5714,6 +5714,39 @@ hi~大家好。
 43:18-43:47 尾声</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Kz421U76G.mp3" length="21021261" type="audio/mpeg"/>
       <itunes:duration>00:43:48</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」朋友疑似被下降头；后被控制让我把门打开要求一起玩；母亲偶遇邻居生魂；重置版被BAN故事；网友投稿民间鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1UC411J7Pv</link>
+      <guid isPermaLink="false">dean-BV1UC411J7Pv</guid>
+      <pubDate>Fri, 03 May 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史39上」内含被BAN故事的重置版
+
+投稿人：视频内播报
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏&amp;amp;风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。
+
+时间轴：
+
+00:00-00:38 前言
+
+00:38-11:21 玉坠簪子
+
+11:21-27:33 被控制的朋友
+
+27:33-33:44 邻居生魂
+
+33:44-42:42 歹毒工友（被ban重置版）
+
+42:42-43:00 尾声</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UC411J7Pv.mp3" length="20644888" type="audio/mpeg"/>
+      <itunes:duration>00:43:01</itunes:duration>
     </item>
   </channel>
 </rss>
