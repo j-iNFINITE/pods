@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:06:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6050,6 +6050,17 @@ hi~大家好。
 我不管那些，给我三连。我要三连。哈哈哈哈</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FH4y177mU.mp3" length="13408541" type="audio/mpeg"/>
       <itunes:duration>00:27:56</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」某音网友run；雨林中扎营遇到了来自地狱的恶魔；和我同行的人只剩下我一个了；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1az421972j</link>
+      <guid isPermaLink="false">dean-BV1az421972j</guid>
+      <pubDate>Fri, 23 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史29上」
+
+嗨~大家好，感谢各位小伙伴儿的收听。求个三连，赞赞也行。感谢！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1az421972j.mp3" length="16824322" type="audio/mpeg"/>
+      <itunes:duration>00:35:03</itunes:duration>
     </item>
   </channel>
 </rss>
