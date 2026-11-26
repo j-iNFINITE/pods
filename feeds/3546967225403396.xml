@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:44:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1414,6 +1414,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1tfNa6DEum.mp3" length="36839022" type="audio/mpeg"/>
       <itunes:duration>01:16:45</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1tfNa6DEum.jpg"/>
+    </item>
+    <item>
+      <title>生前开阴阳眼连见阴差：东北出马老太死后不入轮回化身碑王  诡语怪谈丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1SENw6iE8G</link>
+      <guid isPermaLink="false">3546967225403396-BV1SENw6iE8G</guid>
+      <pubDate>Mon, 13 Jul 2026 23:30:00 +0000</pubDate>
+      <description>生前开阴阳眼连见阴差：东北出马老太死后不入轮回化身碑王  诡语怪谈丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1SENw6iE8G.mp3" length="34323117" type="audio/mpeg"/>
+      <itunes:duration>01:11:30</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1SENw6iE8G.jpg"/>
     </item>
   </channel>
 </rss>
