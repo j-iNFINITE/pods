@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:07:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1504,6 +1504,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1GLTq6VExP.mp3" length="28967597" type="audio/mpeg"/>
       <itunes:duration>01:00:21</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1GLTq6VExP.jpg"/>
+    </item>
+    <item>
+      <title>湘西会说人话的怪兽：青石后伪装弱女子求救，武陵山深处活人禁地！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1RkKf6gEFP</link>
+      <guid isPermaLink="false">3546967225403396-BV1RkKf6gEFP</guid>
+      <pubDate>Tue, 30 Jun 2026 23:30:00 +0000</pubDate>
+      <description>湘西会说人话的怪兽：青石后伪装弱女子求救，武陵山深处活人禁地！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1RkKf6gEFP.mp3" length="31924867" type="audio/mpeg"/>
+      <itunes:duration>01:06:31</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1RkKf6gEFP.jpg"/>
     </item>
   </channel>
 </rss>
