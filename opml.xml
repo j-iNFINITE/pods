@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Podcasts" title="Podcasts">
+      <outline type="rss" text="阿福的平凡冒险" title="阿福的平凡冒险" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" htmlUrl="https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe"/>
       <outline type="rss" text="夜半诡话丨民间诡事馆" title="夜半诡话丨民间诡事馆" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" htmlUrl="https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC"/>
       <outline type="rss" text="泡泡君-2ch论坛" title="泡泡君-2ch论坛" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" htmlUrl="https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL"/>
       <outline type="rss" text="迪恩_Dean" title="迪恩_Dean" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" htmlUrl="https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK"/>
