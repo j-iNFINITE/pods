@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:53:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5084,6 +5084,37 @@ hi~大家好。
 32:16-32:45 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1jRpFe1Er6.mp3" length="15722584" type="audio/mpeg"/>
       <itunes:duration>00:32:45</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」高龄投稿!!!妻子生前的怪异行为；受人朝拜滋生怪物；双性同学；延南仙子；网友投稿亲身经历</title>
+      <link>https://www.bilibili.com/video/BV1ursTexEWw</link>
+      <guid isPermaLink="false">dean-BV1ursTexEWw</guid>
+      <pubDate>Sat, 31 Aug 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史50·下」
+
+开幕再次雷击：在录制本期节目的过程中，甲方依然疯狂call我。我已经尽量吧情绪和声线保持一致了，但还是有一点点不好的感觉，望各位理解。虽然这样，还是希望得到您的三连
+
+
+片尾BGM：古典吉他独奏 押尾光太郎 风之诗
+
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-26:04 亡妻回忆录
+
+26:04-31:06 双性
+
+31:06-33:11 延南仙子
+
+33:11 -33:49 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ursTexEWw.mp3" length="16239809" type="audio/mpeg"/>
+      <itunes:duration>00:33:50</itunes:duration>
     </item>
   </channel>
 </rss>
