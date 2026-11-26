@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:47:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6451,6 +6451,16 @@ hi~大家好。
 感谢观看。下次再会！！</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1tC4y177Rz.mp3" length="14161077" type="audio/mpeg"/>
       <itunes:duration>00:29:30</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」诡异合租室友午夜时分敲门哭泣放哀乐；校园被霸凌者被梦复仇；网友投稿灵异故事</title>
+      <link>https://www.bilibili.com/video/BV1KG411Q7DT</link>
+      <guid isPermaLink="false">dean-BV1KG411Q7DT</guid>
+      <pubDate>Fri, 10 Nov 2023 01:00:00 +0000</pubDate>
+      <description>「稗官野史16上」
+谢谢观看。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1KG411Q7DT.mp3" length="14587405" type="audio/mpeg"/>
+      <itunes:duration>00:30:23</itunes:duration>
     </item>
   </channel>
 </rss>
