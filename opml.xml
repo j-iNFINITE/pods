@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="Podcasts" title="Podcasts">
+      <outline type="rss" text="時雨要" title="時雨要" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_494050.xml" htmlUrl="https://www.bilibili.com/list/494050?sort_field=pubtime&amp;oid=117671047730707&amp;bvid=BV1UjyfzrEQZ"/>
       <outline type="rss" text="吃咩も" title="吃咩も" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_667443335.xml" htmlUrl="https://www.bilibili.com/list/667443335?sort_field=pubtime&amp;oid=117649002531426&amp;bvid=BV18ayxzpESN"/>
       <outline type="rss" text="大范的怪谈酒馆" title="大范的怪谈酒馆" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/bili_13577938.xml" htmlUrl="https://www.bilibili.com/list/13577938/?sort_field=pubtime&amp;tid=0&amp;oid=117664336840325&amp;bvid=BV1wkyHzFEnh"/>
       <outline type="rss" text="大佬何金银" title="大佬何金银" xmlUrl="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" htmlUrl="https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF"/>
