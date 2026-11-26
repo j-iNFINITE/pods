@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:17:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1094,6 +1094,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1vFu16VECW.mp3" length="34237853" type="audio/mpeg"/>
       <itunes:duration>01:11:20</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1vFu16VECW.jpg"/>
+    </item>
+    <item>
+      <title>台湾腌头飞头怪谈：黑白无常进楼，那颗盐腌人头每晚还在找身子丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1YKu16uEEn</link>
+      <guid isPermaLink="false">3546967225403396-BV1YKu16uEEn</guid>
+      <pubDate>Sun, 16 Aug 2026 23:30:00 +0000</pubDate>
+      <description>台湾腌头飞头怪谈：黑白无常进楼，那颗盐腌人头每晚还在找身子丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1YKu16uEEn.mp3" length="36748325" type="audio/mpeg"/>
+      <itunes:duration>01:16:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1YKu16uEEn.jpg"/>
     </item>
   </channel>
 </rss>
