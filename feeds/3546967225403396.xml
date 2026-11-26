@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:18:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -434,6 +434,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1capn6HEdY.mp3" length="37129922" type="audio/mpeg"/>
       <itunes:duration>01:17:21</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1capn6HEdY.jpg"/>
+    </item>
+    <item>
+      <title>90年代派出所怪事：半夜哭声电话，打电话的女人早死了丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1Erp36WEKp</link>
+      <guid isPermaLink="false">3546967225403396-BV1Erp36WEKp</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <description>90年代派出所怪事：半夜哭声电话，打电话的女人早死了丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1Erp36WEKp.mp3" length="24305889" type="audio/mpeg"/>
+      <itunes:duration>00:50:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1Erp36WEKp.jpg"/>
     </item>
   </channel>
 </rss>
