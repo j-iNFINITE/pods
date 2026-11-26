@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:11:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6516,6 +6516,15 @@ hi~大家好。
       <description>感冒了，录的时候迷迷糊糊的！感谢收听。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1dH4y1R7Kt.mp3" length="12918494" type="audio/mpeg"/>
       <itunes:duration>00:26:55</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿；来找我纹眉的是一群纸人；城隍爷收我做徒弟；工作室内一双人脚倒影。</title>
+      <link>https://www.bilibili.com/video/BV1DB4y1Z7wn</link>
+      <guid isPermaLink="false">dean-BV1DB4y1Z7wn</guid>
+      <pubDate>Sat, 14 Oct 2023 01:00:00 +0000</pubDate>
+      <description>听自己录音的时候听得要睡着了，惆怅！！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1DB4y1Z7wn.mp3" length="13870605" type="audio/mpeg"/>
+      <itunes:duration>00:28:54</itunes:duration>
     </item>
   </channel>
 </rss>
