@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:14:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -323,6 +323,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1WKNd65EKR.mp3" length="2832609" type="audio/mpeg"/>
       <itunes:duration>00:05:54</itunes:duration>
+    </item>
+    <item>
+      <title>搜救员见闻，我是一名搜救员，在林间遇到不能解释的东西</title>
+      <link>https://www.bilibili.com/video/BV1NqNJ67ESk</link>
+      <guid isPermaLink="false">ppg2ch-BV1NqNJ67ESk</guid>
+      <pubDate>Fri, 10 Jul 2026 12:48:07 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1NqNJ67ESk.mp3" length="7160367" type="audio/mpeg"/>
+      <itunes:duration>00:14:55</itunes:duration>
     </item>
   </channel>
 </rss>
