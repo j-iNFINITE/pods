@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:54:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -502,6 +502,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV14NREBPEvw.mp3" length="6706046" type="audio/mpeg"/>
       <itunes:duration>00:13:58</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV14NREBPEvw.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：人偶寺   那天我闲来无事，去了当地不一样的神社</title>
+      <link>https://www.bilibili.com/video/BV1cK9QBUE3s</link>
+      <guid isPermaLink="false">ppg2ch-BV1cK9QBUE3s</guid>
+      <pubDate>Wed, 29 Apr 2026 10:21:43 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1cK9QBUE3s.mp3" length="7062774" type="audio/mpeg"/>
+      <itunes:duration>00:14:43</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1cK9QBUE3s.jpg"/>
     </item>
   </channel>
 </rss>
