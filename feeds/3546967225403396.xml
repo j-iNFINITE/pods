@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:48:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -994,6 +994,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV184bR65Ev7.mp3" length="30536406" type="audio/mpeg"/>
       <itunes:duration>01:03:37</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV184bR65Ev7.jpg"/>
+    </item>
+    <item>
+      <title>活人皮囊死人魂！他的身体到底成了谁的容器 ，活下来的他究竟是谁？丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1iCbU6uEC2</link>
+      <guid isPermaLink="false">3546967225403396-BV1iCbU6uEC2</guid>
+      <pubDate>Wed, 26 Aug 2026 23:30:00 +0000</pubDate>
+      <description>活人皮囊死人魂！他的身体到底成了谁的容器 ，活下来的他究竟是谁？丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1iCbU6uEC2.mp3" length="30895851" type="audio/mpeg"/>
+      <itunes:duration>01:04:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1iCbU6uEC2.jpg"/>
     </item>
   </channel>
 </rss>
