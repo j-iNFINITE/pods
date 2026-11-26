@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:33:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -388,6 +388,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1MMEG6wE4s.mp3" length="4097562" type="audio/mpeg"/>
       <itunes:duration>00:08:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1MMEG6wE4s.jpg"/>
+    </item>
+    <item>
+      <title>reddit论坛：山林搜救日志（第三集）“这是我集训时期询问前辈们的故事”</title>
+      <link>https://www.bilibili.com/video/BV1UPEc6PEyX</link>
+      <guid isPermaLink="false">ppg2ch-BV1UPEc6PEyX</guid>
+      <pubDate>Thu, 04 Jun 2026 12:58:33 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1UPEc6PEyX.mp3" length="11028162" type="audio/mpeg"/>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1UPEc6PEyX.jpg"/>
     </item>
   </channel>
 </rss>
