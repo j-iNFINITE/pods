@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:34:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4347,6 +4347,25 @@ BGM（片尾）：古典吉他独奏 风之诗 押尾桑
 BGM（片尾）：古典吉他独奏 风之诗 押尾桑</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1unqaYgEaS.mp3" length="14885620" type="audio/mpeg"/>
       <itunes:duration>00:31:01</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」顽皮少年矿洞寻宝偶遇巨型食脸蝙蝠；无面干尸代表复活卷轴；神灵指引降下火雷荡平邪秽；民间故事；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1adqaYLEdR</link>
+      <guid isPermaLink="false">dean-BV1adqaYLEdR</guid>
+      <pubDate>Fri, 13 Dec 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史62·上」
+
+嘿嘿嘿，这周差点拖更。周四马上过12点了才做出来。太刺激拉，觉得刺激的请在弹幕发送刺激领取今日份好心情。
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+素材均来源于网络，如有侵权，请联系删除。
+
+BGM（片尾）：古典吉他独奏 风之诗 押尾桑</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1adqaYLEdR.mp3" length="14881231" type="audio/mpeg"/>
+      <itunes:duration>00:31:00</itunes:duration>
     </item>
   </channel>
 </rss>
