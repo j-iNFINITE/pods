@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:41:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4394,6 +4394,29 @@ BGM（片尾）：古典吉他独奏 风之诗 押尾桑
 27:26-28:19 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1NriRYcERR.mp3" length="13600384" type="audio/mpeg"/>
       <itunes:duration>00:28:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」海外独家!!!法国中古商店喜得吊诡名表；那个男人浑身长满了疙瘩；陌生母女的善意提醒；网友投稿</title>
+      <link>https://www.bilibili.com/video/BV1eWiRYkEPu</link>
+      <guid isPermaLink="false">dean-BV1eWiRYkEPu</guid>
+      <pubDate>Fri, 06 Dec 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史61·上」
+
+近期语速有点快，我正在努力的修正。
+
+其实这个情况我也很痛苦，可能日常说话快习惯了，说话慢了一直在嘴瓢哈哈哈哈。
+
+其实我也想慢下来，因为万字稿件给我的话可能最多也就是30分钟。暂时准备降到35-40分钟。望大家可以理解。
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+素材均来源于网络，如有侵权，请联系删除。·
+
+BGM（片尾）：古典吉他独奏 风之诗 押尾桑</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1eWiRYkEPu.mp3" length="15041310" type="audio/mpeg"/>
+      <itunes:duration>00:31:20</itunes:duration>
     </item>
   </channel>
 </rss>
