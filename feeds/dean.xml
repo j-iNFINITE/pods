@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:13:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6078,6 +6078,21 @@ hi~大家好。
 投稿的小伙伴儿直接联系我即可。谢谢</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1cF4m1M7Wj.mp3" length="14749363" type="audio/mpeg"/>
       <itunes:duration>00:30:44</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史春节特别篇7」网友投稿；办公室里倒吊的女人；被娘娘叫走的唱跳女孩；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1yj421Q7Av</link>
+      <guid isPermaLink="false">dean-BV1yj421Q7Av</guid>
+      <pubDate>Fri, 16 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史春节特别篇7」
+
+祝各位小伙伴儿初七快乐，希望得到您的三连
+
+今天是正月初七。在传统节日里今天是人日。祝大家人寿年丰。
+
+投稿的小伙伴儿直接联系我即可。谢谢</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1yj421Q7Av.mp3" length="12005034" type="audio/mpeg"/>
+      <itunes:duration>00:25:01</itunes:duration>
     </item>
   </channel>
 </rss>
