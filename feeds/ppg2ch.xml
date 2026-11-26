@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:02:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -98,6 +98,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1zHn167Ekr.mp3" length="3668211" type="audio/mpeg"/>
       <itunes:duration>00:07:38</itunes:duration>
+    </item>
+    <item>
+      <title>日本2ch论坛：山之助</title>
+      <link>https://www.bilibili.com/video/BV1rwnA6cEAV</link>
+      <guid isPermaLink="false">ppg2ch-BV1rwnA6cEAV</guid>
+      <pubDate>Tue, 20 Oct 2026 14:00:02 +0000</pubDate>
+      <description>重置版，山之助</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1rwnA6cEAV.mp3" length="2919228" type="audio/mpeg"/>
+      <itunes:duration>00:06:05</itunes:duration>
     </item>
   </channel>
 </rss>
