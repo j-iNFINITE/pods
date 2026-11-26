@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:37:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6590,6 +6590,15 @@ hi~大家好。
 我要多学习了来报答大家的关注之恩了。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1qz4y157NK.mp3" length="16543036" type="audio/mpeg"/>
       <itunes:duration>00:34:28</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史1·下」探险灾后大楼，同学被人从四楼丢了下来；我的自行车后座上站着一个人；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV11N411n7Ja</link>
+      <guid isPermaLink="false">dean-BV11N411n7Ja</guid>
+      <pubDate>Fri, 15 Sep 2023 01:00:00 +0000</pubDate>
+      <description>忙忙忙，这期原汁原味往外发。求求三连关注。谢谢谢谢谢谢！！！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV11N411n7Ja.mp3" length="18004639" type="audio/mpeg"/>
+      <itunes:duration>00:37:31</itunes:duration>
     </item>
   </channel>
 </rss>
