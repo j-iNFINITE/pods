@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:58:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1464,6 +1464,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1duM365EBs.mp3" length="32263623" type="audio/mpeg"/>
       <itunes:duration>01:07:13</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1duM365EBs.jpg"/>
+    </item>
+    <item>
+      <title>惊天凶地夺命园区：乱葬岗上建屠宰场接连死人，这块地到底有多邪丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV153Me6GE6x</link>
+      <guid isPermaLink="false">3546967225403396-BV153Me6GE6x</guid>
+      <pubDate>Wed, 08 Jul 2026 23:30:00 +0000</pubDate>
+      <description>惊天凶地夺命园区：乱葬岗上建屠宰场接连死人，这块地到底有多邪丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV153Me6GE6x.mp3" length="31078500" type="audio/mpeg"/>
+      <itunes:duration>01:04:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV153Me6GE6x.jpg"/>
     </item>
   </channel>
 </rss>
