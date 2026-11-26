@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:12:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -125,6 +125,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV11BpQ6mE6d.mp3" length="6197282" type="audio/mpeg"/>
       <itunes:duration>00:12:55</itunes:duration>
+    </item>
+    <item>
+      <title>日本2ch论坛：“白坊”翻译为白婴</title>
+      <link>https://www.bilibili.com/video/BV1sepL6yEpr</link>
+      <guid isPermaLink="false">ppg2ch-BV1sepL6yEpr</guid>
+      <pubDate>Sun, 11 Oct 2026 00:37:24 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1sepL6yEpr.mp3" length="8353534" type="audio/mpeg"/>
+      <itunes:duration>00:17:24</itunes:duration>
     </item>
   </channel>
 </rss>
