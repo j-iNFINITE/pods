@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:02:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5681,6 +5681,39 @@ hi~大家好。
 34:42-35:00        ending</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Gw4m197AN.mp3" length="16806769" type="audio/mpeg"/>
       <itunes:duration>00:35:01</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」蹲在垃圾桶上的人；发小家被诅咒；渔村的无面女人；阴桃花；网友投稿民间鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1Kz421U76G</link>
+      <guid isPermaLink="false">dean-BV1Kz421U76G</guid>
+      <pubDate>Sat, 04 May 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史39下」内含被BAN故事的重置版
+
+投稿人：视频内播报
+
+片头及片尾BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏&amp;amp;风之诗
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。
+
+时间轴：
+
+00:00-11:48 蹲在垃圾桶上的人
+
+11:48-20:29 发小家的诅咒
+
+20:29-26:41 阴桃花
+
+26:41-36:16 渔村的无面女人
+
+36:16-43:18 鬼遮眼
+
+43:18-43:47 尾声</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Kz421U76G.mp3" length="21021261" type="audio/mpeg"/>
+      <itunes:duration>00:43:48</itunes:duration>
     </item>
   </channel>
 </rss>
