@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:07:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -404,6 +404,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1Wvpm6PEz7.mp3" length="34393125" type="audio/mpeg"/>
       <itunes:duration>01:11:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1Wvpm6PEz7.jpg"/>
+    </item>
+    <item>
+      <title>死过明星的那座桥，晚上拍到红衣身影，半飘着上了桥！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV12HpC64Eou</link>
+      <guid isPermaLink="false">3546967225403396-BV12HpC64Eou</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+      <description>死过明星的那座桥，晚上拍到红衣身影，半飘着上了桥！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV12HpC64Eou.mp3" length="26327349" type="audio/mpeg"/>
+      <itunes:duration>00:54:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV12HpC64Eou.jpg"/>
     </item>
   </channel>
 </rss>
