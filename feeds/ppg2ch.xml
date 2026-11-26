@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:57:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -80,6 +80,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1Qx4c6tEyg.mp3" length="3972904" type="audio/mpeg"/>
       <itunes:duration>00:08:17</itunes:duration>
+    </item>
+    <item>
+      <title>日本2ch论坛：异世界车站</title>
+      <link>https://www.bilibili.com/video/BV1hmxj6vE5k</link>
+      <guid isPermaLink="false">ppg2ch-BV1hmxj6vE5k</guid>
+      <pubDate>Wed, 28 Oct 2026 05:31:51 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1hmxj6vE5k.mp3" length="8302125" type="audio/mpeg"/>
+      <itunes:duration>00:17:18</itunes:duration>
     </item>
   </channel>
 </rss>
