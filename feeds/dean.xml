@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:39:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6424,6 +6424,23 @@ hi~大家好。
 谢谢</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV13G411q7j3.mp3" length="14602452" type="audio/mpeg"/>
       <itunes:duration>00:30:25</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」创业合伙人的邋遢破坏好风水，公司惨遭连累倒闭；那晚我被一顶被轿子疯狂追赶，误入神秘村庄</title>
+      <link>https://www.bilibili.com/video/BV1UG411U7qS</link>
+      <guid isPermaLink="false">dean-BV1UG411U7qS</guid>
+      <pubDate>Fri, 24 Nov 2023 00:34:58 +0000</pubDate>
+      <description>耳毛FM------稗官野史18期（上）
+
+最近这段时间神经比较紧绷，本期视频是在白天录的。楼上邻居装修，所以我一直身处在叮叮叮当当当的环境下状态下录制的。
+
+有一段时间老是被巨大的声音而打断导致情绪很暴躁，只想着尽快录完。看来我的心还是浮躁压不住火。
+
+本期故事较为柔和，希望大家能够喜欢。
+
+同时也感谢大家的观看。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1UG411U7qS.mp3" length="14051362" type="audio/mpeg"/>
+      <itunes:duration>00:29:16</itunes:duration>
     </item>
   </channel>
 </rss>
