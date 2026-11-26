@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:28:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1564,6 +1564,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1dT7v6KEaS.mp3" length="29289007" type="audio/mpeg"/>
       <itunes:duration>01:01:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1dT7v6KEaS.jpg"/>
+    </item>
+    <item>
+      <title>江苏长途站传得最凶的邪事：路边的野孩子是坟头小鬼丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1PY7x6tEeK</link>
+      <guid isPermaLink="false">3546967225403396-BV1PY7x6tEeK</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
+      <description>江苏长途站传得最凶的邪事：路边的野孩子是坟头小鬼丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1PY7x6tEeK.mp3" length="32229141" type="audio/mpeg"/>
+      <itunes:duration>01:07:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1PY7x6tEeK.jpg"/>
     </item>
   </channel>
 </rss>
