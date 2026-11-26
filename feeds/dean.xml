@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:24:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6138,6 +6138,19 @@ hi~大家好。
 投稿的小伙伴儿直接联系我即可。谢谢</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17m411X71w.mp3" length="13198099" type="audio/mpeg"/>
       <itunes:duration>00:27:30</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史春节特别篇3」Jun队里的木鱼和诵经声；废弃电话响了；去SHI会计说他渴；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1fJ4m147vn</link>
+      <guid isPermaLink="false">dean-BV1fJ4m147vn</guid>
+      <pubDate>Mon, 12 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史春节特别篇3」
+
+祝各位小伙伴儿初三快乐，投稿直接联系我。希望得到您的三连
+
+想做几期都市系列的怪谈，有经历的小伙伴儿还请多多投稿</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1fJ4m147vn.mp3" length="11811519" type="audio/mpeg"/>
+      <itunes:duration>00:24:36</itunes:duration>
     </item>
   </channel>
 </rss>
