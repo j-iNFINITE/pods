@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:53:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6250,6 +6250,21 @@ hi~大家好。
 从来没这么大费周折的问大家要个三连，希望大家能够满足我的愿望。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1r64y1K75N.mp3" length="13232580" type="audio/mpeg"/>
       <itunes:duration>00:27:34</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」校园霸凌自尽的人附身于我；变态同学竟是恋虫癖；不孝畜生捅伤母亲。</title>
+      <link>https://www.bilibili.com/video/BV1nQ4y157DK</link>
+      <guid isPermaLink="false">dean-BV1nQ4y157DK</guid>
+      <pubDate>Fri, 12 Jan 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史25上」
+
+本期投稿：始终、小雅（匿名）
+
+感谢各位的收听。
+
+最近点赞率太低了，希望各位能多给三连。感谢各位。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1nQ4y157DK.mp3" length="13132061" type="audio/mpeg"/>
+      <itunes:duration>00:27:21</itunes:duration>
     </item>
   </channel>
 </rss>
