@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:34:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5899,6 +5899,27 @@ hi~大家好。
 温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1sZ421B7vx.mp3" length="17630358" type="audio/mpeg"/>
       <itunes:duration>00:36:44</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」军中诡事；营地门口那颗不可靠近的枯树上站满了乌鸦；战友不听警告酿成大错；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1w1421U7Ng</link>
+      <guid isPermaLink="false">dean-BV1w1421U7Ng</guid>
+      <pubDate>Sat, 30 Mar 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史34下」
+
+投稿人：视频内播报
+
+片头及片尾BGM：Confident Kurt - TrackTribe
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+温馨提示：为保护投稿人隐私，以后不会在视频中晒出投稿人社交媒体头像。
+
+另外也希望各位大哥高抬贵手，我们好像有好几期节目都寄了。以后有时间再给大家做重置版吧。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1w1421U7Ng.mp3" length="13072084" type="audio/mpeg"/>
+      <itunes:duration>00:27:14</itunes:duration>
     </item>
   </channel>
 </rss>
