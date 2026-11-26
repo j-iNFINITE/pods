@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:54:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6470,6 +6470,15 @@ hi~大家好。
       <description>本期听个乐，不吓人，各位老板放心下饭。如果可以给个三点推荐吧，求求了</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17w411B7Px.mp3" length="12712221" type="audio/mpeg"/>
       <itunes:duration>00:26:29</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」独居老人错误的委托；孝子为父母刨盒被主人报复；杀妻凶手最终得以正法。网友投稿奇闻异事</title>
+      <link>https://www.bilibili.com/video/BV1Nj411Y7hK</link>
+      <guid isPermaLink="false">dean-BV1Nj411Y7hK</guid>
+      <pubDate>Fri, 03 Nov 2023 00:29:25 +0000</pubDate>
+      <description>本期听个乐，不吓人，各位老板放心下饭。如果可以给个三点推荐吧，求求了</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Nj411Y7hK.mp3" length="12985357" type="audio/mpeg"/>
+      <itunes:duration>00:27:03</itunes:duration>
     </item>
   </channel>
 </rss>
