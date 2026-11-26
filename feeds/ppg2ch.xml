@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:28:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -361,13 +361,13 @@
       <itunes:duration>00:12:29</itunes:duration>
     </item>
     <item>
-      <title>reddit论坛：山难搜救员见闻（第四集）</title>
-      <link>https://www.bilibili.com/video/BV1rLj86aERy</link>
-      <guid isPermaLink="false">ppg2ch-BV1rLj86aERy</guid>
-      <pubDate>Sun, 21 Jun 2026 13:05:24 +0000</pubDate>
+      <title>日本2ch论坛：久流木，这件事流传在小孩子们之间，大人完全不知情</title>
+      <link>https://www.bilibili.com/video/BV19WjA63Ejn</link>
+      <guid isPermaLink="false">ppg2ch-BV19WjA63Ejn</guid>
+      <pubDate>Thu, 18 Jun 2026 11:20:09 +0000</pubDate>
       <description>-</description>
-      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1rLj86aERy.mp3" length="7152844" type="audio/mpeg"/>
-      <itunes:duration>00:14:54</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV19WjA63Ejn.mp3" length="3709487" type="audio/mpeg"/>
+      <itunes:duration>00:07:44</itunes:duration>
     </item>
   </channel>
 </rss>
