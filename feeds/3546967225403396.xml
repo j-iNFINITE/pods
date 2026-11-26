@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:37:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -274,6 +274,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1anx162Eb2.mp3" length="27217393" type="audio/mpeg"/>
       <itunes:duration>00:56:42</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1anx162Eb2.jpg"/>
+    </item>
+    <item>
+      <title>末班地铁开进阴森死站！原版如月车站究竟有多邪门？失踪七天吓到魂飞魄散！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1anx162E47</link>
+      <guid isPermaLink="false">3546967225403396-BV1anx162E47</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+      <description>末班地铁开进阴森死站！原版如月车站究竟有多邪门？失踪七天吓到魂飞魄散！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1anx162E47.mp3" length="35512211" type="audio/mpeg"/>
+      <itunes:duration>01:13:59</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1anx162E47.jpg"/>
     </item>
   </channel>
 </rss>
