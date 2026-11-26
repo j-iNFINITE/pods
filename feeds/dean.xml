@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:19:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6108,6 +6108,21 @@ hi~大家好。
 投稿的小伙伴儿直接联系我即可。谢谢</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1EC41147Fq.mp3" length="12995179" type="audio/mpeg"/>
       <itunes:duration>00:27:04</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史春节特别篇5」那三支香烧成了两短一长；有个阿姨把头放在我的肩膀上；练武术的太爷；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1YK421C7na</link>
+      <guid isPermaLink="false">dean-BV1YK421C7na</guid>
+      <pubDate>Wed, 14 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史春节特别篇5」
+
+祝各位小伙伴儿初五快乐，希望得到您的三连
+
+在传统节日里呢是五路接财神的日子，祝大家在新的一年里 、财源滚滚、福气连连。
+
+投稿的小伙伴儿直接联系我即可。谢谢</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1YK421C7na.mp3" length="14819162" type="audio/mpeg"/>
+      <itunes:duration>00:30:52</itunes:duration>
     </item>
   </channel>
 </rss>
