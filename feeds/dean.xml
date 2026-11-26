@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:14:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6328,6 +6328,17 @@ hi~大家好。
 刚搬到新地方录音，有点不适应。请大家鉴赏。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV14e41167qt.mp3" length="16520257" type="audio/mpeg"/>
       <itunes:duration>00:34:25</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」童年玩伴在父母眼下失踪；她隔着墙求我帮帮她；莫名发臭的井水牵出女孩行踪；故事会</title>
+      <link>https://www.bilibili.com/video/BV1au4y1T7Jg</link>
+      <guid isPermaLink="false">dean-BV1au4y1T7Jg</guid>
+      <pubDate>Sat, 23 Dec 2023 02:00:00 +0000</pubDate>
+      <description>欢迎收听稗官野史22下
+
+请大家理性观看。感谢大家的支持</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1au4y1T7Jg.mp3" length="15952669" type="audio/mpeg"/>
+      <itunes:duration>00:33:14</itunes:duration>
     </item>
   </channel>
 </rss>
