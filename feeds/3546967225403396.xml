@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:39:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -524,6 +524,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1DKpt6HEEe.mp3" length="33194000" type="audio/mpeg"/>
       <itunes:duration>01:09:09</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1DKpt6HEEe.jpg"/>
+    </item>
+    <item>
+      <title>深山老林怪异事闹翻全村，低调老者被逼出手，身手不凡镇全场！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1rspt6uEpB</link>
+      <guid isPermaLink="false">3546967225403396-BV1rspt6uEpB</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
+      <description>深山老林怪异事闹翻全村，低调老者被逼出手，身手不凡镇全场！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1rspt6uEpB.mp3" length="23602046" type="audio/mpeg"/>
+      <itunes:duration>00:49:10</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1rspt6uEpB.jpg"/>
     </item>
   </channel>
 </rss>
