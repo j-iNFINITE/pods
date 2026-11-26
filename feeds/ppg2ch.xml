@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:00:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -782,6 +782,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1PAFsztEh5.mp3" length="6202196" type="audio/mpeg"/>
       <itunes:duration>00:12:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1PAFsztEh5.jpg"/>
+    </item>
+    <item>
+      <title>日本洒落怖恐怖故事：名单之外的少年</title>
+      <link>https://www.bilibili.com/video/BV179Fez5E8m</link>
+      <guid isPermaLink="false">ppg2ch-BV179Fez5E8m</guid>
+      <pubDate>Thu, 05 Feb 2026 13:13:43 +0000</pubDate>
+      <description>是我们集体记忆出错，还是？</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV179Fez5E8m.mp3" length="3695277" type="audio/mpeg"/>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV179Fez5E8m.jpg"/>
     </item>
   </channel>
 </rss>
