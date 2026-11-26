@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:21:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6543,6 +6543,15 @@ hi~大家好。
       <description>肝.......</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1ZH4y1Z7rH.mp3" length="11988953" type="audio/mpeg"/>
       <itunes:duration>00:24:59</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」负心知青在雪地中被吓死，未剪断脐带的婴儿；看不见的同学；山中随道轶事；</title>
+      <link>https://www.bilibili.com/video/BV1B841117eH</link>
+      <guid isPermaLink="false">dean-BV1B841117eH</guid>
+      <pubDate>Sat, 30 Sep 2023 01:00:00 +0000</pubDate>
+      <description>中秋国庆双节快乐</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1B841117eH.mp3" length="13673746" type="audio/mpeg"/>
+      <itunes:duration>00:28:29</itunes:duration>
     </item>
   </channel>
 </rss>
