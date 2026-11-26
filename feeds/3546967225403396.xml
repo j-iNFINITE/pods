@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:22:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -444,6 +444,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1Erp36WEKp.mp3" length="24305889" type="audio/mpeg"/>
       <itunes:duration>00:50:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1Erp36WEKp.jpg"/>
+    </item>
+    <item>
+      <title>举报邻居老太点煤球炉子结了仇，她半夜举白幡楼道摇铃跳神！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1Ccpb6yEdP</link>
+      <guid isPermaLink="false">3546967225403396-BV1Ccpb6yEdP</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+      <description>举报邻居老太点煤球炉子结了仇，她半夜举白幡楼道摇铃跳神！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1Ccpb6yEdP.mp3" length="25993817" type="audio/mpeg"/>
+      <itunes:duration>00:54:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1Ccpb6yEdP.jpg"/>
     </item>
   </channel>
 </rss>
