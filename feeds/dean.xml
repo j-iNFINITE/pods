@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:04:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6498,6 +6498,15 @@ hi~大家好。
 请大家品鉴。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Sw411F7fv.mp3" length="12865403" type="audio/mpeg"/>
       <itunes:duration>00:26:48</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿；山中遇到奇怪庙宇他给了我一个儿子；奶奶的坏蛋男友。</title>
+      <link>https://www.bilibili.com/video/BV17g4y1d7cj</link>
+      <guid isPermaLink="false">dean-BV17g4y1d7cj</guid>
+      <pubDate>Mon, 23 Oct 2023 06:17:13 +0000</pubDate>
+      <description>之前的违规限流了，修改一下重发一次。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV17g4y1d7cj.mp3" length="13036766" type="audio/mpeg"/>
+      <itunes:duration>00:27:10</itunes:duration>
     </item>
   </channel>
 </rss>
