@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:00:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5149,6 +5149,35 @@ hi~大家好。
 32:20-32:57 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV15tsTeNEZ8.mp3" length="15824775" type="audio/mpeg"/>
       <itunes:duration>00:32:58</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」山中别墅惊魂记，两个妈妈；发小失明后的眼睛可见阿飘能预测未来；网友投稿亲身经历鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1iwWaeNEw4</link>
+      <guid isPermaLink="false">dean-BV1iwWaeNEw4</guid>
+      <pubDate>Sat, 24 Aug 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史·49下」
+
+开幕雷击：在录制本期节目的过程中，甲方疯狂call我。我已经尽量吧情绪和声线保持一致了，但还是有一点点不好的感觉，望各位理解。虽然这样，还是希望得到您的三连
+
+片头BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏
+
+片尾BGM：电影《教父》插曲“The Godfather”
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-13:27 山中别墅惊魂记
+
+13:27-31:15 独目神童
+
+31:15-31:49 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iwWaeNEw4.mp3" length="15277667" type="audio/mpeg"/>
+      <itunes:duration>00:31:50</itunes:duration>
     </item>
   </channel>
 </rss>
