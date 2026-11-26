@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:52:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5994,6 +5994,21 @@ hi~大家好。
 希望大家能够喜欢，无论您是否给了三连，依然感谢您的支持。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iS421w7Eg.mp3" length="13747715" type="audio/mpeg"/>
       <itunes:duration>00:28:38</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」我的房间里站满了人，被色鬼缠上的哪一年我满身都是伤；破伤风之刃的妙用；网友投稿鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1et421t7MC</link>
+      <guid isPermaLink="false">dean-BV1et421t7MC</guid>
+      <pubDate>Fri, 08 Mar 2024 02:00:00 +0000</pubDate>
+      <description>欢迎各位收听稗官野史31期
+
+本期投稿人：阿克人
+
+结尾BGM：黄昏-押尾光太郎Kotaro Oshio
+
+希望大家能够喜欢，无论您是否给了三连，依然感谢您的支持。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1et421t7MC.mp3" length="13229028" type="audio/mpeg"/>
+      <itunes:duration>00:27:34</itunes:duration>
     </item>
   </channel>
 </rss>
