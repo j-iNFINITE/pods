@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 22:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:01:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1474,6 +1474,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV153Me6GE6x.mp3" length="31078500" type="audio/mpeg"/>
       <itunes:duration>01:04:45</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV153Me6GE6x.jpg"/>
+    </item>
+    <item>
+      <title>老照片里的诡异女人，剪碎烧毁恐怖合照后，她却从衣柜里飘了出来丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1j5MP6ZEnT</link>
+      <guid isPermaLink="false">3546967225403396-BV1j5MP6ZEnT</guid>
+      <pubDate>Sun, 05 Jul 2026 23:30:00 +0000</pubDate>
+      <description>老照片里的诡异女人，剪碎烧毁恐怖合照后，她却从衣柜里飘了出来丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1j5MP6ZEnT.mp3" length="31940122" type="audio/mpeg"/>
+      <itunes:duration>01:06:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1j5MP6ZEnT.jpg"/>
     </item>
   </channel>
 </rss>
