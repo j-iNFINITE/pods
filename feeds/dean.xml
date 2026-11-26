@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:08:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5211,6 +5211,33 @@ hi~大家好。
 33:33-34:10 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1B6WaeuEH1.mp3" length="16402604" type="audio/mpeg"/>
       <itunes:duration>00:34:10</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」探险废弃医院误入标本房；被遗弃相片的来电；换胎；泰国法力刺符后的禁忌；网友投稿亲身经历</title>
+      <link>https://www.bilibili.com/video/BV1Ci421h7ZC</link>
+      <guid isPermaLink="false">dean-BV1Ci421h7ZC</guid>
+      <pubDate>Sat, 17 Aug 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史·48下」
+
+片头及片尾BGM：.古典吉他独奏 教父
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-14:13 医院探险
+
+14:13-23:28 神兽送子
+
+23:28-30:48 泰国刺符
+
+30:48      END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Ci421h7ZC.mp3" length="15069105" type="audio/mpeg"/>
+      <itunes:duration>00:31:24</itunes:duration>
     </item>
   </channel>
 </rss>
