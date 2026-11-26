@@ -5,10 +5,16 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:38:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch.jpg"/>
+    <image>
+      <url>https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch.jpg</url>
+      <title>泡泡君-2ch论坛</title>
+      <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
+    </image>
     <item>
       <title>俄罗斯网友发帖，称自己租了一个叫38号公寓的房子，里面非常不对劲</title>
       <link>https://www.bilibili.com/video/BV1nqy6zLERL</link>
@@ -359,6 +365,15 @@
       <description>-</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV19g756CEma.mp3" length="5994261" type="audio/mpeg"/>
       <itunes:duration>00:12:29</itunes:duration>
+    </item>
+    <item>
+      <title>reddit论坛：山难搜救员见闻（第四集）</title>
+      <link>https://www.bilibili.com/video/BV1rLj86aERy</link>
+      <guid isPermaLink="false">ppg2ch-BV1rLj86aERy</guid>
+      <pubDate>Sun, 21 Jun 2026 13:05:24 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1rLj86aERy.mp3" length="7152844" type="audio/mpeg"/>
+      <itunes:duration>00:14:54</itunes:duration>
     </item>
     <item>
       <title>日本2ch论坛：地下圆环，我穿过这个圆环来到这个世界，本来想一直隐瞒下去，但是由于某种变故我得写下这段经历</title>
