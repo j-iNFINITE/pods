@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:48:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5979,6 +5979,21 @@ hi~大家好。
 以后弗图还有其他的恐怖元素全部剔除。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV19p421U7g9.mp3" length="16474701" type="audio/mpeg"/>
       <itunes:duration>00:34:19</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿亲身经历；魂魄离开身体；门上的水珠人脸；燃烧的黄纸；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1iS421w7Eg</link>
+      <guid isPermaLink="false">dean-BV1iS421w7Eg</guid>
+      <pubDate>Sat, 09 Mar 2024 02:00:00 +0000</pubDate>
+      <description>欢迎各位收听稗官野史31期下集
+
+本期投稿人：大城小肥、阿伞、地狱焚风、孙大王
+
+结尾BGM：黄昏（古典吉他版）-押尾光太郎Kotaro Oshio
+
+希望大家能够喜欢，无论您是否给了三连，依然感谢您的支持。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iS421w7Eg.mp3" length="13747715" type="audio/mpeg"/>
+      <itunes:duration>00:28:38</itunes:duration>
     </item>
   </channel>
 </rss>
