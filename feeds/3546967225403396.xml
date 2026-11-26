@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:33:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -704,6 +704,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1rKeH67EAA.mp3" length="31335962" type="audio/mpeg"/>
       <itunes:duration>01:05:17</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1rKeH67EAA.jpg"/>
+    </item>
+    <item>
+      <title>1982 河北乡间传闻，一场葬礼接连出错，村里接连发生离奇怪事丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1szeH6REnu</link>
+      <guid isPermaLink="false">3546967225403396-BV1szeH6REnu</guid>
+      <pubDate>Fri, 25 Sep 2026 10:00:00 +0000</pubDate>
+      <description>1982 河北乡间传闻，一场葬礼接连出错，村里接连发生离奇怪事丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1szeH6REnu.mp3" length="35410437" type="audio/mpeg"/>
+      <itunes:duration>01:13:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1szeH6REnu.jpg"/>
     </item>
   </channel>
 </rss>
