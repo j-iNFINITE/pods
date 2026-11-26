@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:30:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -632,6 +632,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1quwdzrEp2.mp3" length="8339848" type="audio/mpeg"/>
       <itunes:duration>00:17:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1quwdzrEp2.jpg"/>
+    </item>
+    <item>
+      <title>美reddit论坛：艾玛</title>
+      <link>https://www.bilibili.com/video/BV1gYwtzHEXe</link>
+      <guid isPermaLink="false">ppg2ch-BV1gYwtzHEXe</guid>
+      <pubDate>Sat, 14 Mar 2026 12:13:39 +0000</pubDate>
+      <description>我的朋友们为了捉弄我，创造了一个看不见的人，而我杀了她</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1gYwtzHEXe.mp3" length="9350055" type="audio/mpeg"/>
+      <itunes:duration>00:19:29</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1gYwtzHEXe.jpg"/>
     </item>
   </channel>
 </rss>
