@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3632320500205901/?sort_field=pubtime&amp;tid=0&amp;oid=117675929896514&amp;bvid=BV1nqy6zLERL</link>
     <description>泡泡君-2ch论坛</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:33:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/ppg2ch.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>泡泡君-2ch论坛</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -642,6 +642,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1gYwtzHEXe.mp3" length="9350055" type="audio/mpeg"/>
       <itunes:duration>00:19:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1gYwtzHEXe.jpg"/>
+    </item>
+    <item>
+      <title>日本2ch论坛：蓝石头</title>
+      <link>https://www.bilibili.com/video/BV1MdPDzQEjs</link>
+      <guid isPermaLink="false">ppg2ch-BV1MdPDzQEjs</guid>
+      <pubDate>Mon, 09 Mar 2026 12:38:36 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/ppg2ch/BV1MdPDzQEjs.mp3" length="9311603" type="audio/mpeg"/>
+      <itunes:duration>00:19:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/ppg2ch/BV1MdPDzQEjs.jpg"/>
     </item>
   </channel>
 </rss>
