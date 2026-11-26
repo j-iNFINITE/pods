@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:04:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5178,6 +5178,39 @@ hi~大家好。
 31:15-31:49 END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1iwWaeNEw4.mp3" length="15277667" type="audio/mpeg"/>
       <itunes:duration>00:31:50</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」爷爷长寿的秘密；与阴差的秘密约定；深夜误入乡野怀旧台球厅；猥琐男把不干净的东西过继到了我的身上；网友投稿亲身经历</title>
+      <link>https://www.bilibili.com/video/BV1B6WaeuEH1</link>
+      <guid isPermaLink="false">dean-BV1B6WaeuEH1</guid>
+      <pubDate>Fri, 23 Aug 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史·49上」
+
+开幕雷击：在录制本期节目的过程中，甲方疯狂call我。我已经尽量吧情绪和声线保持一致了，但还是有一点点不好的感觉，望各位理解。虽然这样，还是希望得到您的三连
+
+片头BGM：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏
+
+片尾BGM：电影《教父》插曲“The Godfather”
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-00:38 preface
+
+00:38-09:14 爷爷的绝活
+
+09:14-16:12 刀哥开的台球厅
+
+16:12-33:33 有人送了一只鬼到我身上
+
+33:33-34:10 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1B6WaeuEH1.mp3" length="16402604" type="audio/mpeg"/>
+      <itunes:duration>00:34:10</itunes:duration>
     </item>
   </channel>
 </rss>
