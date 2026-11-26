@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:02:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -6037,6 +6037,19 @@ hi~大家好。
 注：本视频使用影响素材均来源于网络，若有侵权请联系删除。</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1jC411s7BW.mp3" length="14081873" type="audio/mpeg"/>
       <itunes:duration>00:29:20</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」网友投稿经历；狈和狼群一起出来了；会飞的白衣老头；狐狸和兔子另类的修炼方法；鬼故事</title>
+      <link>https://www.bilibili.com/video/BV1FH4y177mU</link>
+      <guid isPermaLink="false">dean-BV1FH4y177mU</guid>
+      <pubDate>Sat, 24 Feb 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史29下」
+
+ 感谢大家收听，总有预感这期会有抬杠的。哈哈哈
+
+我不管那些，给我三连。我要三连。哈哈哈哈</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1FH4y177mU.mp3" length="13408541" type="audio/mpeg"/>
+      <itunes:duration>00:27:56</itunes:duration>
     </item>
   </channel>
 </rss>
