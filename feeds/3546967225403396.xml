@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:26:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -454,6 +454,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1Ccpb6yEdP.mp3" length="25993817" type="audio/mpeg"/>
       <itunes:duration>00:54:09</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1Ccpb6yEdP.jpg"/>
+    </item>
+    <item>
+      <title>韩国深山露营，偶遇传闻中的人面山君妖，同事直呼不能碰？丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1dFp86NEbH</link>
+      <guid isPermaLink="false">3546967225403396-BV1dFp86NEbH</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+      <description>韩国深山露营，偶遇传闻中的人面山君妖，同事直呼不能碰？丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1dFp86NEbH.mp3" length="31281210" type="audio/mpeg"/>
+      <itunes:duration>01:05:10</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1dFp86NEbH.jpg"/>
     </item>
   </channel>
 </rss>
