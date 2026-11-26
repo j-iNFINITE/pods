@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/252540924/?sort_field=pubtime&amp;tid=0&amp;oid=117652391462813&amp;bvid=BV1g6y8zYEnK</link>
     <description>迪恩_Dean</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:11:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/dean.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>迪恩_Dean</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5238,6 +5238,31 @@ hi~大家好。
 30:48      END</description>
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1Ci421h7ZC.mp3" length="15069105" type="audio/mpeg"/>
       <itunes:duration>00:31:24</itunes:duration>
+    </item>
+    <item>
+      <title>「稗官野史」奶奶的遗体被一块石碑压着；变态父亲狂虐母亲；汉奸曾祖父；先人作恶至家族覆灭；网友投稿亲身经历故事</title>
+      <link>https://www.bilibili.com/video/BV1aT42167x4</link>
+      <guid isPermaLink="false">dean-BV1aT42167x4</guid>
+      <pubDate>Fri, 16 Aug 2024 02:00:00 +0000</pubDate>
+      <description>「稗官野史·48上」
+
+片头及片尾曲：.古典吉他独奏 押尾光太郎Kotaro Oshio 黄昏
+
+如有侵权，请联系删除
+
+感谢大家的收听，希望大家能够喜欢。喜欢还请给个三连支持支持
+
+故事纯属娱乐，请勿较真儿
+
+时间轴：
+
+00:00-23:15 家族覆灭
+
+23:15-31:46 神针爷爷
+
+31:46-32:25 END</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/dean/BV1aT42167x4.mp3" length="15564805" type="audio/mpeg"/>
+      <itunes:duration>00:32:26</itunes:duration>
     </item>
   </channel>
 </rss>
