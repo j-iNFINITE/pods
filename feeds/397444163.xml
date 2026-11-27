@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:55:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2054,6 +2054,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1R79zYGEWk.mp3" length="10746875" type="audio/mpeg"/>
       <itunes:duration>00:22:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1R79zYGEWk.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.137】医院楼梯间蹲着的小孩</title>
+      <link>https://www.bilibili.com/video/BV1P19uYkEfk</link>
+      <guid isPermaLink="false">397444163-BV1P19uYkEfk</guid>
+      <pubDate>Fri, 28 Feb 2025 07:21:34 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.137】医院楼梯间蹲着的小孩</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1P19uYkEfk.mp3" length="10701317" type="audio/mpeg"/>
+      <itunes:duration>00:22:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1P19uYkEfk.jpg"/>
     </item>
   </channel>
 </rss>
