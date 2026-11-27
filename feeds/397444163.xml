@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:29:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4383,6 +4383,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Fu4y1R7vq.mp3" length="21550292" type="audio/mpeg"/>
       <itunes:duration>00:44:54</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Fu4y1R7vq.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】网友记录自己小时候的那些灵异经历：卖笋人，天花板上的手，谁在我身后，看电影的老太太，摔不死的小孩，无声的老奶奶，烧纸钱</title>
+      <link>https://www.bilibili.com/video/BV1Zm4y1n7QQ</link>
+      <guid isPermaLink="false">397444163-BV1Zm4y1n7QQ</guid>
+      <pubDate>Sat, 19 Aug 2023 03:00:00 +0000</pubDate>
+      <description>【阿福怪谈】网友记录自己小时候的那些灵异经历：卖笋人，天花板上的手，谁在我身后，看电影的老太太，摔不死的小孩，无声的老奶奶，烧纸钱</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Zm4y1n7QQ.mp3" length="17255552" type="audio/mpeg"/>
+      <itunes:duration>00:35:57</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Zm4y1n7QQ.jpg"/>
     </item>
   </channel>
 </rss>
