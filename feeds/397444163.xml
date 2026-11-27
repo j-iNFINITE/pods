@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:34:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1224,6 +1224,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Q12xB6Ea3.mp3" length="9834261" type="audio/mpeg"/>
       <itunes:duration>00:20:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Q12xB6Ea3.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.217】靠着山的教职工宿舍</title>
+      <link>https://www.bilibili.com/video/BV14iSiBMESh</link>
+      <guid isPermaLink="false">397444163-BV14iSiBMESh</guid>
+      <pubDate>Mon, 01 Dec 2025 02:00:00 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.217】靠着山的教职工宿舍</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14iSiBMESh.mp3" length="10136864" type="audio/mpeg"/>
+      <itunes:duration>00:21:07</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14iSiBMESh.jpg"/>
     </item>
   </channel>
 </rss>
