@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:57:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -854,6 +854,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1RsA3z1ENx.mp3" length="11355842" type="audio/mpeg"/>
       <itunes:duration>00:23:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1RsA3z1ENx.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：网传故事Vol.180】在菜地里看到个“没有头”的东西</title>
+      <link>https://www.bilibili.com/video/BV1f4wCz6EnE</link>
+      <guid isPermaLink="false">397444163-BV1f4wCz6EnE</guid>
+      <pubDate>Thu, 19 Mar 2026 06:39:09 +0000</pubDate>
+      <description>【阿福怪谈：网传故事Vol.180】在菜地里看到个“没有头”的东西</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1f4wCz6EnE.mp3" length="10319303" type="audio/mpeg"/>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1f4wCz6EnE.jpg"/>
     </item>
   </channel>
 </rss>
