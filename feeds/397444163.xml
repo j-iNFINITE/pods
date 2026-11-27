@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:27:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2913,6 +2913,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dx4y1x7Tj.mp3" length="14621365" type="audio/mpeg"/>
       <itunes:duration>00:30:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dx4y1x7Tj.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿Vol.94】：【绿色小人】【房檐上的小怪兽】【跑山】【朋友的头七】【敲门的老太太】</title>
+      <link>https://www.bilibili.com/video/BV1Wb421n7Lc</link>
+      <guid isPermaLink="false">397444163-BV1Wb421n7Lc</guid>
+      <pubDate>Fri, 12 Jul 2024 14:37:50 +0000</pubDate>
+      <description>【站友投稿Vol.94】：【绿色小人】【房檐上的小怪兽】【跑山】【朋友的头七】【敲门的老太太】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Wb421n7Lc.mp3" length="11586346" type="audio/mpeg"/>
+      <itunes:duration>00:24:08</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Wb421n7Lc.jpg"/>
     </item>
   </channel>
 </rss>
