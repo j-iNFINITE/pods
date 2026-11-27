@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:19:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2144,6 +2144,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1kVPCeZErr.mp3" length="8948188" type="audio/mpeg"/>
       <itunes:duration>00:18:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1kVPCeZErr.jpg"/>
+    </item>
+    <item>
+      <title>【投稿故事Vol.130】：精神病患者脑中的女鬼</title>
+      <link>https://www.bilibili.com/video/BV1AkFYeWEtn</link>
+      <guid isPermaLink="false">397444163-BV1AkFYeWEtn</guid>
+      <pubDate>Sat, 01 Feb 2025 14:49:06 +0000</pubDate>
+      <description>【投稿故事Vol.130】：精神病患者脑中的女鬼</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1AkFYeWEtn.mp3" length="11116149" type="audio/mpeg"/>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1AkFYeWEtn.jpg"/>
     </item>
   </channel>
 </rss>
