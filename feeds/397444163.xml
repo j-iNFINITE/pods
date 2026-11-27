@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:24:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1444,6 +1444,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1uUnSzxEze.mp3" length="9715143" type="audio/mpeg"/>
       <itunes:duration>00:20:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1uUnSzxEze.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.195】幺爸家里的诡异事</title>
+      <link>https://www.bilibili.com/video/BV16cnxzgE6z</link>
+      <guid isPermaLink="false">397444163-BV16cnxzgE6z</guid>
+      <pubDate>Thu, 25 Sep 2025 03:37:41 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.195】幺爸家里的诡异事</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV16cnxzgE6z.mp3" length="9784733" type="audio/mpeg"/>
+      <itunes:duration>00:20:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV16cnxzgE6z.jpg"/>
     </item>
   </channel>
 </rss>
