@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:50:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:51:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -834,6 +834,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1ucXSBnEDW.mp3" length="10938300" type="audio/mpeg"/>
       <itunes:duration>00:22:47</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1ucXSBnEDW.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.254】姥爷家的“盆”成精了</title>
+      <link>https://www.bilibili.com/video/BV1thQ2BuE4a</link>
+      <guid isPermaLink="false">397444163-BV1thQ2BuE4a</guid>
+      <pubDate>Wed, 25 Mar 2026 10:12:29 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.254】姥爷家的“盆”成精了</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1thQ2BuE4a.mp3" length="9868325" type="audio/mpeg"/>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1thQ2BuE4a.jpg"/>
     </item>
   </channel>
 </rss>
