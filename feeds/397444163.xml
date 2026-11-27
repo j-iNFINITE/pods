@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:00:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3763,6 +3763,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BN4y1W7U8.mp3" length="15739614" type="audio/mpeg"/>
       <itunes:duration>00:32:47</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BN4y1W7U8.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】身边朋友那些让人吓尿的经历（4）：奶奶，病房，门缝，二十年前的故事，遇见，偶遇</title>
+      <link>https://www.bilibili.com/video/BV18N4y1x78U</link>
+      <guid isPermaLink="false">397444163-BV18N4y1x78U</guid>
+      <pubDate>Sun, 31 Dec 2023 08:33:40 +0000</pubDate>
+      <description>【阿福怪谈】身边朋友那些让人吓尿的经历（4）：奶奶，病房，门缝，二十年前的故事，遇见，偶遇</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV18N4y1x78U.mp3" length="14614050" type="audio/mpeg"/>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV18N4y1x78U.jpg"/>
     </item>
   </channel>
 </rss>
