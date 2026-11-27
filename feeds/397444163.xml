@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:12:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4563,6 +4563,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1FX4y1Y7dk.mp3" length="18904610" type="audio/mpeg"/>
       <itunes:duration>00:39:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1FX4y1Y7dk.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】广东当地灵异传闻：过路，阴车，银化为蛇，黑衣老太，婚，锁链，白衣服，歌声，桃树下的纸人，水上禁忌，芭蕉精</title>
+      <link>https://www.bilibili.com/video/BV1w8411Q7kZ</link>
+      <guid isPermaLink="false">397444163-BV1w8411Q7kZ</guid>
+      <pubDate>Fri, 14 Jul 2023 02:17:04 +0000</pubDate>
+      <description>【阿福怪谈】广东当地灵异传闻：过路，阴车，银化为蛇，黑衣老太，婚，锁链，白衣服，歌声，桃树下的纸人，水上禁忌，芭蕉精</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1w8411Q7kZ.mp3" length="18034210" type="audio/mpeg"/>
+      <itunes:duration>00:37:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1w8411Q7kZ.jpg"/>
     </item>
   </channel>
 </rss>
