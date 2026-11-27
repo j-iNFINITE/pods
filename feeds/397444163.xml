@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:12:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -414,6 +414,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1UUKp68E6U.mp3" length="9607100" type="audio/mpeg"/>
       <itunes:duration>00:20:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1UUKp68E6U.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.294】爷爷没还愿 导致我撞邪</title>
+      <link>https://www.bilibili.com/video/BV12xNo6JELY</link>
+      <guid isPermaLink="false">397444163-BV12xNo6JELY</guid>
+      <pubDate>Sat, 18 Jul 2026 04:00:00 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.294】爷爷没还愿 导致我撞邪</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV12xNo6JELY.mp3" length="9742728" type="audio/mpeg"/>
+      <itunes:duration>00:20:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV12xNo6JELY.jpg"/>
     </item>
   </channel>
 </rss>
