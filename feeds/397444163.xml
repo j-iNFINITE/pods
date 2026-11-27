@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:49:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -564,6 +564,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1H6ER6uEae.mp3" length="10613337" type="audio/mpeg"/>
       <itunes:duration>00:22:07</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1H6ER6uEae.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.281】竹林里的“长脸怪人“</title>
+      <link>https://www.bilibili.com/video/BV1JcEu6uEMy</link>
+      <guid isPermaLink="false">397444163-BV1JcEu6uEMy</guid>
+      <pubDate>Mon, 08 Jun 2026 04:18:04 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.281】竹林里的“长脸怪人“</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JcEu6uEMy.mp3" length="9595189" type="audio/mpeg"/>
+      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JcEu6uEMy.jpg"/>
     </item>
   </channel>
 </rss>
