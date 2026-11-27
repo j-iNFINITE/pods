@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:46:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2304,6 +2304,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1G4536sEen.mp3" length="30605161" type="audio/mpeg"/>
       <itunes:duration>01:03:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1G4536sEen.jpg"/>
+    </item>
+    <item>
+      <title>赌命彩票：跳楼赌鬼执念不散，夺舍活人教人买彩票中大奖？丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1BP5t65Ez2</link>
+      <guid isPermaLink="false">3546967225403396-BV1BP5t65Ez2</guid>
+      <pubDate>Fri, 15 May 2026 23:30:00 +0000</pubDate>
+      <description>赌命彩票：跳楼赌鬼执念不散，夺舍活人教人买彩票中大奖？丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1BP5t65Ez2.mp3" length="33397755" type="audio/mpeg"/>
+      <itunes:duration>01:09:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1BP5t65Ez2.jpg"/>
     </item>
   </channel>
 </rss>
