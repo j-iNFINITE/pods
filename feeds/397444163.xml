@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:43:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3453,6 +3453,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1pw4m1Z7Yc.mp3" length="17078964" type="audio/mpeg"/>
       <itunes:duration>00:35:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1pw4m1Z7Yc.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.107】老东北真实灵异系列（六）：【风水劫】【猛鬼KTV】【养尸地】</title>
+      <link>https://www.bilibili.com/video/BV1Wm411Z7zz</link>
+      <guid isPermaLink="false">397444163-BV1Wm411Z7zz</guid>
+      <pubDate>Wed, 06 Mar 2024 09:55:13 +0000</pubDate>
+      <description>【阿福怪谈vol.107】老东北真实灵异系列（六）：【风水劫】【猛鬼KTV】【养尸地】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Wm411Z7zz.mp3" length="14761380" type="audio/mpeg"/>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Wm411Z7zz.jpg"/>
     </item>
   </channel>
 </rss>
