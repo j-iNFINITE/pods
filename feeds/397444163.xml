@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:38:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -754,6 +754,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1jgd5BuEc3.mp3" length="9344413" type="audio/mpeg"/>
       <itunes:duration>00:19:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1jgd5BuEc3.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.262】吓跑了整栋宿舍楼员工的“亡灵夫妻”</title>
+      <link>https://www.bilibili.com/video/BV15kdhBnEbM</link>
+      <guid isPermaLink="false">397444163-BV15kdhBnEbM</guid>
+      <pubDate>Thu, 16 Apr 2026 06:52:54 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.262】吓跑了整栋宿舍楼员工的“亡灵夫妻”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV15kdhBnEbM.mp3" length="10485442" type="audio/mpeg"/>
+      <itunes:duration>00:21:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV15kdhBnEbM.jpg"/>
     </item>
   </channel>
 </rss>
