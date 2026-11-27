@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:01:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2154,6 +2154,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1LHGH6QEQD.mp3" length="35897778" type="audio/mpeg"/>
       <itunes:duration>01:14:47</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1LHGH6QEQD.jpg"/>
+    </item>
+    <item>
+      <title>半夜饿死鬼砸门！朝鲜族老太提大勺，怒飙朝语生猛撵鬼丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV16GGH6oEwJ</link>
+      <guid isPermaLink="false">3546967225403396-BV16GGH6oEwJ</guid>
+      <pubDate>Sun, 24 May 2026 23:30:00 +0000</pubDate>
+      <description>半夜饿死鬼砸门！朝鲜族老太提大勺，怒飙朝语生猛撵鬼丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV16GGH6oEwJ.mp3" length="33378947" type="audio/mpeg"/>
+      <itunes:duration>01:09:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV16GGH6oEwJ.jpg"/>
     </item>
   </channel>
 </rss>
