@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:52:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -344,6 +344,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1553R6rEzv.mp3" length="10797030" type="audio/mpeg"/>
       <itunes:duration>00:22:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1553R6rEzv.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.301】被人动了手脚的坟</title>
+      <link>https://www.bilibili.com/video/BV1BPGP6gEZL</link>
+      <guid isPermaLink="false">397444163-BV1BPGP6gEZL</guid>
+      <pubDate>Sun, 02 Aug 2026 02:00:00 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.301】被人动了手脚的坟</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BPGP6gEZL.mp3" length="9746281" type="audio/mpeg"/>
+      <itunes:duration>00:20:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BPGP6gEZL.jpg"/>
     </item>
   </channel>
 </rss>
