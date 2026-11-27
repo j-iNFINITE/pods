@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:30:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4873,6 +4873,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1gh411w7NK.mp3" length="20657531" type="audio/mpeg"/>
       <itunes:duration>00:43:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1gh411w7NK.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】神秘的新疆：空巴士，拉面馆，战友去哪了，深山里的部队，异兽，世外桃源，老者，消失的牧民</title>
+      <link>https://www.bilibili.com/video/BV1Th411w7t4</link>
+      <guid isPermaLink="false">397444163-BV1Th411w7t4</guid>
+      <pubDate>Mon, 15 May 2023 02:53:06 +0000</pubDate>
+      <description>【阿福怪谈】神秘的新疆：空巴士，拉面馆，战友去哪了，深山里的部队，异兽，世外桃源，老者，消失的牧民</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Th411w7t4.mp3" length="27477371" type="audio/mpeg"/>
+      <itunes:duration>00:57:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Th411w7t4.jpg"/>
     </item>
   </channel>
 </rss>
