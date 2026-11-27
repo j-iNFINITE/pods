@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:09:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4553,6 +4553,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Zh4y157rc.mp3" length="13806971" type="audio/mpeg"/>
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Zh4y157rc.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第二十九期：体育馆邪事，学费，五爪猪，桥上的三个女，楼上的凶宅</title>
+      <link>https://www.bilibili.com/video/BV1FX4y1Y7dk</link>
+      <guid isPermaLink="false">397444163-BV1FX4y1Y7dk</guid>
+      <pubDate>Sun, 16 Jul 2023 02:26:22 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第二十九期：体育馆邪事，学费，五爪猪，桥上的三个女，楼上的凶宅</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1FX4y1Y7dk.mp3" length="18904610" type="audio/mpeg"/>
+      <itunes:duration>00:39:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1FX4y1Y7dk.jpg"/>
     </item>
   </channel>
 </rss>
