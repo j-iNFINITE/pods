@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:02:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -134,6 +134,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1mHnJ6HEuK.mp3" length="9560289" type="audio/mpeg"/>
       <itunes:duration>00:19:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1mHnJ6HEuK.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.314】我妈租的房里还有另外两个“人”</title>
+      <link>https://www.bilibili.com/video/BV1nLJ267E8S</link>
+      <guid isPermaLink="false">397444163-BV1nLJ267E8S</guid>
+      <pubDate>Thu, 15 Oct 2026 15:04:58 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.314】我妈租的房里还有另外两个“人”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1nLJ267E8S.mp3" length="8803574" type="audio/mpeg"/>
+      <itunes:duration>00:18:20</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1nLJ267E8S.jpg"/>
     </item>
   </channel>
 </rss>
