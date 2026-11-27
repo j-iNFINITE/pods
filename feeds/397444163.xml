@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:06:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -144,6 +144,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1nLJ267E8S.mp3" length="8803574" type="audio/mpeg"/>
       <itunes:duration>00:18:20</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1nLJ267E8S.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.313】在雨中看到的“人影”缠上了我</title>
+      <link>https://www.bilibili.com/video/BV1Ghp96wEY7</link>
+      <guid isPermaLink="false">397444163-BV1Ghp96wEY7</guid>
+      <pubDate>Mon, 12 Oct 2026 09:12:30 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.313】在雨中看到的“人影”缠上了我</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Ghp96wEY7.mp3" length="12653396" type="audio/mpeg"/>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Ghp96wEY7.jpg"/>
     </item>
   </channel>
 </rss>
