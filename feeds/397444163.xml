@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:17:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2863,6 +2863,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1tz421i78H.mp3" length="12151636" type="audio/mpeg"/>
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1tz421i78H.jpg"/>
+    </item>
+    <item>
+      <title>【投稿故事Vol.98】：我家那些灵异事儿</title>
+      <link>https://www.bilibili.com/video/BV14i421h71Y</link>
+      <guid isPermaLink="false">397444163-BV14i421h71Y</guid>
+      <pubDate>Fri, 26 Jul 2024 05:28:00 +0000</pubDate>
+      <description>【投稿故事Vol.98】：我家那些灵异事儿</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14i421h71Y.mp3" length="13072818" type="audio/mpeg"/>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14i421h71Y.jpg"/>
     </item>
   </channel>
 </rss>
