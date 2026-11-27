@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:15:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4573,6 +4573,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1w8411Q7kZ.mp3" length="18034210" type="audio/mpeg"/>
       <itunes:duration>00:37:34</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1w8411Q7kZ.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第二十八期：厂里的女会计，父亲看到了什么，寝室门口的声音，床边的爷爷奶奶，邻居</title>
+      <link>https://www.bilibili.com/video/BV1JV411T7j2</link>
+      <guid isPermaLink="false">397444163-BV1JV411T7j2</guid>
+      <pubDate>Wed, 12 Jul 2023 03:26:44 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第二十八期：厂里的女会计，父亲看到了什么，寝室门口的声音，床边的爷爷奶奶，邻居</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JV411T7j2.mp3" length="17320127" type="audio/mpeg"/>
+      <itunes:duration>00:36:05</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JV411T7j2.jpg"/>
     </item>
   </channel>
 </rss>
