@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:43:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:46:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3463,6 +3463,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Wm411Z7zz.mp3" length="14761380" type="audio/mpeg"/>
       <itunes:duration>00:30:45</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Wm411Z7zz.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.106】老东北真实灵异系列（五）：【疯母劫】【屠夫】</title>
+      <link>https://www.bilibili.com/video/BV1j2421M7R4</link>
+      <guid isPermaLink="false">397444163-BV1j2421M7R4</guid>
+      <pubDate>Mon, 04 Mar 2024 14:05:17 +0000</pubDate>
+      <description>【阿福怪谈vol.106】老东北真实灵异系列（五）：【疯母劫】【屠夫】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1j2421M7R4.mp3" length="9892775" type="audio/mpeg"/>
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1j2421M7R4.jpg"/>
     </item>
   </channel>
 </rss>
