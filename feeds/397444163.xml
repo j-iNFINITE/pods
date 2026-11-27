@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:10:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4803,6 +4803,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14V4y1z7nm.mp3" length="17459517" type="audio/mpeg"/>
       <itunes:duration>00:36:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14V4y1z7nm.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第十七期：红色嫁衣，炕头前的女人，黄同学，问路，拦路的诡大爷，学校四楼，诡异的自拍，筒子楼</title>
+      <link>https://www.bilibili.com/video/BV18k4y1x7MM</link>
+      <guid isPermaLink="false">397444163-BV18k4y1x7MM</guid>
+      <pubDate>Sat, 27 May 2023 03:45:34 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第十七期：红色嫁衣，炕头前的女人，黄同学，问路，拦路的诡大爷，学校四楼，诡异的自拍，筒子楼</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV18k4y1x7MM.mp3" length="19830390" type="audio/mpeg"/>
+      <itunes:duration>00:41:19</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV18k4y1x7MM.jpg"/>
     </item>
   </channel>
 </rss>
