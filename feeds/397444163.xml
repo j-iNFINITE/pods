@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:41:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2214,6 +2214,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV13gwNebEuR.mp3" length="10072923" type="audio/mpeg"/>
       <itunes:duration>00:20:59</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV13gwNebEuR.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈Vol.174】：重庆酒店里往同学脖子上吹气的东西</title>
+      <link>https://www.bilibili.com/video/BV1qiw5eaEnw</link>
+      <guid isPermaLink="false">397444163-BV1qiw5eaEnw</guid>
+      <pubDate>Thu, 16 Jan 2025 09:02:19 +0000</pubDate>
+      <description>【阿福怪谈Vol.174】：重庆酒店里往同学脖子上吹气的东西</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1qiw5eaEnw.mp3" length="10726813" type="audio/mpeg"/>
+      <itunes:duration>00:22:21</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1qiw5eaEnw.jpg"/>
     </item>
   </channel>
 </rss>
