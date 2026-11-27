@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:35:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3183,6 +3183,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1tH4y1g7Tk.mp3" length="13518153" type="audio/mpeg"/>
       <itunes:duration>00:28:10</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1tH4y1g7Tk.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.118】新疆公路档案（二）：【龙】【深山孤庙】【山里的小孩】</title>
+      <link>https://www.bilibili.com/video/BV16x4y1v7GD</link>
+      <guid isPermaLink="false">397444163-BV16x4y1v7GD</guid>
+      <pubDate>Thu, 09 May 2024 11:14:07 +0000</pubDate>
+      <description>【阿福怪谈vol.118】新疆公路档案（二）：【龙】【深山孤庙】【山里的小孩】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV16x4y1v7GD.mp3" length="11539953" type="audio/mpeg"/>
+      <itunes:duration>00:24:02</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV16x4y1v7GD.jpg"/>
     </item>
   </channel>
 </rss>
