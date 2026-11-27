@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:03:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2324,6 +2324,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1YFC6Y7EJL.mp3" length="10109487" type="audio/mpeg"/>
       <itunes:duration>00:21:04</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1YFC6Y7EJL.jpg"/>
+    </item>
+    <item>
+      <title>【投稿故事Vol.118】：仓房上面挂着一件会动的大衣</title>
+      <link>https://www.bilibili.com/video/BV1EBCGYmExj</link>
+      <guid isPermaLink="false">397444163-BV1EBCGYmExj</guid>
+      <pubDate>Mon, 23 Dec 2024 07:32:21 +0000</pubDate>
+      <description>【投稿故事Vol.118】：仓房上面挂着一件会动的大衣</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1EBCGYmExj.mp3" length="10563182" type="audio/mpeg"/>
+      <itunes:duration>00:22:00</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1EBCGYmExj.jpg"/>
     </item>
   </channel>
 </rss>
