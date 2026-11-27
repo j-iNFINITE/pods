@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:50:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4453,6 +4453,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1YV4y1e7y6.mp3" length="12322798" type="audio/mpeg"/>
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1YV4y1e7y6.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】听农村父辈们讲讲以前发生过的那些稀奇古怪的事（二）：棺板，鬼友，坑人鬼，剃头</title>
+      <link>https://www.bilibili.com/video/BV17F411f7zf</link>
+      <guid isPermaLink="false">397444163-BV17F411f7zf</guid>
+      <pubDate>Sat, 05 Aug 2023 02:23:36 +0000</pubDate>
+      <description>【阿福怪谈】听农村父辈们讲讲以前发生过的那些稀奇古怪的事（二）：棺板，鬼友，坑人鬼，剃头</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV17F411f7zf.mp3" length="15432832" type="audio/mpeg"/>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV17F411f7zf.jpg"/>
     </item>
   </channel>
 </rss>
