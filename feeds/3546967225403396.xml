@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:36:27 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2474,6 +2474,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1pY9RBoE4D.mp3" length="32721497" type="audio/mpeg"/>
       <itunes:duration>01:08:10</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1pY9RBoE4D.jpg"/>
+    </item>
+    <item>
+      <title>死后拔下金牙报恩：窗台惊现两颗金灿灿的遗物 丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1km9QBSEKG</link>
+      <guid isPermaLink="false">3546967225403396-BV1km9QBSEKG</guid>
+      <pubDate>Sat, 02 May 2026 18:19:10 +0000</pubDate>
+      <description>死后拔下金牙报恩：窗台惊现两颗金灿灿的遗物 丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1km9QBSEKG.mp3" length="30917585" type="audio/mpeg"/>
+      <itunes:duration>01:04:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1km9QBSEKG.jpg"/>
     </item>
   </channel>
 </rss>
