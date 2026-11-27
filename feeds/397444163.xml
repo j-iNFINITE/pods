@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:58:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1584,6 +1584,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV16UuGz6EFy.mp3" length="9936870" type="audio/mpeg"/>
       <itunes:duration>00:20:42</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV16UuGz6EFy.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：网传故事Vol.177】黑暗矿井中那只恐怖的“手”</title>
+      <link>https://www.bilibili.com/video/BV1JmGJzKE4E</link>
+      <guid isPermaLink="false">397444163-BV1JmGJzKE4E</guid>
+      <pubDate>Tue, 08 Jul 2025 10:09:09 +0000</pubDate>
+      <description>【阿福怪谈：网传故事Vol.177】黑暗矿井中那只恐怖的“手”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JmGJzKE4E.mp3" length="10439048" type="audio/mpeg"/>
+      <itunes:duration>00:21:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JmGJzKE4E.jpg"/>
     </item>
   </channel>
 </rss>
