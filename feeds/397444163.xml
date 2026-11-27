@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:25:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4853,6 +4853,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dT411x7P1.mp3" length="18766475" type="audio/mpeg"/>
       <itunes:duration>00:39:06</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dT411x7P1.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】二十多年经历的灵异事（一）：鬼找活人索命，杀鳝报应，念佛辟邪，挡阴兵，楞严咒，土地公，鬼压身，砍树</title>
+      <link>https://www.bilibili.com/video/BV1BX4y1C7XT</link>
+      <guid isPermaLink="false">397444163-BV1BX4y1C7XT</guid>
+      <pubDate>Fri, 19 May 2023 04:21:23 +0000</pubDate>
+      <description>【阿福怪谈】二十多年经历的灵异事（一）：鬼找活人索命，杀鳝报应，念佛辟邪，挡阴兵，楞严咒，土地公，鬼压身，砍树</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BX4y1C7XT.mp3" length="17783435" type="audio/mpeg"/>
+      <itunes:duration>00:37:03</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BX4y1C7XT.jpg"/>
     </item>
   </channel>
 </rss>
