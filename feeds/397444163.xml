@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:38:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2943,6 +2943,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1XH4y1F79C.mp3" length="12397814" type="audio/mpeg"/>
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1XH4y1F79C.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿Vol.93】：【诸子图】【厨房的切菜声】【雇主家的黑影】【丢鞋】【营区诡事】</title>
+      <link>https://www.bilibili.com/video/BV1JS421R7Ec</link>
+      <guid isPermaLink="false">397444163-BV1JS421R7Ec</guid>
+      <pubDate>Fri, 05 Jul 2024 08:36:41 +0000</pubDate>
+      <description>【站友投稿Vol.93】：【诸子图】【厨房的切菜声】【雇主家的黑影】【丢鞋】【营区诡事】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JS421R7Ec.mp3" length="14697224" type="audio/mpeg"/>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JS421R7Ec.jpg"/>
     </item>
   </channel>
 </rss>
