@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:07:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -154,6 +154,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Ghp96wEY7.mp3" length="12653396" type="audio/mpeg"/>
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Ghp96wEY7.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.312】学校走廊的脚步声</title>
+      <link>https://www.bilibili.com/video/BV1jjHp6jEn3</link>
+      <guid isPermaLink="false">397444163-BV1jjHp6jEn3</guid>
+      <pubDate>Mon, 05 Oct 2026 03:57:22 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.312】学校走廊的脚步声</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1jjHp6jEn3.mp3" length="8471087" type="audio/mpeg"/>
+      <itunes:duration>00:17:39</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1jjHp6jEn3.jpg"/>
     </item>
   </channel>
 </rss>
