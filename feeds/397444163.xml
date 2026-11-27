@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:19:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -944,6 +944,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1cEZjBtEqq.mp3" length="10014402" type="audio/mpeg"/>
       <itunes:duration>00:20:52</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1cEZjBtEqq.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.245】被吊死在破庙的那些人</title>
+      <link>https://www.bilibili.com/video/BV197c4zUEDp</link>
+      <guid isPermaLink="false">397444163-BV197c4zUEDp</guid>
+      <pubDate>Wed, 11 Feb 2026 11:11:45 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.245】被吊死在破庙的那些人</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV197c4zUEDp.mp3" length="9030108" type="audio/mpeg"/>
+      <itunes:duration>00:18:49</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV197c4zUEDp.jpg"/>
     </item>
   </channel>
 </rss>
