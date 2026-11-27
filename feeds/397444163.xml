@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:54:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2034,6 +2034,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JB9yYPEn3.mp3" length="10314705" type="audio/mpeg"/>
       <itunes:duration>00:21:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JB9yYPEn3.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.139】得罪了修行百年黄仙儿的严重后果</title>
+      <link>https://www.bilibili.com/video/BV1RR9xYzEr2</link>
+      <guid isPermaLink="false">397444163-BV1RR9xYzEr2</guid>
+      <pubDate>Wed, 05 Mar 2025 07:23:25 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.139】得罪了修行百年黄仙儿的严重后果</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1RR9xYzEr2.mp3" length="10765265" type="audio/mpeg"/>
+      <itunes:duration>00:22:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1RR9xYzEr2.jpg"/>
     </item>
   </channel>
 </rss>
