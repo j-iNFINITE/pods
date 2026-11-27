@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:29:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3413,6 +3413,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1zx421C7JW.mp3" length="10650535" type="audio/mpeg"/>
       <itunes:duration>00:22:11</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1zx421C7JW.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿Vol.70】：新疆诡事：哈萨克家族式坟墓墙角蹲着的老太太</title>
+      <link>https://www.bilibili.com/video/BV15j421o7Gt</link>
+      <guid isPermaLink="false">397444163-BV15j421o7Gt</guid>
+      <pubDate>Thu, 14 Mar 2024 11:40:41 +0000</pubDate>
+      <description>【站友投稿Vol.70】：新疆诡事：哈萨克家族式坟墓墙角蹲着的老太太</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV15j421o7Gt.mp3" length="14821984" type="audio/mpeg"/>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV15j421o7Gt.jpg"/>
     </item>
   </channel>
 </rss>
