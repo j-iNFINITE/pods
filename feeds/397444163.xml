@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:03:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3803,6 +3803,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1V64y1H7NP.mp3" length="17143539" type="audio/mpeg"/>
       <itunes:duration>00:35:43</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1V64y1H7NP.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第五十三期：两米多高的怪人，无头尸，赶街，野精作祟，烧骨，没有影子的老太太</title>
+      <link>https://www.bilibili.com/video/BV1Rg4y1C7aW</link>
+      <guid isPermaLink="false">397444163-BV1Rg4y1C7aW</guid>
+      <pubDate>Fri, 22 Dec 2023 03:40:46 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第五十三期：两米多高的怪人，无头尸，赶街，野精作祟，烧骨，没有影子的老太太</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Rg4y1C7aW.mp3" length="16893182" type="audio/mpeg"/>
+      <itunes:duration>00:35:12</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Rg4y1C7aW.jpg"/>
     </item>
   </channel>
 </rss>
