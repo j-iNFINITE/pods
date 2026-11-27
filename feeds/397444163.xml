@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:02:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3553,6 +3553,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1xt421a7kt.mp3" length="15473582" type="audio/mpeg"/>
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1xt421a7kt.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿】第六十七期：房屋后窗外那座荒坟里的戒指</title>
+      <link>https://www.bilibili.com/video/BV1zv421y7kR</link>
+      <guid isPermaLink="false">397444163-BV1zv421y7kR</guid>
+      <pubDate>Thu, 15 Feb 2024 14:54:03 +0000</pubDate>
+      <description>【站友投稿】第六十七期：房屋后窗外那座荒坟里的戒指</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1zv421y7kR.mp3" length="14473197" type="audio/mpeg"/>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1zv421y7kR.jpg"/>
     </item>
   </channel>
 </rss>
