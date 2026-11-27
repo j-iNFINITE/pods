@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:04:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4053,6 +4053,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1fu4y1b7aN.mp3" length="15901574" type="audio/mpeg"/>
       <itunes:duration>00:33:08</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1fu4y1b7aN.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】闽北鬼事（上）：古戏台，棺材杠，头七，夜归人，挑担子，电鱼</title>
+      <link>https://www.bilibili.com/video/BV1su4y177a8</link>
+      <guid isPermaLink="false">397444163-BV1su4y177a8</guid>
+      <pubDate>Thu, 02 Nov 2023 05:19:41 +0000</pubDate>
+      <description>【阿福怪谈】闽北鬼事（上）：古戏台，棺材杠，头七，夜归人，挑担子，电鱼</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1su4y177a8.mp3" length="13272401" type="audio/mpeg"/>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1su4y177a8.jpg"/>
     </item>
   </channel>
 </rss>
