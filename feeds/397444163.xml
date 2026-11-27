@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:14:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3343,6 +3343,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dD421L7s7.mp3" length="12359160" type="audio/mpeg"/>
       <itunes:duration>00:25:45</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dD421L7s7.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.111】老东北真实灵异系列（十）：【瞎驴】【紫毛僵】</title>
+      <link>https://www.bilibili.com/video/BV1VC411b77t</link>
+      <guid isPermaLink="false">397444163-BV1VC411b77t</guid>
+      <pubDate>Thu, 28 Mar 2024 07:31:18 +0000</pubDate>
+      <description>【阿福怪谈vol.111】老东北真实灵异系列（十）：【瞎驴】【紫毛僵】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1VC411b77t.mp3" length="14174147" type="audio/mpeg"/>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1VC411b77t.jpg"/>
     </item>
   </channel>
 </rss>
