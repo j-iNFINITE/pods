@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:48:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3963,6 +3963,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1V94y1J7Pg.mp3" length="17661182" type="audio/mpeg"/>
       <itunes:duration>00:36:48</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1V94y1J7Pg.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第四十七期：阁楼梦魇，母子连心，小Ａ的灵异事件，鬼语，白天遇鬼，租房</title>
+      <link>https://www.bilibili.com/video/BV1sQ4y1472D</link>
+      <guid isPermaLink="false">397444163-BV1sQ4y1472D</guid>
+      <pubDate>Mon, 20 Nov 2023 09:44:26 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第四十七期：阁楼梦魇，母子连心，小Ａ的灵异事件，鬼语，白天遇鬼，租房</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1sQ4y1472D.mp3" length="19275340" type="audio/mpeg"/>
+      <itunes:duration>00:40:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1sQ4y1472D.jpg"/>
     </item>
   </channel>
 </rss>
