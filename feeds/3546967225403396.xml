@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:39:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2054,6 +2054,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1MYG96aEe9.mp3" length="34449131" type="audio/mpeg"/>
       <itunes:duration>01:11:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1MYG96aEe9.jpg"/>
+    </item>
+    <item>
+      <title>死尸开快车撞大货车：疑似控尸邪术失控，一场科学根本解释不了的公路诡案丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1bYG96YEzk</link>
+      <guid isPermaLink="false">3546967225403396-BV1bYG96YEzk</guid>
+      <pubDate>Fri, 29 May 2026 23:30:00 +0000</pubDate>
+      <description>死尸开快车撞大货车：疑似控尸邪术失控，一场科学根本解释不了的公路诡案丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1bYG96YEzk.mp3" length="30456158" type="audio/mpeg"/>
+      <itunes:duration>01:03:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1bYG96YEzk.jpg"/>
     </item>
   </channel>
 </rss>
