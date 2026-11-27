@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:59:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4243,6 +4243,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Bp4y1F7EY.mp3" length="13747621" type="audio/mpeg"/>
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Bp4y1F7EY.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿】第三十六期：芳姨和奶奶，不敬，荒村怪影，木屋里的女人，敬鬼，招鼠咒和止血咒，鱼缸里的鬼脸，坟上的人，傻子</title>
+      <link>https://www.bilibili.com/video/BV1Q84y1D78y</link>
+      <guid isPermaLink="false">397444163-BV1Q84y1D78y</guid>
+      <pubDate>Mon, 25 Sep 2023 09:51:21 +0000</pubDate>
+      <description>【站友投稿】第三十六期：芳姨和奶奶，不敬，荒村怪影，木屋里的女人，敬鬼，招鼠咒和止血咒，鱼缸里的鬼脸，坟上的人，傻子</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Q84y1D78y.mp3" length="17600578" type="audio/mpeg"/>
+      <itunes:duration>00:36:40</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Q84y1D78y.jpg"/>
     </item>
   </channel>
 </rss>
