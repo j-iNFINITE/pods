@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:20:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4593,6 +4593,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Ck4y1K74C.mp3" length="10497152" type="audio/mpeg"/>
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Ck4y1K74C.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第二十七期：废弃的教学楼，ICU的怪事，平安扣，人流室出现的婴儿，深圳平湖东海渔港事件，车祸</title>
+      <link>https://www.bilibili.com/video/BV1YM4y1j7Ag</link>
+      <guid isPermaLink="false">397444163-BV1YM4y1j7Ag</guid>
+      <pubDate>Sat, 08 Jul 2023 02:21:00 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第二十七期：废弃的教学楼，ICU的怪事，平安扣，人流室出现的婴儿，深圳平湖东海渔港事件，车祸</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1YM4y1j7Ag.mp3" length="18647148" type="audio/mpeg"/>
+      <itunes:duration>00:38:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1YM4y1j7Ag.jpg"/>
     </item>
   </channel>
 </rss>
