@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:08:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2833,6 +2833,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1jb42177dG.mp3" length="13047113" type="audio/mpeg"/>
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1jb42177dG.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈Vol.136】秦岭鬼话（一）：走山路时看到的那些吓人的东西</title>
+      <link>https://www.bilibili.com/video/BV1uE4m1d7yM</link>
+      <guid isPermaLink="false">397444163-BV1uE4m1d7yM</guid>
+      <pubDate>Fri, 02 Aug 2024 08:30:01 +0000</pubDate>
+      <description>【阿福怪谈Vol.136】秦岭鬼话（一）：走山路时看到的那些吓人的东西</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1uE4m1d7yM.mp3" length="13075953" type="audio/mpeg"/>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1uE4m1d7yM.jpg"/>
     </item>
   </channel>
 </rss>
