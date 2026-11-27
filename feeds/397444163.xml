@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:48:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2234,6 +2234,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1rkcUeaEu3.mp3" length="11614774" type="audio/mpeg"/>
       <itunes:duration>00:24:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1rkcUeaEu3.jpg"/>
+    </item>
+    <item>
+      <title>【投稿故事Vol.122】：据说那间寺庙每晚10点敲钟后 鬼王会放小鬼出来游荡</title>
+      <link>https://www.bilibili.com/video/BV1VLcAeWEAt</link>
+      <guid isPermaLink="false">397444163-BV1VLcAeWEAt</guid>
+      <pubDate>Sun, 12 Jan 2025 02:00:00 +0000</pubDate>
+      <description>【投稿故事Vol.122】：据说那间寺庙每晚10点敲钟后 鬼王会放小鬼出来游荡</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1VLcAeWEAt.mp3" length="10267274" type="audio/mpeg"/>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1VLcAeWEAt.jpg"/>
     </item>
   </channel>
 </rss>
