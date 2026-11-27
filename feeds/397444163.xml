@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:17:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1654,6 +1654,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dgN7zTEEY.mp3" length="9504073" type="audio/mpeg"/>
       <itunes:duration>00:19:48</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dgN7zTEEY.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.177】云南蒙自农村的诡异事件（一）</title>
+      <link>https://www.bilibili.com/video/BV1P9MAzpEsF</link>
+      <guid isPermaLink="false">397444163-BV1P9MAzpEsF</guid>
+      <pubDate>Thu, 12 Jun 2025 12:13:53 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.177】云南蒙自农村的诡异事件（一）</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1P9MAzpEsF.mp3" length="10416687" type="audio/mpeg"/>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1P9MAzpEsF.jpg"/>
     </item>
   </channel>
 </rss>
