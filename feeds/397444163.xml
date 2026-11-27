@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:59:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4733,6 +4733,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV18u411Y7hu.mp3" length="9791637" type="audio/mpeg"/>
       <itunes:duration>00:20:24</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV18u411Y7hu.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】父亲夜钓时遇到的恐怖灵异经历</title>
+      <link>https://www.bilibili.com/video/BV1v14y1S7ne</link>
+      <guid isPermaLink="false">397444163-BV1v14y1S7ne</guid>
+      <pubDate>Sat, 10 Jun 2023 02:29:48 +0000</pubDate>
+      <description>【阿福怪谈】父亲夜钓时遇到的恐怖灵异经历</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1v14y1S7ne.mp3" length="9857675" type="audio/mpeg"/>
+      <itunes:duration>00:20:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1v14y1S7ne.jpg"/>
     </item>
   </channel>
 </rss>
