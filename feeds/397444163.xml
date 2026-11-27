@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:22:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2643,6 +2643,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV16Z1qYZEBT.mp3" length="13905393" type="audio/mpeg"/>
       <itunes:duration>00:28:58</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV16Z1qYZEBT.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈Vol.148】东北邪事儿（二）：【小崔的堂妹】【替死鬼】【求代鬼】【落水】</title>
+      <link>https://www.bilibili.com/video/BV1PH4Ae6Efw</link>
+      <guid isPermaLink="false">397444163-BV1PH4Ae6Efw</guid>
+      <pubDate>Fri, 04 Oct 2024 11:05:02 +0000</pubDate>
+      <description>【阿福怪谈Vol.148】东北邪事儿（二）：【小崔的堂妹】【替死鬼】【求代鬼】【落水】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1PH4Ae6Efw.mp3" length="11423760" type="audio/mpeg"/>
+      <itunes:duration>00:23:48</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1PH4Ae6Efw.jpg"/>
     </item>
   </channel>
 </rss>
