@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:14:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -684,6 +684,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1jFdgBbE5g.mp3" length="9090712" type="audio/mpeg"/>
       <itunes:duration>00:18:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1jFdgBbE5g.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.269】像蜘蛛一样趴着跑的“人”</title>
+      <link>https://www.bilibili.com/video/BV1ZSRkBnEAB</link>
+      <guid isPermaLink="false">397444163-BV1ZSRkBnEAB</guid>
+      <pubDate>Tue, 05 May 2026 09:53:08 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.269】像蜘蛛一样趴着跑的“人”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1ZSRkBnEAB.mp3" length="9504909" type="audio/mpeg"/>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1ZSRkBnEAB.jpg"/>
     </item>
   </channel>
 </rss>
