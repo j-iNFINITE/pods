@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:22:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2893,6 +2893,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV17x4y1s76w.mp3" length="11701293" type="audio/mpeg"/>
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV17x4y1s76w.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.135】户外运动遇到诡异的事儿（二）：穿越沙漠的诡异经历</title>
+      <link>https://www.bilibili.com/video/BV1bZ421N7gW</link>
+      <guid isPermaLink="false">397444163-BV1bZ421N7gW</guid>
+      <pubDate>Thu, 18 Jul 2024 07:35:29 +0000</pubDate>
+      <description>【阿福怪谈vol.135】户外运动遇到诡异的事儿（二）：穿越沙漠的诡异经历</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1bZ421N7gW.mp3" length="11954359" type="audio/mpeg"/>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1bZ421N7gW.jpg"/>
     </item>
   </channel>
 </rss>
