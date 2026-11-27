@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:12:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2414,6 +2414,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1KKdwBpE3h.mp3" length="32881993" type="audio/mpeg"/>
       <itunes:duration>01:08:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1KKdwBpE3h.jpg"/>
+    </item>
+    <item>
+      <title>深夜厨房剁肉声：别剁了，我们越剁越小！云南工地惊魂丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1hBdwBhEHN</link>
+      <guid isPermaLink="false">3546967225403396-BV1hBdwBhEHN</guid>
+      <pubDate>Sat, 09 May 2026 10:00:00 +0000</pubDate>
+      <description>深夜厨房剁肉声：别剁了，我们越剁越小！云南工地惊魂丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1hBdwBhEHN.mp3" length="34600015" type="audio/mpeg"/>
+      <itunes:duration>01:12:05</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1hBdwBhEHN.jpg"/>
     </item>
   </channel>
 </rss>
