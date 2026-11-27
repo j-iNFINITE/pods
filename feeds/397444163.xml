@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:13:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -434,6 +434,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1TVKV6aEV3.mp3" length="9550467" type="audio/mpeg"/>
       <itunes:duration>00:19:54</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1TVKV6aEV3.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.292】住在山里姥爷家看见了最恐怖的东西（上集）</title>
+      <link>https://www.bilibili.com/video/BV1SeN967EtW</link>
+      <guid isPermaLink="false">397444163-BV1SeN967EtW</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:02 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.292】住在山里姥爷家看见了最恐怖的东西（上集）</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1SeN967EtW.mp3" length="9550467" type="audio/mpeg"/>
+      <itunes:duration>00:19:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1SeN967EtW.jpg"/>
     </item>
   </channel>
 </rss>
