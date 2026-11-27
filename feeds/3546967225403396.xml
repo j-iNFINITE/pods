@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:47:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2314,6 +2314,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1BP5t65Ez2.mp3" length="33397755" type="audio/mpeg"/>
       <itunes:duration>01:09:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1BP5t65Ez2.jpg"/>
+    </item>
+    <item>
+      <title>北京小伙酒后怒挥重拳打鬼，物理攻击对灵体无效后的恐怖反噬？丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1TQ5J6gEQj</link>
+      <guid isPermaLink="false">3546967225403396-BV1TQ5J6gEQj</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0000</pubDate>
+      <description>北京小伙酒后怒挥重拳打鬼，物理攻击对灵体无效后的恐怖反噬？丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1TQ5J6gEQj.mp3" length="29625464" type="audio/mpeg"/>
+      <itunes:duration>01:01:43</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1TQ5J6gEQj.jpg"/>
     </item>
   </channel>
 </rss>
