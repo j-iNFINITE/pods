@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:41:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2953,6 +2953,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JS421R7Ec.mp3" length="14697224" type="audio/mpeg"/>
       <itunes:duration>00:30:37</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JS421R7Ec.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿Vol.92】：【走廊末尾的宿舍】【泰国之旅】【定数】【叼鞋的猫】【古战场】</title>
+      <link>https://www.bilibili.com/video/BV1TT421k7AB</link>
+      <guid isPermaLink="false">397444163-BV1TT421k7AB</guid>
+      <pubDate>Wed, 03 Jul 2024 09:57:49 +0000</pubDate>
+      <description>【站友投稿Vol.92】：【走廊末尾的宿舍】【泰国之旅】【定数】【叼鞋的猫】【古战场】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1TT421k7AB.mp3" length="13623479" type="audio/mpeg"/>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1TT421k7AB.jpg"/>
     </item>
   </channel>
 </rss>
