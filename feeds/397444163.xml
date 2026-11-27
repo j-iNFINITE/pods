@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:55:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3743,6 +3743,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BG411B7mN.mp3" length="16474595" type="audio/mpeg"/>
       <itunes:duration>00:34:19</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BG411B7mN.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第五十七期：工厂宿舍，悉尼租房经历，夜车司机，火堆旁的黑影，托梦，胃病</title>
+      <link>https://www.bilibili.com/video/BV17K411x7Ku</link>
+      <guid isPermaLink="false">397444163-BV17K411x7Ku</guid>
+      <pubDate>Thu, 04 Jan 2024 09:38:20 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第五十七期：工厂宿舍，悉尼租房经历，夜车司机，火堆旁的黑影，托梦，胃病</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV17K411x7Ku.mp3" length="15749228" type="audio/mpeg"/>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV17K411x7Ku.jpg"/>
     </item>
   </channel>
 </rss>
