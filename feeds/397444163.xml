@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:46:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1514,6 +1514,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1aGtcz3EDh.mp3" length="9765925" type="audio/mpeg"/>
       <itunes:duration>00:20:21</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1aGtcz3EDh.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.188】闺蜜去世的爷爷在门缝外看着她</title>
+      <link>https://www.bilibili.com/video/BV1fM8JzCEyN</link>
+      <guid isPermaLink="false">397444163-BV1fM8JzCEyN</guid>
+      <pubDate>Mon, 28 Jul 2025 11:00:52 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.188】闺蜜去世的爷爷在门缝外看着她</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1fM8JzCEyN.mp3" length="9252671" type="audio/mpeg"/>
+      <itunes:duration>00:19:17</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1fM8JzCEyN.jpg"/>
     </item>
   </channel>
 </rss>
