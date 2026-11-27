@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:40:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -24,6 +24,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14zy2zMEQe.mp3" length="9652867" type="audio/mpeg"/>
       <itunes:duration>00:20:07</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14zy2zMEQe.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.322】半夜爬上楼的“人”</title>
+      <link>https://www.bilibili.com/video/BV1zcy7zrEgh</link>
+      <guid isPermaLink="false">397444163-BV1zcy7zrEgh</guid>
+      <pubDate>Sun, 22 Nov 2026 15:06:50 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.322】半夜爬上楼的“人”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1zcy7zrEgh.mp3" length="8893435" type="audio/mpeg"/>
+      <itunes:duration>00:18:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1zcy7zrEgh.jpg"/>
     </item>
   </channel>
 </rss>
