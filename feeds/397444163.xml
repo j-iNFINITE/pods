@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:19:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4343,6 +4343,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1A14y1C7Ud.mp3" length="16289440" type="audio/mpeg"/>
       <itunes:duration>00:33:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1A14y1C7Ud.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第三十四期：窗户对面的姐姐，住院的表弟，合租房惊魂，工地诡事，头七回魂，红轿子，拦路鬼，水友灵异事件</title>
+      <link>https://www.bilibili.com/video/BV1Vw411U76h</link>
+      <guid isPermaLink="false">397444163-BV1Vw411U76h</guid>
+      <pubDate>Tue, 05 Sep 2023 09:15:46 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第三十四期：窗户对面的姐姐，住院的表弟，合租房惊魂，工地诡事，头七回魂，红轿子，拦路鬼，水友灵异事件</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Vw411U76h.mp3" length="21927291" type="audio/mpeg"/>
+      <itunes:duration>00:45:41</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Vw411U76h.jpg"/>
     </item>
   </channel>
 </rss>
