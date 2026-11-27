@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:57:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -114,6 +114,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1R2H56XELL.mp3" length="9062500" type="audio/mpeg"/>
       <itunes:duration>00:18:53</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1R2H56XELL.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：网传故事Vol.193】村里那个女人死后 可怕的事就发生了</title>
+      <link>https://www.bilibili.com/video/BV11Lnm6FEvu</link>
+      <guid isPermaLink="false">397444163-BV11Lnm6FEvu</guid>
+      <pubDate>Thu, 22 Oct 2026 09:32:32 +0000</pubDate>
+      <description>【阿福怪谈：网传故事Vol.193】村里那个女人死后 可怕的事就发生了</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV11Lnm6FEvu.mp3" length="9717233" type="audio/mpeg"/>
+      <itunes:duration>00:20:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV11Lnm6FEvu.jpg"/>
     </item>
   </channel>
 </rss>
