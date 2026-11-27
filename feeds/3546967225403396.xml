@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:34:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2034,6 +2034,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1zVG96jEP6.mp3" length="29590356" type="audio/mpeg"/>
       <itunes:duration>01:01:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1zVG96jEP6.jpg"/>
+    </item>
+    <item>
+      <title>护校女生亲述江苏军营撞邪、医院遇鬼的双重窒息恐怖经历丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1UYG96YEof</link>
+      <guid isPermaLink="false">3546967225403396-BV1UYG96YEof</guid>
+      <pubDate>Sat, 30 May 2026 23:30:00 +0000</pubDate>
+      <description>护校女生亲述江苏军营撞邪、医院遇鬼的双重窒息恐怖经历丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1UYG96YEof.mp3" length="35114731" type="audio/mpeg"/>
+      <itunes:duration>01:13:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1UYG96YEof.jpg"/>
     </item>
   </channel>
 </rss>
