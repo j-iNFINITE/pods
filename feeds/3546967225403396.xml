@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:34:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2254,6 +2254,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1W3LH6uEuZ.mp3" length="29012945" type="audio/mpeg"/>
       <itunes:duration>01:00:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1W3LH6uEuZ.jpg"/>
+    </item>
+    <item>
+      <title>90 年代石家庄最凶校园诡事：拆镇邪假山，红马甲女鬼留血色印逼退学生丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1qD586DEwc</link>
+      <guid isPermaLink="false">3546967225403396-BV1qD586DEwc</guid>
+      <pubDate>Mon, 18 May 2026 10:00:00 +0000</pubDate>
+      <description>90 年代石家庄最凶校园诡事：拆镇邪假山，红马甲女鬼留血色印逼退学生丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1qD586DEwc.mp3" length="29047636" type="audio/mpeg"/>
+      <itunes:duration>01:00:31</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1qD586DEwc.jpg"/>
     </item>
   </channel>
 </rss>
