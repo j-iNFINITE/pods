@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:32:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1704,6 +1704,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1ip7mz9Eym.mp3" length="10557122" type="audio/mpeg"/>
       <itunes:duration>00:22:00</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1ip7mz9Eym.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.171】走夜路时看到了一个在原地不停跳的“人”</title>
+      <link>https://www.bilibili.com/video/BV1BzjQzvEWn</link>
+      <guid isPermaLink="false">397444163-BV1BzjQzvEWn</guid>
+      <pubDate>Tue, 27 May 2025 03:32:12 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.171】走夜路时看到了一个在原地不停跳的“人”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BzjQzvEWn.mp3" length="11027326" type="audio/mpeg"/>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BzjQzvEWn.jpg"/>
     </item>
   </channel>
 </rss>
