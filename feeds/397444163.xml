@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:29:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4393,6 +4393,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Zm4y1n7QQ.mp3" length="17255552" type="audio/mpeg"/>
       <itunes:duration>00:35:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Zm4y1n7QQ.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】南方农村发生的诡异怪事：水诡真的存在吗，撞邪，楼梯的脚步声，女人和小孩，人占佛地，酒店离奇事件，预知梦，菩萨显灵，香火，震动的棺材</title>
+      <link>https://www.bilibili.com/video/BV1D8411X7Ns</link>
+      <guid isPermaLink="false">397444163-BV1D8411X7Ns</guid>
+      <pubDate>Thu, 17 Aug 2023 03:00:00 +0000</pubDate>
+      <description>【阿福怪谈】南方农村发生的诡异怪事：水诡真的存在吗，撞邪，楼梯的脚步声，女人和小孩，人占佛地，酒店离奇事件，预知梦，菩萨显灵，香火，震动的棺材</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1D8411X7Ns.mp3" length="16994955" type="audio/mpeg"/>
+      <itunes:duration>00:35:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1D8411X7Ns.jpg"/>
     </item>
   </channel>
 </rss>
