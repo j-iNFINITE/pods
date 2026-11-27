@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:04:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4283,6 +4283,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1eN411H7w3.mp3" length="13749502" type="audio/mpeg"/>
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1eN411H7w3.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】江西赣州大山里的故事（中）：疯女孩（下），大树的笑声，木客</title>
+      <link>https://www.bilibili.com/video/BV17h4y1e7sV</link>
+      <guid isPermaLink="false">397444163-BV17h4y1e7sV</guid>
+      <pubDate>Sun, 17 Sep 2023 09:58:12 +0000</pubDate>
+      <description>【阿福怪谈】江西赣州大山里的故事（中）：疯女孩（下），大树的笑声，木客</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV17h4y1e7sV.mp3" length="14150325" type="audio/mpeg"/>
+      <itunes:duration>00:29:29</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV17h4y1e7sV.jpg"/>
     </item>
   </channel>
 </rss>
