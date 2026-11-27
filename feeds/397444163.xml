@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:01:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4743,6 +4743,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1v14y1S7ne.mp3" length="9857675" type="audio/mpeg"/>
       <itunes:duration>00:20:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1v14y1S7ne.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第二十期：院子里拍手的小孩，后门的坟，不能欠死人钱，上三楼的人，房子下面有坟，妈妈的亲身经历，叫魂，房顶的声音</title>
+      <link>https://www.bilibili.com/video/BV1AX4y1h7TX</link>
+      <guid isPermaLink="false">397444163-BV1AX4y1h7TX</guid>
+      <pubDate>Thu, 08 Jun 2023 03:16:53 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第二十期：院子里拍手的小孩，后门的坟，不能欠死人钱，上三楼的人，房子下面有坟，妈妈的亲身经历，叫魂，房顶的声音</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1AX4y1h7TX.mp3" length="22959023" type="audio/mpeg"/>
+      <itunes:duration>00:47:50</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1AX4y1h7TX.jpg"/>
     </item>
   </channel>
 </rss>
