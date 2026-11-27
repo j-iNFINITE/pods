@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:50:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1044,6 +1044,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1EVzLBTEwP.mp3" length="9373670" type="audio/mpeg"/>
       <itunes:duration>00:19:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1EVzLBTEwP.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.235】姨娘葬礼时我看到的人影</title>
+      <link>https://www.bilibili.com/video/BV1oukuBxEYK</link>
+      <guid isPermaLink="false">397444163-BV1oukuBxEYK</guid>
+      <pubDate>Mon, 19 Jan 2026 11:42:09 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.235】姨娘葬礼时我看到的人影</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1oukuBxEYK.mp3" length="10292971" type="audio/mpeg"/>
+      <itunes:duration>00:21:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1oukuBxEYK.jpg"/>
     </item>
   </channel>
 </rss>
