@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:50:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2493,6 +2493,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1gNUjYsEjF.mp3" length="11871603" type="audio/mpeg"/>
       <itunes:duration>00:24:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1gNUjYsEjF.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈vol.159】：外婆那晚看见了一个很高的白衣人</title>
+      <link>https://www.bilibili.com/video/BV1BpmbYqENX</link>
+      <guid isPermaLink="false">397444163-BV1BpmbYqENX</guid>
+      <pubDate>Tue, 12 Nov 2024 11:00:52 +0000</pubDate>
+      <description>【阿福怪谈vol.159】：外婆那晚看见了一个很高的白衣人</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1BpmbYqENX.mp3" length="12460717" type="audio/mpeg"/>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1BpmbYqENX.jpg"/>
     </item>
   </channel>
 </rss>
