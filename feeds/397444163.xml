@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:01:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4013,6 +4013,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Yc411X7W1.mp3" length="18160016" type="audio/mpeg"/>
       <itunes:duration>00:37:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Yc411X7W1.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第四十四期：我的克夫命，烧蛋，夜跑，夜哭，外事，家里的女人，怪物</title>
+      <link>https://www.bilibili.com/video/BV1y84y1Q7yk</link>
+      <guid isPermaLink="false">397444163-BV1y84y1Q7yk</guid>
+      <pubDate>Fri, 10 Nov 2023 07:48:18 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第四十四期：我的克夫命，烧蛋，夜跑，夜哭，外事，家里的女人，怪物</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1y84y1Q7yk.mp3" length="18724470" type="audio/mpeg"/>
+      <itunes:duration>00:39:01</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1y84y1Q7yk.jpg"/>
     </item>
   </channel>
 </rss>
