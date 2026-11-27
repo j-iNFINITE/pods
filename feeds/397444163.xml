@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:30:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2673,6 +2673,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV12AxFewERm.mp3" length="11612677" type="audio/mpeg"/>
       <itunes:duration>00:24:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV12AxFewERm.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈Vol.145】听说过的那些怪事（一）：【障眼法】【财将树】【眚】</title>
+      <link>https://www.bilibili.com/video/BV1kdszeNEWc</link>
+      <guid isPermaLink="false">397444163-BV1kdszeNEWc</guid>
+      <pubDate>Wed, 25 Sep 2024 03:45:54 +0000</pubDate>
+      <description>【阿福怪谈Vol.145】听说过的那些怪事（一）：【障眼法】【财将树】【眚】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1kdszeNEWc.mp3" length="12198029" type="audio/mpeg"/>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1kdszeNEWc.jpg"/>
     </item>
   </channel>
 </rss>
