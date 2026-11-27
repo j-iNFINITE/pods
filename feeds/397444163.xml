@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:38:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3933,6 +3933,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV12w411n7Kf.mp3" length="16584101" type="audio/mpeg"/>
       <itunes:duration>00:34:33</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV12w411n7Kf.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】身边朋友那些让人吓尿的经历（2）：医务室，算命，李鬼，男生宿舍，夜晚的盘山路，后山</title>
+      <link>https://www.bilibili.com/video/BV1x34y1F76H</link>
+      <guid isPermaLink="false">397444163-BV1x34y1F76H</guid>
+      <pubDate>Sun, 26 Nov 2023 06:30:24 +0000</pubDate>
+      <description>【阿福怪谈】身边朋友那些让人吓尿的经历（2）：医务室，算命，李鬼，男生宿舍，夜晚的盘山路，后山</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1x34y1F76H.mp3" length="15092823" type="audio/mpeg"/>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1x34y1F76H.jpg"/>
     </item>
   </channel>
 </rss>
