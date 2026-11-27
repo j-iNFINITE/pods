@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:13:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4083,6 +4083,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dN411W76L.mp3" length="16434681" type="audio/mpeg"/>
       <itunes:duration>00:34:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dN411W76L.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第四十一期：猫笼，消失的饺子，报应，诡异经历集锦，楼下的黑色人影，学校禁区，奇怪的梦，胳膊上的手印</title>
+      <link>https://www.bilibili.com/video/BV1bc411Z7Ew</link>
+      <guid isPermaLink="false">397444163-BV1bc411Z7Ew</guid>
+      <pubDate>Fri, 27 Oct 2023 09:38:44 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第四十一期：猫笼，消失的饺子，报应，诡异经历集锦，楼下的黑色人影，学校禁区，奇怪的梦，胳膊上的手印</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1bc411Z7Ew.mp3" length="17303409" type="audio/mpeg"/>
+      <itunes:duration>00:36:03</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1bc411Z7Ew.jpg"/>
     </item>
   </channel>
 </rss>
