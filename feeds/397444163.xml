@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:53:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2024,6 +2024,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1htRVYeEVH.mp3" length="10010222" type="audio/mpeg"/>
       <itunes:duration>00:20:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1htRVYeEVH.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.140】“无命桥”怪谈</title>
+      <link>https://www.bilibili.com/video/BV1JB9yYPEn3</link>
+      <guid isPermaLink="false">397444163-BV1JB9yYPEn3</guid>
+      <pubDate>Fri, 07 Mar 2025 09:08:30 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.140】“无命桥”怪谈</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1JB9yYPEn3.mp3" length="10314705" type="audio/mpeg"/>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1JB9yYPEn3.jpg"/>
     </item>
   </channel>
 </rss>
