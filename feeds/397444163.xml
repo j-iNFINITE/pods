@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:14:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2114,6 +2114,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1PzNaeNESP.mp3" length="9612123" type="audio/mpeg"/>
       <itunes:duration>00:20:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1PzNaeNESP.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：网传故事Vol.176】经常出现在楼道里的两位神秘“房客”</title>
+      <link>https://www.bilibili.com/video/BV1GUN2esE2D</link>
+      <guid isPermaLink="false">397444163-BV1GUN2esE2D</guid>
+      <pubDate>Sun, 09 Feb 2025 08:58:18 +0000</pubDate>
+      <description>【阿福怪谈：网传故事Vol.176】经常出现在楼道里的两位神秘“房客”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1GUN2esE2D.mp3" length="11952485" type="audio/mpeg"/>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1GUN2esE2D.jpg"/>
     </item>
   </channel>
 </rss>
