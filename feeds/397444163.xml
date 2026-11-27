@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:27:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3903,6 +3903,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1MQ4y147Yc.mp3" length="15135872" type="audio/mpeg"/>
       <itunes:duration>00:31:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1MQ4y147Yc.jpg"/>
+    </item>
+    <item>
+      <title>【天津灵异档案】94-99（完结）：杀夫，密室逃生，鸽子房，消失的男生，劫持，雷劈老鼠</title>
+      <link>https://www.bilibili.com/video/BV1Se411Z7kS</link>
+      <guid isPermaLink="false">397444163-BV1Se411Z7kS</guid>
+      <pubDate>Sat, 02 Dec 2023 02:40:17 +0000</pubDate>
+      <description>【天津灵异档案】94-99（完结）：杀夫，密室逃生，鸽子房，消失的男生，劫持，雷劈老鼠</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Se411Z7kS.mp3" length="12932392" type="audio/mpeg"/>
+      <itunes:duration>00:26:57</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Se411Z7kS.jpg"/>
     </item>
   </channel>
 </rss>
