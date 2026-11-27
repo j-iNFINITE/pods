@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:54:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3243,6 +3243,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14i421173T.mp3" length="12818490" type="audio/mpeg"/>
       <itunes:duration>00:26:42</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14i421173T.jpg"/>
+    </item>
+    <item>
+      <title>【站友投稿Vol.80】：每到夜晚就会回家敲门的冤魂</title>
+      <link>https://www.bilibili.com/video/BV1Gi42117Cu</link>
+      <guid isPermaLink="false">397444163-BV1Gi42117Cu</guid>
+      <pubDate>Mon, 22 Apr 2024 12:59:29 +0000</pubDate>
+      <description>【站友投稿Vol.80】：每到夜晚就会回家敲门的冤魂</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Gi42117Cu.mp3" length="11950806" type="audio/mpeg"/>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Gi42117Cu.jpg"/>
     </item>
   </channel>
 </rss>
