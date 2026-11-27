@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:22:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -214,6 +214,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1ften6VEY4.mp3" length="9297184" type="audio/mpeg"/>
       <itunes:duration>00:19:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1ften6VEY4.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：网传故事Vol.190】巫蛊之毒（上）</title>
+      <link>https://www.bilibili.com/video/BV1qGYm6LE6d</link>
+      <guid isPermaLink="false">397444163-BV1qGYm6LE6d</guid>
+      <pubDate>Fri, 11 Sep 2026 13:57:55 +0000</pubDate>
+      <description>【阿福怪谈：网传故事Vol.190】巫蛊之毒（上）</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1qGYm6LE6d.mp3" length="12338255" type="audio/mpeg"/>
+      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1qGYm6LE6d.jpg"/>
     </item>
   </channel>
 </rss>
