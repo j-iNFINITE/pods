@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:25:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3643,6 +3643,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV16i4y1H7N9.mp3" length="14154294" type="audio/mpeg"/>
       <itunes:duration>00:29:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV16i4y1H7N9.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第六十二期：外婆，换房，迁坟，挖骨，闯煞，江边女孩</title>
+      <link>https://www.bilibili.com/video/BV1dT4y1b7H5</link>
+      <guid isPermaLink="false">397444163-BV1dT4y1b7H5</guid>
+      <pubDate>Wed, 24 Jan 2024 07:02:00 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第六十二期：外婆，换房，迁坟，挖骨，闯煞，江边女孩</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1dT4y1b7H5.mp3" length="15622104" type="audio/mpeg"/>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1dT4y1b7H5.jpg"/>
     </item>
   </channel>
 </rss>
