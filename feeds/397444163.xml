@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:47:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:52:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1764,6 +1764,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1QKEtzoEKZ.mp3" length="11432537" type="audio/mpeg"/>
       <itunes:duration>00:23:49</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1QKEtzoEKZ.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.166】迁坟导致的严重后果 会说话的花</title>
+      <link>https://www.bilibili.com/video/BV1efEizWEMy</link>
+      <guid isPermaLink="false">397444163-BV1efEizWEMy</guid>
+      <pubDate>Wed, 14 May 2025 15:32:18 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.166】迁坟导致的严重后果 会说话的花</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1efEizWEMy.mp3" length="12277860" type="audio/mpeg"/>
+      <itunes:duration>00:25:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1efEizWEMy.jpg"/>
     </item>
   </channel>
 </rss>
