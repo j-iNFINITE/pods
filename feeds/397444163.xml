@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:13:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4813,6 +4813,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV18k4y1x7MM.mp3" length="19830390" type="audio/mpeg"/>
       <itunes:duration>00:41:19</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV18k4y1x7MM.jpg"/>
+    </item>
+    <item>
+      <title>天津灵异档案62-70：怀表，牙齿，安氏人家，面团，打碎的白玉碗，煤气中毒，特大杀人案，丢失的现金，消失的标本</title>
+      <link>https://www.bilibili.com/video/BV1cM4y1i7t5</link>
+      <guid isPermaLink="false">397444163-BV1cM4y1i7t5</guid>
+      <pubDate>Thu, 25 May 2023 02:57:44 +0000</pubDate>
+      <description>天津灵异档案62-70：怀表，牙齿，安氏人家，面团，打碎的白玉碗，煤气中毒，特大杀人案，丢失的现金，消失的标本</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1cM4y1i7t5.mp3" length="18246743" type="audio/mpeg"/>
+      <itunes:duration>00:38:01</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1cM4y1i7t5.jpg"/>
     </item>
   </channel>
 </rss>
