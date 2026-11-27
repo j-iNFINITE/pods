@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:30:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2244,6 +2244,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1i6LE6QEN7.mp3" length="31521954" type="audio/mpeg"/>
       <itunes:duration>01:05:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1i6LE6QEN7.jpg"/>
+    </item>
+    <item>
+      <title>叛逆亲弟雪夜冻毙，回魂遭自家门神阻拦难入家门！丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1W3LH6uEuZ</link>
+      <guid isPermaLink="false">3546967225403396-BV1W3LH6uEuZ</guid>
+      <pubDate>Mon, 18 May 2026 16:19:11 +0000</pubDate>
+      <description>叛逆亲弟雪夜冻毙，回魂遭自家门神阻拦难入家门！丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1W3LH6uEuZ.mp3" length="29012945" type="audio/mpeg"/>
+      <itunes:duration>01:00:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1W3LH6uEuZ.jpg"/>
     </item>
   </channel>
 </rss>
