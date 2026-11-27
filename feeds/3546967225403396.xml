@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:07:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1734,6 +1734,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1ZdjG63En4.mp3" length="31023329" type="audio/mpeg"/>
       <itunes:duration>01:04:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1ZdjG63En4.jpg"/>
+    </item>
+    <item>
+      <title>退房时才知屋里死过人！他在407房间跟她睡了三天：桂林某酒店2000年灵异传闻丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV1wCE16jETy</link>
+      <guid isPermaLink="false">3546967225403396-BV1wCE16jETy</guid>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
+      <description>退房时才知屋里死过人！他在407房间跟她睡了三天：桂林某酒店2000年灵异传闻丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV1wCE16jETy.mp3" length="31934689" type="audio/mpeg"/>
+      <itunes:duration>01:06:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV1wCE16jETy.jpg"/>
     </item>
   </channel>
 </rss>
