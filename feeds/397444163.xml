@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:00:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -864,6 +864,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1f4wCz6EnE.mp3" length="10319303" type="audio/mpeg"/>
       <itunes:duration>00:21:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1f4wCz6EnE.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.253】父亲当年跑船时遇到了“野蛟”</title>
+      <link>https://www.bilibili.com/video/BV1MQw3zNEjy</link>
+      <guid isPermaLink="false">397444163-BV1MQw3zNEjy</guid>
+      <pubDate>Sun, 15 Mar 2026 15:06:34 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.253】父亲当年跑船时遇到了“野蛟”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1MQw3zNEjy.mp3" length="10168837" type="audio/mpeg"/>
+      <itunes:duration>00:21:11</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1MQw3zNEjy.jpg"/>
     </item>
   </channel>
 </rss>
