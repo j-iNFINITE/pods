@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:59:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2793,6 +2793,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1soWjeGEzS.mp3" length="13073662" type="audio/mpeg"/>
       <itunes:duration>00:27:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1soWjeGEzS.jpg"/>
+    </item>
+    <item>
+      <title>【投稿故事Vol.101】：【打猎遇鬼】【水井旁的空巷子】【奇怪的三楼】【鬼婆】</title>
+      <link>https://www.bilibili.com/video/BV1rhWne1EtZ</link>
+      <guid isPermaLink="false">397444163-BV1rhWne1EtZ</guid>
+      <pubDate>Tue, 20 Aug 2024 06:15:32 +0000</pubDate>
+      <description>【投稿故事Vol.101】：【打猎遇鬼】【水井旁的空巷子】【奇怪的三楼】【鬼婆】</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1rhWne1EtZ.mp3" length="12049654" type="audio/mpeg"/>
+      <itunes:duration>00:25:06</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1rhWne1EtZ.jpg"/>
     </item>
   </channel>
 </rss>
