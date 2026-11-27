@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3546967225403396/?sort_field=pubtime&amp;tid=0&amp;oid=117666937311537&amp;bvid=BV1T4yQzQEQC</link>
     <description>夜半诡话丨民间诡事馆</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:25:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3546967225403396.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>夜半诡话丨民间诡事馆</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1794,6 +1794,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV14CEQ66Eo7.mp3" length="29098209" type="audio/mpeg"/>
       <itunes:duration>01:00:37</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV14CEQ66Eo7.jpg"/>
+    </item>
+    <item>
+      <title>俏媳妇独守空房，却夜夜与大青蛇同床！十月怀胎，产下惊悚怪婴丨夜半诡话</title>
+      <link>https://www.bilibili.com/video/BV18EEX61Ebz</link>
+      <guid isPermaLink="false">3546967225403396-BV18EEX61Ebz</guid>
+      <pubDate>Sun, 14 Jun 2026 10:00:00 +0000</pubDate>
+      <description>俏媳妇独守空房，却夜夜与大青蛇同床！十月怀胎，产下惊悚怪婴丨夜半诡话</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3546967225403396/BV18EEX61Ebz.mp3" length="29474999" type="audio/mpeg"/>
+      <itunes:duration>01:01:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3546967225403396/BV18EEX61Ebz.jpg"/>
     </item>
   </channel>
 </rss>
