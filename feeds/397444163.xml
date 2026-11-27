@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:55:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1814,6 +1814,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1b7VHztErX.mp3" length="10148149" type="audio/mpeg"/>
       <itunes:duration>00:21:08</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1b7VHztErX.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈：投稿故事Vol.161】老屋房梁上伸出来的血红色“小脚”</title>
+      <link>https://www.bilibili.com/video/BV1xmGtzME9X</link>
+      <guid isPermaLink="false">397444163-BV1xmGtzME9X</guid>
+      <pubDate>Wed, 30 Apr 2025 13:26:37 +0000</pubDate>
+      <description>【阿福怪谈：投稿故事Vol.161】老屋房梁上伸出来的血红色“小脚”</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1xmGtzME9X.mp3" length="9494251" type="audio/mpeg"/>
+      <itunes:duration>00:19:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1xmGtzME9X.jpg"/>
     </item>
   </channel>
 </rss>
