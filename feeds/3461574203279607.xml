@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:03:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -658,6 +658,24 @@ Claustrophobia | 混沌中的祭祀
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Tj421Z7HS.mp3" length="10457020" type="audio/mpeg"/>
       <itunes:duration>00:21:47</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Tj421Z7HS.jpg"/>
+    </item>
+    <item>
+      <title>作者亲身经历改编，闪灵故事原型，酒店里的神秘房间！你想去斯坦利酒店和亡灵作伴么？</title>
+      <link>https://www.bilibili.com/video/BV16W421w7Gd</link>
+      <guid isPermaLink="false">3461574203279607-BV16W421w7Gd</guid>
+      <pubDate>Wed, 06 Mar 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Silent Night (Dark Piano Version) https://www.youtube.com/watch?v=REk9Ia6eYXk
+BCD Studio | Time
+高梨康治 | 沼に沈む
+Wendy Carlos | Nocturnal Valse Triste [Making The Shining]
+山岡晃 | Never Forgive Me, Never Forget Me
+—————
+如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16W421w7Gd.mp3" length="9822774" type="audio/mpeg"/>
+      <itunes:duration>00:20:28</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16W421w7Gd.jpg"/>
     </item>
   </channel>
 </rss>
