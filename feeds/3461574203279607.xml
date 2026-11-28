@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:34:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -482,6 +482,20 @@ Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1FM4m1D75S.mp3" length="11635665" type="audio/mpeg"/>
       <itunes:duration>00:24:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1FM4m1D75S.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 来历不明的钱不要碰！治疗邪蛊的办法居然是反向下蛊？！</title>
+      <link>https://www.bilibili.com/video/BV17D421s7wX</link>
+      <guid isPermaLink="false">3461574203279607-BV17D421s7wX</guid>
+      <pubDate>Tue, 09 Apr 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV17D421s7wX.mp3" length="11825635" type="audio/mpeg"/>
+      <itunes:duration>00:24:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV17D421s7wX.jpg"/>
     </item>
   </channel>
 </rss>
