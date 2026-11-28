@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:04:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1089,6 +1089,24 @@ Myuu | Bittersweet https://www.youtube.com/watch?v=f7rYJ3Eg-mU
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Zy4y1c7Ki.mp3" length="10395371" type="audio/mpeg"/>
       <itunes:duration>00:21:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Zy4y1c7Ki.jpg"/>
+    </item>
+    <item>
+      <title>占卜师不收卦金惨遭反噬；阴阳眼网友亲述，我帮鬼魂实现心愿；血月照片里惊现女鬼？我究竟看到了什么！</title>
+      <link>https://www.bilibili.com/video/BV11c411d71X</link>
+      <guid isPermaLink="false">3461574203279607-BV11c411d71X</guid>
+      <pubDate>Fri, 03 Nov 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沙子“a long story”
+山岡晃 | Never Forgive Me, Never Forget Me
+濱本麻央 | 恐るべき暗暗
+高梨康治 | 寂れた町
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11c411d71X.mp3" length="8739843" type="audio/mpeg"/>
+      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11c411d71X.jpg"/>
     </item>
   </channel>
 </rss>
