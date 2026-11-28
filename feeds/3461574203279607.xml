@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:03:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1073,6 +1073,22 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1UM411S7ef.mp3" length="6597585" type="audio/mpeg"/>
       <itunes:duration>00:13:45</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1UM411S7ef.jpg"/>
+    </item>
+    <item>
+      <title>前任州长揭秘惊天阴谋？竖琴计划是科研项目还是秘密武器？！详细解说《杰西·文图拉的阴谋论》S1 Ep.1</title>
+      <link>https://www.bilibili.com/video/BV1Zy4y1c7Ki</link>
+      <guid isPermaLink="false">3461574203279607-BV1Zy4y1c7Ki</guid>
+      <pubDate>Tue, 07 Nov 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+Myuu | Bittersweet https://www.youtube.com/watch?v=f7rYJ3Eg-mU
+濱本麻央 | 破壊される記憶
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Zy4y1c7Ki.mp3" length="10395371" type="audio/mpeg"/>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Zy4y1c7Ki.jpg"/>
     </item>
   </channel>
 </rss>
