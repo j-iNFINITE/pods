@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:45:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -288,6 +288,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1rHEy6rExU.mp3" length="24935962" type="audio/mpeg"/>
       <itunes:duration>00:51:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1rHEy6rExU.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说177上】完了完了我看见鬼的脸了！从头顶到眼睛再到鼻子嘴巴，她的脑袋正一点点升起来；乡村男孩肚子里竟然有一条奇怪寄生虫，只吃不吐，X片拍下惊人一幕！</title>
+      <link>https://www.bilibili.com/video/BV1ZhEv6CEhB</link>
+      <guid isPermaLink="false">28346875-BV1ZhEv6CEhB</guid>
+      <pubDate>Fri, 12 Jun 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1ZhEv6CEhB.mp3" length="23218568" type="audio/mpeg"/>
+      <itunes:duration>00:48:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1ZhEv6CEhB.jpg"/>
     </item>
   </channel>
 </rss>
