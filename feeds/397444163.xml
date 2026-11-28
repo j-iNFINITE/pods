@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:05:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -4993,6 +4993,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1WL411v7eN.mp3" length="21139229" type="audio/mpeg"/>
       <itunes:duration>00:44:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1WL411v7eN.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第十一期：阳台上的人影，墙上的小红人，漂亮女孩，预兆梦里缠着妈妈的那个男人，神婆，灵异高中，姨奶奶，诡异的上吊</title>
+      <link>https://www.bilibili.com/video/BV1pk4y1J7KY</link>
+      <guid isPermaLink="false">397444163-BV1pk4y1J7KY</guid>
+      <pubDate>Fri, 21 Apr 2023 03:00:42 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第十一期：阳台上的人影，墙上的小红人，漂亮女孩，预兆梦里缠着妈妈的那个男人，神婆，灵异高中，姨奶奶，诡异的上吊</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1pk4y1J7KY.mp3" length="19409087" type="audio/mpeg"/>
+      <itunes:duration>00:40:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1pk4y1J7KY.jpg"/>
     </item>
   </channel>
 </rss>
