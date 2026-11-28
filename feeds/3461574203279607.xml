@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:13:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1704,6 +1704,24 @@ Goblin | Suspiria (Celesta and Bells)
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Gz4y1E7Z9.mp3" length="11483319" type="audio/mpeg"/>
       <itunes:duration>00:23:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Gz4y1E7Z9.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.14」午夜惊醒鬼魂压身，我不能说话也不能动，以为是梦尝试清醒，原来它的目标一直是我的身体…</title>
+      <link>https://www.bilibili.com/video/BV1wm4y1E7Qy</link>
+      <guid isPermaLink="false">3461574203279607-BV1wm4y1E7Qy</guid>
+      <pubDate>Thu, 13 Jul 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 寂れた町
+高梨康治 | 悪魔の子
+Skyler McGlothlin | Still Dreaming
+水谷広実 | きくり
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1wm4y1E7Qy.mp3" length="8939829" type="audio/mpeg"/>
+      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1wm4y1E7Qy.jpg"/>
     </item>
   </channel>
 </rss>
