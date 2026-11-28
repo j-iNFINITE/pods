@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:35:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1388,6 +1388,31 @@ Bruno Coulais | The Supper
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Xu4y1k7op.mp3" length="8921864" type="audio/mpeg"/>
       <itunes:duration>00:18:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Xu4y1k7op.jpg"/>
+    </item>
+    <item>
+      <title>怪谈传说 | 迪某尼地下有另一层空间？！挖掘机带你地下乐园一日游，你们准备好了吗？</title>
+      <link>https://www.bilibili.com/video/BV1FN411i7dq</link>
+      <guid isPermaLink="false">3461574203279607-BV1FN411i7dq</guid>
+      <pubDate>Thu, 07 Sep 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+故事内容皆改编自：
+a岛迪士尼员工守则
+Reddit论坛：ByfelsDisciple《I&amp;#39;ve Been Working for Disney, and I&amp;#39;ve Got Some Stories to Tell》
+Reddit论坛：Domthecreator14《Not all creatures at Disney World are animatronic.》
+
+BGM：
+欠拍的黄瓜 | 灵异
+Creepy Razy | Suspense
+Creepy Razy | On a Creepy Night
+V.A. | 狂父
+Gothic Storm | Twinkle Twinkle Morning Star
+Wendy Carlos | Nocturnal Valse Triste [Making The Shining]
+Claustrophobia | 闹鬼的地下室
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1FN411i7dq.mp3" length="10345642" type="audio/mpeg"/>
+      <itunes:duration>00:21:33</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1FN411i7dq.jpg"/>
     </item>
   </channel>
 </rss>
