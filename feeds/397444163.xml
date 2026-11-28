@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:23:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5323,6 +5323,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1PM411w7De.mp3" length="12517567" type="audio/mpeg"/>
       <itunes:duration>00:26:05</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1PM411w7De.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】天津司机真实遇诡事件：深夜跑向河里的小孩，雨夜打车人，玛钢道的黑衣人，朋友夜班遭遇女诡，棋牌室，大黑袍</title>
+      <link>https://www.bilibili.com/video/BV1SY4y1m7m1</link>
+      <guid isPermaLink="false">397444163-BV1SY4y1m7m1</guid>
+      <pubDate>Tue, 21 Feb 2023 12:31:43 +0000</pubDate>
+      <description>夜深人静，胆小误听。 感谢大家一键三连！投稿方式：b站私信</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1SY4y1m7m1.mp3" length="12865309" type="audio/mpeg"/>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1SY4y1m7m1.jpg"/>
     </item>
   </channel>
 </rss>
