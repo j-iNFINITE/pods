@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:37:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -753,6 +753,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1v4H6zkEMY.mp3" length="31881399" type="audio/mpeg"/>
       <itunes:duration>01:06:25</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1v4H6zkEMY.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说158上】张献忠宝藏现世，沉银成精竟然啃垮岷江大桥！女教师租房授课竟然租到一间骨灰房！</title>
+      <link>https://www.bilibili.com/video/BV1U8HezjEAC</link>
+      <guid isPermaLink="false">28346875-BV1U8HezjEAC</guid>
+      <pubDate>Fri, 12 Sep 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1U8HezjEAC.mp3" length="23493167" type="audio/mpeg"/>
+      <itunes:duration>00:48:57</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1U8HezjEAC.jpg"/>
     </item>
   </channel>
 </rss>
