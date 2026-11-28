@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:29:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -452,6 +452,21 @@ Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1sx4y1673z.mp3" length="12371907" type="audio/mpeg"/>
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1sx4y1673z.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 点穴也能害人？好心救人却反被记恨！我差点被报复到家破人亡...</title>
+      <link>https://www.bilibili.com/video/BV1gi421m7J4</link>
+      <guid isPermaLink="false">3461574203279607-BV1gi421m7J4</guid>
+      <pubDate>Tue, 23 Apr 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1gi421m7J4.mp3" length="12685161" type="audio/mpeg"/>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1gi421m7J4.jpg"/>
     </item>
   </channel>
 </rss>
