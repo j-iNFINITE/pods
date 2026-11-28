@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:32:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -62,6 +62,20 @@ Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11y411i7CM.mp3" length="10509892" type="audio/mpeg"/>
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11y411i7CM.jpg"/>
+    </item>
+    <item>
+      <title>夏威夷恐怖故事（下）租车公司都明令禁止租客去的闹鬼公路！意外频发，鬼影重现！</title>
+      <link>https://www.bilibili.com/video/BV13U411S7rC</link>
+      <guid isPermaLink="false">3461574203279607-BV13U411S7rC</guid>
+      <pubDate>Fri, 02 Aug 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV13U411S7rC.mp3" length="6911272" type="audio/mpeg"/>
+      <itunes:duration>00:14:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV13U411S7rC.jpg"/>
     </item>
   </channel>
 </rss>
