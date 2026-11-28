@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:50:16 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1590,6 +1590,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Dt421N7Sa.mp3" length="22479206" type="audio/mpeg"/>
       <itunes:duration>00:46:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Dt421N7Sa.jpg"/>
+    </item>
+    <item>
+      <title>台湾无人不知的灵异地点，招手的鬼影老太太，车后座的神秘女子，电台里播放古怪诵经声，究竟是一条怎样的隧道</title>
+      <link>https://www.bilibili.com/video/BV1Ym421K7Hb</link>
+      <guid isPermaLink="false">28346875-BV1Ym421K7Hb</guid>
+      <pubDate>Fri, 24 May 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Ym421K7Hb.mp3" length="5114046" type="audio/mpeg"/>
+      <itunes:duration>00:10:39</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Ym421K7Hb.jpg"/>
     </item>
   </channel>
 </rss>
