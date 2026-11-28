@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:13:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2584,6 +2584,23 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1R8411w7Pf.mp3" length="9971778" type="audio/mpeg"/>
       <itunes:duration>00:20:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1R8411w7Pf.jpg"/>
+    </item>
+    <item>
+      <title>鬼魂搭乘末班公交，司机好心却枉死。7人广告惊现第8张人脸，数来数去怎么都多出一人，多出来的还是人吗？「春节特辑: 都市灵异传说大盘点 S1 Ep.5」</title>
+      <link>https://www.bilibili.com/video/BV1xT41127G9</link>
+      <guid isPermaLink="false">3461574203279607-BV1xT41127G9</guid>
+      <pubDate>Wed, 25 Jan 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+
+BGM：
+阿灰 | 诡异
+阿灰 | 幽灵调
+Skyler McGlothlin | Theme of Despair
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1xT41127G9.mp3" length="8844952" type="audio/mpeg"/>
+      <itunes:duration>00:18:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1xT41127G9.jpg"/>
     </item>
   </channel>
 </rss>
