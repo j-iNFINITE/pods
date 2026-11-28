@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:58:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2479,6 +2479,25 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1aj411P7WC.mp3" length="8787072" type="audio/mpeg"/>
       <itunes:duration>00:18:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1aj411P7WC.jpg"/>
+    </item>
+    <item>
+      <title>「粉丝真实经历」我朋友说我房间有别人的声音，我的窗帘后面也多出了个人，而我的相机好像还捕捉到了不同磁场的“生物”？</title>
+      <link>https://www.bilibili.com/video/BV1i24y1s7eZ</link>
+      <guid isPermaLink="false">3461574203279607-BV1i24y1s7eZ</guid>
+      <pubDate>Thu, 16 Feb 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1 
+Charlie Clouser | Insane
+Skyler McGlothlin | Last Lullaby
+高梨康治 | 沼に沈む
+高梨康治 | 寂れた町
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1i24y1s7eZ.mp3" length="9096772" type="audio/mpeg"/>
+      <itunes:duration>00:18:57</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1i24y1s7eZ.jpg"/>
     </item>
   </channel>
 </rss>
