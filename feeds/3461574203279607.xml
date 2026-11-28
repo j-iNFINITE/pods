@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:28:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2711,6 +2711,22 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1NK411y7zt.mp3" length="7592545" type="audio/mpeg"/>
       <itunes:duration>00:15:49</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1NK411y7zt.jpg"/>
+    </item>
+    <item>
+      <title>我坐的船撞上了恐怖的巨型生物，听说船上的人都不见了。我遇到的到底是演习排练，还是未知生物？</title>
+      <link>https://www.bilibili.com/video/BV1yR4y127rt</link>
+      <guid isPermaLink="false">3461574203279607-BV1yR4y127rt</guid>
+      <pubDate>Wed, 11 Jan 2023 05:47:27 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沙子“a long story”
+水谷広実 | きくり
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw&amp;amp;list=PLt4ZkJ3lYmFUfelz5L_jC6xIknG9leBBX
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1yR4y127rt.mp3" length="8720400" type="audio/mpeg"/>
+      <itunes:duration>00:18:10</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1yR4y127rt.jpg"/>
     </item>
   </channel>
 </rss>
