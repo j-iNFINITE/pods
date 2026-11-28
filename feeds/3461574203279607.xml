@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:44:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1939,6 +1939,25 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1eu4y1Z7Ld.mp3" length="7552622" type="audio/mpeg"/>
       <itunes:duration>00:15:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1eu4y1Z7Ld.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.9」我用了死者的床，他半夜回来是向我讨债的？夜半三更，室友回魂竟站在我床前，他怕不是想要我的命</title>
+      <link>https://www.bilibili.com/video/BV1Pc411V7xt</link>
+      <guid isPermaLink="false">3461574203279607-BV1Pc411V7xt</guid>
+      <pubDate>Fri, 02 Jun 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 沐浴鲜血
+濱本麻央 | Solitude of frenzy
+和田薫 | 伯爵のモノローグ
+Claustrophobia | 闹鬼的地下室
+水谷広実 | きくり
+佐藤史朗 | The House (Ju-On Theme) 呪怨テーマ～理佳を呼ぶ家
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Pc411V7xt.mp3" length="9545033" type="audio/mpeg"/>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Pc411V7xt.jpg"/>
     </item>
   </channel>
 </rss>
