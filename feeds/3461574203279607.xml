@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:36:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1859,6 +1859,24 @@ Claustrophobia | 闹鬼的地下室
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV18X4y147Yy.mp3" length="8371621" type="audio/mpeg"/>
       <itunes:duration>00:17:26</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV18X4y147Yy.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.11」49天的诡异回魂日，“我”只是想回来看看你们…</title>
+      <link>https://www.bilibili.com/video/BV1k14y1S7s9</link>
+      <guid isPermaLink="false">3461574203279607-BV1k14y1S7s9</guid>
+      <pubDate>Fri, 16 Jun 2023 02:25:38 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+韦启良 | 误入迷失森林
+山岡晃 | Never Forgive Me, Never Forget Me
+高梨康治 | 沙子“a long story”
+大野克夫 |「名探偵コナン」~メインテーマ
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1k14y1S7s9.mp3" length="11094207" type="audio/mpeg"/>
+      <itunes:duration>00:23:07</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1k14y1S7s9.jpg"/>
     </item>
   </channel>
 </rss>
