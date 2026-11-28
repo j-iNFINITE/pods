@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:41:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:44:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1292,6 +1292,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1taymYYERZ.mp3" length="24670566" type="audio/mpeg"/>
       <itunes:duration>00:51:24</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1taymYYERZ.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说136上】有些人就是天生坏种！残忍杀害孕妇导致冤魂化作影子徘徊原地，废弃大楼里藏着什么东西，竟然导致异世界出现？</title>
+      <link>https://www.bilibili.com/video/BV1KWyrYCEqe</link>
+      <guid isPermaLink="false">28346875-BV1KWyrYCEqe</guid>
+      <pubDate>Fri, 25 Oct 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1KWyrYCEqe.mp3" length="21313518" type="audio/mpeg"/>
+      <itunes:duration>00:44:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1KWyrYCEqe.jpg"/>
     </item>
   </channel>
 </rss>
