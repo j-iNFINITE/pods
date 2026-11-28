@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:15:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1160,6 +1160,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV15BC6YHEC1.mp3" length="6012867" type="audio/mpeg"/>
       <itunes:duration>00:12:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV15BC6YHEC1.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说140下】女子电话声称自己患有精神分裂，并且看见孩子分裂成三块，还扬言要跳楼，第二天翻看录音却发现对面是盲音......</title>
+      <link>https://www.bilibili.com/video/BV1wJkCYMEPg</link>
+      <guid isPermaLink="false">28346875-BV1wJkCYMEPg</guid>
+      <pubDate>Sat, 21 Dec 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1wJkCYMEPg.mp3" length="19406369" type="audio/mpeg"/>
+      <itunes:duration>00:40:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1wJkCYMEPg.jpg"/>
     </item>
   </channel>
 </rss>
