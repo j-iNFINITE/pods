@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:10:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1624,6 +1624,28 @@ Goblin | Suspiria (Celesta and Bells)
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1w841127vC.mp3" length="8419268" type="audio/mpeg"/>
       <itunes:duration>00:17:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1w841127vC.jpg"/>
+    </item>
+    <item>
+      <title>「B站UP真实恐怖经历 上集」搬家后诡异怪事频频，竟是邻居做法害人，把我选成了目标！</title>
+      <link>https://www.bilibili.com/video/BV1wN411Y7nd</link>
+      <guid isPermaLink="false">3461574203279607-BV1wN411Y7nd</guid>
+      <pubDate>Sat, 29 Jul 2023 05:05:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 彼岸花
+橙光音乐 | 致命游戏-悬疑主题音乐
+蓑部雄崇 | 事件発生
+橙光音乐 | 微笑诅咒 PART.1
+川井憲次 | 恐怖
+増田俊郎 | 気配(けわい)(改)・静
+V.A. | 狂父
+増田俊郎 | 思考
+吉田順一 | 疑惑
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1wN411Y7nd.mp3" length="6281198" type="audio/mpeg"/>
+      <itunes:duration>00:13:05</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1wN411Y7nd.jpg"/>
     </item>
   </channel>
 </rss>
