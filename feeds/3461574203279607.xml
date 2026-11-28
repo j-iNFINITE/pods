@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:25:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1283,6 +1283,25 @@ Skyler McGlothlin | Last Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1fC4y1d7CN.mp3" length="7828057" type="audio/mpeg"/>
       <itunes:duration>00:16:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1fC4y1d7CN.jpg"/>
+    </item>
+    <item>
+      <title>「豆瓣真实灵异贴实录」大巴上的人接连诡异身亡，废弃产房内的女人究竟在找什么？</title>
+      <link>https://www.bilibili.com/video/BV17w411m7sb</link>
+      <guid isPermaLink="false">3461574203279607-BV17w411m7sb</guid>
+      <pubDate>Wed, 27 Sep 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+Skyler McGlothlin | Theme of Despair
+Harry Manfredini | Overlay Of Evil ／ Main Title
+佐藤史朗 | Soul of The Deceased (Ju-On Theme) 死者の魂とぬくもり～呪怨テーマ
+和田薫 | 伯爵のモノローグ
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV17w411m7sb.mp3" length="7090986" type="audio/mpeg"/>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV17w411m7sb.jpg"/>
     </item>
   </channel>
 </rss>
