@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:34:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2762,6 +2762,26 @@ Myuu | Silent Night (Dark Piano Version) https://www.youtube.com/watch?v=REk9Ia6
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1WG4y177aU.mp3" length="6919414" type="audio/mpeg"/>
       <itunes:duration>00:14:25</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1WG4y177aU.jpg"/>
+    </item>
+    <item>
+      <title>深圳最恐怖租房经历：我听到了不存在的脚步声，还在家看到了穿门而入的男人，我租住的房子到底发生过什么？</title>
+      <link>https://www.bilibili.com/video/BV1884y1W7RW</link>
+      <guid isPermaLink="false">3461574203279607-BV1884y1W7RW</guid>
+      <pubDate>Fri, 30 Dec 2022 02:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+橙光音乐 | 恐怖场景-恐怖音乐
+阿灰 | 诡异
+濱本麻央 | Solitude of frenzy
+Micachu | Death
+Skyler McGlothlin | Weeping Angel
+Skyler McGlothlin | Theme of Despair
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1884y1W7RW.mp3" length="8569734" type="audio/mpeg"/>
+      <itunes:duration>00:17:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1884y1W7RW.jpg"/>
     </item>
   </channel>
 </rss>
