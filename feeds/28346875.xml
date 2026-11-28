@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:33:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -995,6 +995,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1grdUYvESU.mp3" length="21689889" type="audio/mpeg"/>
       <itunes:duration>00:45:11</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1grdUYvESU.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说147上】女子一家入住日式恐怖酒店，谨记四个条件以防走失！农村仙鸟降临竟然被一家杀害误食，一家人命运就此改变</title>
+      <link>https://www.bilibili.com/video/BV1j2dVYLE3Y</link>
+      <guid isPermaLink="false">28346875-BV1j2dVYLE3Y</guid>
+      <pubDate>Fri, 11 Apr 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1j2dVYLE3Y.mp3" length="30711120" type="audio/mpeg"/>
+      <itunes:duration>01:03:59</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1j2dVYLE3Y.jpg"/>
     </item>
   </channel>
 </rss>
