@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:19:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1182,6 +1182,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1JrkMYKE9p.mp3" length="22967591" type="audio/mpeg"/>
       <itunes:duration>00:47:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1JrkMYKE9p.jpg"/>
+    </item>
+    <item>
+      <title>浙江天台八名蔡姓接连死亡，死因蹊跷至极诡异无比，有人传言是借寿做法，到底是怎么一回事！</title>
+      <link>https://www.bilibili.com/video/BV1RuqaY2Eym</link>
+      <guid isPermaLink="false">28346875-BV1RuqaY2Eym</guid>
+      <pubDate>Fri, 13 Dec 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1RuqaY2Eym.mp3" length="6732175" type="audio/mpeg"/>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1RuqaY2Eym.jpg"/>
     </item>
   </channel>
 </rss>
