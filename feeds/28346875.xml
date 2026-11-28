@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:22:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -698,6 +698,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1aTsGzYEnJ.mp3" length="29279394" type="audio/mpeg"/>
       <itunes:duration>01:01:00</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1aTsGzYEnJ.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说160下】女子请下泰国情降纠缠同事，原来过程竟然如此恐怖！俄罗斯留学生竟然拍下实体鬼魂；酒店半夜闯入奇怪男人，竟然和我躲猫猫</title>
+      <link>https://www.bilibili.com/video/BV16r4JzgEuM</link>
+      <guid isPermaLink="false">28346875-BV16r4JzgEuM</guid>
+      <pubDate>Sat, 11 Oct 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV16r4JzgEuM.mp3" length="28302415" type="audio/mpeg"/>
+      <itunes:duration>00:58:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV16r4JzgEuM.jpg"/>
     </item>
   </channel>
 </rss>
