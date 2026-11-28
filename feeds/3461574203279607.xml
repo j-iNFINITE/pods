@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:29:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3175,6 +3175,16 @@ Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1qD4y1k7JF.mp3" length="7952609" type="audio/mpeg"/>
       <itunes:duration>00:16:34</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1qD4y1k7JF.jpg"/>
+    </item>
+    <item>
+      <title>【挖掘真实灵异事件】门外的无脸男，电梯里的小红鞋，自己打开的说书软件，究竟是何原因？</title>
+      <link>https://www.bilibili.com/video/BV1k8411x7qb</link>
+      <guid isPermaLink="false">3461574203279607-BV1k8411x7qb</guid>
+      <pubDate>Thu, 06 Oct 2022 09:45:10 +0000</pubDate>
+      <description>图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1k8411x7qb.mp3" length="8466490" type="audio/mpeg"/>
+      <itunes:duration>00:17:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1k8411x7qb.jpg"/>
     </item>
   </channel>
 </rss>
