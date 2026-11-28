@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:07:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5243,6 +5243,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Yj411u7dj.mp3" length="18783611" type="audio/mpeg"/>
       <itunes:duration>00:39:08</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Yj411u7dj.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】鬼屋，四年一班，不干净的河</title>
+      <link>https://www.bilibili.com/video/BV1MM411s72z</link>
+      <guid isPermaLink="false">397444163-BV1MM411s72z</guid>
+      <pubDate>Mon, 06 Mar 2023 11:49:50 +0000</pubDate>
+      <description>【阿福怪谈】鬼屋，四年一班，不干净的河</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1MM411s72z.mp3" length="13160179" type="audio/mpeg"/>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1MM411s72z.jpg"/>
     </item>
   </channel>
 </rss>
