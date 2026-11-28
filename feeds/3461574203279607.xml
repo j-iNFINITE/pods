@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:37:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1900,6 +1900,25 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ku411Y7HX.mp3" length="12282457" type="audio/mpeg"/>
       <itunes:duration>00:25:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ku411Y7HX.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.10」我闯入了鬼开的集市，那里的“人”个个穿的都是寿衣</title>
+      <link>https://www.bilibili.com/video/BV1Rz4y1v7Ae</link>
+      <guid isPermaLink="false">3461574203279607-BV1Rz4y1v7Ae</guid>
+      <pubDate>Fri, 09 Jun 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1
+濱本麻央 | 深层の时空
+山岡晃 | Never Forgive Me, Never Forget Me
+水谷広実 | きくり
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw 
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Rz4y1v7Ae.mp3" length="9293848" type="audio/mpeg"/>
+      <itunes:duration>00:19:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Rz4y1v7Ae.jpg"/>
     </item>
   </channel>
 </rss>
