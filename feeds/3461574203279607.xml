@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:54:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1510,6 +1510,25 @@ Skyler McGlothlin | Weeping Angel
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1aP411p7AU.mp3" length="7124849" type="audio/mpeg"/>
       <itunes:duration>00:14:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1aP411p7AU.jpg"/>
+    </item>
+    <item>
+      <title>诡异邻居和我做朋友，去世之后变身厉鬼想抓我走！消失的小孩去了哪里，为何之后现身在鬼的家中，而我又为何不能再回老家，当年到底出了什么事！</title>
+      <link>https://www.bilibili.com/video/BV1BG411f7xE</link>
+      <guid isPermaLink="false">3461574203279607-BV1BG411f7xE</guid>
+      <pubDate>Fri, 18 Aug 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+濱本麻央 | Mind of frenzy
+佐藤史朗 | Diaries 日記～伽椰子テーマ
+付文超 | 鬼来电（ 恐怖 悬疑）
+dirt party | after dark
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1BG411f7xE.mp3" length="8964070" type="audio/mpeg"/>
+      <itunes:duration>00:18:40</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1BG411f7xE.jpg"/>
     </item>
   </channel>
 </rss>
