@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:26:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1302,6 +1302,33 @@ Harry Manfredini | Overlay Of Evil ／ Main Title
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV17w411m7sb.mp3" length="7090986" type="audio/mpeg"/>
       <itunes:duration>00:14:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV17w411m7sb.jpg"/>
+    </item>
+    <item>
+      <title>【中秋特辑】画室集训有“人”偷看我画画，夜半登山路人的诡异提醒，鬼魂探测器在酒店找到真鬼魂，多种刺激一次看个够！</title>
+      <link>https://www.bilibili.com/video/BV18z4y1V7Dt</link>
+      <guid isPermaLink="false">3461574203279607-BV18z4y1V7Dt</guid>
+      <pubDate>Sat, 23 Sep 2023 11:15:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Emish Studio | 花好月圆
+Micachu | Death
+和田薫 | 墓场鬼太郎
+Ryan Amon | Lullaby for Mergo
+高梨康治 | 地狱の舟歌
+羽毛田丈史 | MARIA KURENAI’S THEME
+吟 | 恐怖
+阿灰 | 诡异
+濱本麻央 | 絶望
+高梨康治 | 少女のうた
+丁可 | 饥肠辘辘（Hungry）
+橙光音乐 | 微笑诅咒 PART.1
+高梨康治 | 沙子“a long story”
+和田薫 | 死人の歌
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV18z4y1V7Dt.mp3" length="30133084" type="audio/mpeg"/>
+      <itunes:duration>01:02:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV18z4y1V7Dt.jpg"/>
     </item>
   </channel>
 </rss>
