@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:24:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -834,6 +834,25 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1DQ4y177oT.mp3" length="15099928" type="audio/mpeg"/>
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1DQ4y177oT.jpg"/>
+    </item>
+    <item>
+      <title>【最后一夜怪奇诡话】2023年终恐怖动画特辑</title>
+      <link>https://www.bilibili.com/video/BV1iQ4y1E77T</link>
+      <guid isPermaLink="false">3461574203279607-BV1iQ4y1E77T</guid>
+      <pubDate>Sun, 31 Dec 2023 02:00:00 +0000</pubDate>
+      <description>2023年的【最后一夜】你会怎么过？多位怪谈动画博主、恐怖故事博主联合创作跨年特辑！
+00：53 @诡忌剧场  【无常】昨天晚上，我到底是经历了何等“无常”，让我青天竟见“无常”
+05：55 @蒋苍笙  【室】一直陷入无尽循环的我，直到这一夜，锁住我的门缓缓打开
+10：10 @幽竹不是竹  【窗沿】校园里的恐怖传说，在今晚再次应验
+14：51 @大口大口吃米饭  【最后一刻】如果我心怀信仰，一意向善，最后一刻我会来到哪里呢
+18：57 @吃不饱的小羽毛  【碟仙】旅行的最后一晚，怎么度过才算刺激
+23：38 @彻底放飞的严老板  【梦话】同居的跨年夜里，她零时开口说的，绝不是梦话这么简单
+33：02 @Luke平诡事屋  【梳妆柜】经历了这一切，我绝不会在这个出租屋多待哪怕一晚...
+
+希望你们喜欢这个特辑，也祝你们享受你们的“最后一夜”！！！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1iQ4y1E77T.mp3" length="18160016" type="audio/mpeg"/>
+      <itunes:duration>00:37:50</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1iQ4y1E77T.jpg"/>
     </item>
   </channel>
 </rss>
