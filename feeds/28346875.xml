@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:15:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1414,6 +1414,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1AE4m197nV.mp3" length="25536160" type="audio/mpeg"/>
       <itunes:duration>00:53:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1AE4m197nV.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说132上】一个从未见过的生物蹲点我的家！挑食的我竟然无意间喂食了一个未知生物，全村人去抓竟然没有抓到？！</title>
+      <link>https://www.bilibili.com/video/BV1Gz421q734</link>
+      <guid isPermaLink="false">28346875-BV1Gz421q734</guid>
+      <pubDate>Fri, 30 Aug 2024 03:31:13 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Gz421q734.mp3" length="21342148" type="audio/mpeg"/>
+      <itunes:duration>00:44:28</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Gz421q734.jpg"/>
     </item>
   </channel>
 </rss>
