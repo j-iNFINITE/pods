@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:21:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1702,6 +1702,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1JJ4m1V7qc.mp3" length="4642379" type="audio/mpeg"/>
       <itunes:duration>00:09:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1JJ4m1V7qc.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说122】房屋销售遇见奇葩客户，行为诡异语言混乱；夫妻产子为何总是早夭，竟然是花灵报恩？！</title>
+      <link>https://www.bilibili.com/video/BV1aM4m1X73S</link>
+      <guid isPermaLink="false">28346875-BV1aM4m1X73S</guid>
+      <pubDate>Sat, 06 Apr 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1aM4m1X73S.mp3" length="42896720" type="audio/mpeg"/>
+      <itunes:duration>01:29:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1aM4m1X73S.jpg"/>
     </item>
   </channel>
 </rss>
