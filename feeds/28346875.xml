@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:06:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -863,6 +863,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1VngTzEEcs.mp3" length="20211979" type="audio/mpeg"/>
       <itunes:duration>00:42:06</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1VngTzEEcs.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说153】表姐中邪事件后续！二奶奶的眼睛是什么时候出现问题的，又出现过那些离奇症状，推测居然和天上的那个东西有关。。。。</title>
+      <link>https://www.bilibili.com/video/BV1vh3gzwE4H</link>
+      <guid isPermaLink="false">28346875-BV1vh3gzwE4H</guid>
+      <pubDate>Fri, 04 Jul 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1vh3gzwE4H.mp3" length="60867294" type="audio/mpeg"/>
+      <itunes:duration>02:06:48</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1vh3gzwE4H.jpg"/>
     </item>
   </channel>
 </rss>
