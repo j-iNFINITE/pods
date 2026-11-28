@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:45:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -134,6 +134,22 @@ Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Uy411e7XM.mp3" length="9729353" type="audio/mpeg"/>
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Uy411e7XM.jpg"/>
+    </item>
+    <item>
+      <title>夏威夷恐怖故事（中）被遗弃的高中竟频繁发生超自然事件; 守护小精灵为保护土地带来邪恶诅咒？！</title>
+      <link>https://www.bilibili.com/video/BV1dT42167w3</link>
+      <guid isPermaLink="false">3461574203279607-BV1dT42167w3</guid>
+      <pubDate>Fri, 19 Jul 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1dT42167w3.mp3" length="7772886" type="audio/mpeg"/>
+      <itunes:duration>00:16:12</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1dT42167w3.jpg"/>
     </item>
   </channel>
 </rss>
