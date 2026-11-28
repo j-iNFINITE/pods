@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:34:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -899,6 +899,25 @@ Myuu | Countdown https://www.youtube.com/watch?v=jleX5xf7cKE
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1394y1P7cm.mp3" length="10526828" type="audio/mpeg"/>
       <itunes:duration>00:21:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1394y1P7cm.jpg"/>
+    </item>
+    <item>
+      <title>恐怖森林终章：揭开森林楼梯的秘密！你害怕吗？</title>
+      <link>https://www.bilibili.com/video/BV1Sp4y1o7JX</link>
+      <guid isPermaLink="false">3461574203279607-BV1Sp4y1o7JX</guid>
+      <pubDate>Tue, 19 Dec 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM:
+Claustrophobia | 一个精神病患者的叹息
+BCD Studio | Time
+张英奎 | Elevator III
+Claustrophobia | 死亡永恒
+Skyler McGlothlin | Last Lullaby 
+高梨康治 | 沼に沈む
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Sp4y1o7JX.mp3" length="8387712" type="audio/mpeg"/>
+      <itunes:duration>00:17:28</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Sp4y1o7JX.jpg"/>
     </item>
   </channel>
 </rss>
