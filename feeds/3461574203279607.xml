@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:12:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1198,6 +1198,24 @@ Nightcore | Puppet
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Su4y1p798.mp3" length="11438806" type="audio/mpeg"/>
       <itunes:duration>00:23:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Su4y1p798.jpg"/>
+    </item>
+    <item>
+      <title>纽约惊魂！鬼魂缠上了我的朋友，天天跟着他也不肯走；窗帘后面有双鞋，后来才知道那不是人！</title>
+      <link>https://www.bilibili.com/video/BV1f841167mD</link>
+      <guid isPermaLink="false">3461574203279607-BV1f841167mD</guid>
+      <pubDate>Sat, 14 Oct 2023 09:45:03 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+濱本麻央 | 恐るべき暗暗
+Skyler McGlothlin | Theme of Despair
+岩崎琢 | 人形の館
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1f841167mD.mp3" length="8188555" type="audio/mpeg"/>
+      <itunes:duration>00:17:04</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1f841167mD.jpg"/>
     </item>
   </channel>
 </rss>
