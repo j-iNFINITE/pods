@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:05:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2052,6 +2052,23 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1vo4y1x7h3.mp3" length="8602117" type="audio/mpeg"/>
       <itunes:duration>00:17:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1vo4y1x7h3.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.6」蛊婆儿子给我下蛊，我差点被拐走丢了自己；马车夫暴毙身亡，他的肚子全烂了</title>
+      <link>https://www.bilibili.com/video/BV16V4y1k7Tu</link>
+      <guid isPermaLink="false">3461574203279607-BV16V4y1k7Tu</guid>
+      <pubDate>Fri, 05 May 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+濱本麻央 | 深层の时空
+Skyler McGlothlin | Theme of Despair
+Christian Henson | Lullaby
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16V4y1k7Tu.mp3" length="11755837" type="audio/mpeg"/>
+      <itunes:duration>00:24:29</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16V4y1k7Tu.jpg"/>
     </item>
   </channel>
 </rss>
