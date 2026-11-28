@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:21:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1458,6 +1458,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1bi421h7s6.mp3" length="26366227" type="audio/mpeg"/>
       <itunes:duration>00:54:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1bi421h7s6.jpg"/>
+    </item>
+    <item>
+      <title>现实版鬼影实录！印度一家三口持续闹鬼无结果，家中频繁发出异响，蛆虫横生，儿子突发窒息差点丧命，就连男主人也开始梦游</title>
+      <link>https://www.bilibili.com/video/BV1c4421S7LN</link>
+      <guid isPermaLink="false">28346875-BV1c4421S7LN</guid>
+      <pubDate>Fri, 09 Aug 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1c4421S7LN.mp3" length="7801734" type="audio/mpeg"/>
+      <itunes:duration>00:16:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1c4421S7LN.jpg"/>
     </item>
   </channel>
 </rss>
