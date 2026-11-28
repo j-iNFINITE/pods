@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:40:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -266,6 +266,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1qr7Y6NECM.mp3" length="23394947" type="audio/mpeg"/>
       <itunes:duration>00:48:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1qr7Y6NECM.jpg"/>
+    </item>
+    <item>
+      <title>电视台莫名收到神秘的录像带，里面的内容诡谲奇异，随着记者的调查深入，竟然发现这是一场【复活】阴谋！</title>
+      <link>https://www.bilibili.com/video/BV1XWjc6YEsT</link>
+      <guid isPermaLink="false">28346875-BV1XWjc6YEsT</guid>
+      <pubDate>Fri, 19 Jun 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1XWjc6YEsT.mp3" length="13636645" type="audio/mpeg"/>
+      <itunes:duration>00:28:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1XWjc6YEsT.jpg"/>
     </item>
   </channel>
 </rss>
