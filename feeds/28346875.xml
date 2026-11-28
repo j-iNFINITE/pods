@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:00:26 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -333,6 +333,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1ke5q61EPi.mp3" length="27118754" type="audio/mpeg"/>
       <itunes:duration>00:56:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1ke5q61EPi.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说175上】这世间最美丽的女子究竟有多美？那是一种无法形容的天下独一份的美；朋友身上竟然有祖传雷法，只杀不渡，狂烈闪电游走全身护他周全！</title>
+      <link>https://www.bilibili.com/video/BV1bK5Q6wEgx</link>
+      <guid isPermaLink="false">28346875-BV1bK5Q6wEgx</guid>
+      <pubDate>Fri, 15 May 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1bK5Q6wEgx.mp3" length="29726402" type="audio/mpeg"/>
+      <itunes:duration>01:01:56</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1bK5Q6wEgx.jpg"/>
     </item>
   </channel>
 </rss>
