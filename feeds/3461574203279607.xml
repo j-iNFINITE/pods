@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:15:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3085,6 +3085,22 @@ MT1990 | 海上钢琴师
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1pe411F7dB.mp3" length="7291189" type="audio/mpeg"/>
       <itunes:duration>00:15:11</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1pe411F7dB.jpg"/>
+    </item>
+    <item>
+      <title>【挖掘真实灵异事件】路口祭拜路灯竟突然全灭；夜半酒店灯却自己打开；深夜诡庙究竟拜的是佛还是鬼？这一切诡异现象究竟为何</title>
+      <link>https://www.bilibili.com/video/BV1Xd4y1k7ML</link>
+      <guid isPermaLink="false">3461574203279607-BV1Xd4y1k7ML</guid>
+      <pubDate>Fri, 04 Nov 2022 04:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Christian Henson | Lullaby
+岩崎琢 | 人形の館
+MT1990 | 海上钢琴师
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Xd4y1k7ML.mp3" length="8189174" type="audio/mpeg"/>
+      <itunes:duration>00:17:04</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Xd4y1k7ML.jpg"/>
     </item>
   </channel>
 </rss>
