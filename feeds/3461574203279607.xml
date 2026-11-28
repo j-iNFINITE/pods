@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:38:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -91,6 +91,32 @@ Myuu | Silent Night (Dark Piano Version) https://www.youtube.com/watch?v=REk9Ia6
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1px4y147y9.mp3" length="11186359" type="audio/mpeg"/>
       <itunes:duration>00:23:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1px4y147y9.jpg"/>
+    </item>
+    <item>
+      <title>吓破胆的超长合集！中式恐怖元素拉满！我跟着风水师那些年的见闻录！</title>
+      <link>https://www.bilibili.com/video/BV1vb421J74G</link>
+      <guid isPermaLink="false">3461574203279607-BV1vb421J74G</guid>
+      <pubDate>Fri, 26 Jul 2024 12:52:38 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沙子“a long story”
+高梨康治 | 寂れた町
+濱本麻央 | Mind of frenzy
+张英奎 | Fear II
+Skyler McGlothlin | Theme of Despair
+Christian Henson | Lullaby
+Charlie Clouser | Insane
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+Myuu | Living in the Dark https://www.youtube.com/watch?v=_SkUsk07Z-I
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1vb421J74G.mp3" length="80450563" type="audio/mpeg"/>
+      <itunes:duration>02:47:36</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1vb421J74G.jpg"/>
     </item>
   </channel>
 </rss>
