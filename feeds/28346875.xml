@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:37:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1801,6 +1801,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1qF4m1L7mv.mp3" length="20166637" type="audio/mpeg"/>
       <itunes:duration>00:42:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1qF4m1L7mv.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说119上】一整栋楼全是孤魂野鬼！死伤频繁，道士做法，公鸡不吃米该如何破解？</title>
+      <link>https://www.bilibili.com/video/BV1wW421N7Sr</link>
+      <guid isPermaLink="false">28346875-BV1wW421N7Sr</guid>
+      <pubDate>Fri, 23 Feb 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1wW421N7Sr.mp3" length="21102866" type="audio/mpeg"/>
+      <itunes:duration>00:43:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1wW421N7Sr.jpg"/>
     </item>
   </channel>
 </rss>
