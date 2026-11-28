@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:14:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3066,6 +3066,25 @@ MT1990 | 海上钢琴师
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1tW4y1s7gr.mp3" length="5434196" type="audio/mpeg"/>
       <itunes:duration>00:11:19</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1tW4y1s7gr.jpg"/>
+    </item>
+    <item>
+      <title>广播剧过于真实引发暴乱，美国史上最离谱广播乌龙事件</title>
+      <link>https://www.bilibili.com/video/BV1pe411F7dB</link>
+      <guid isPermaLink="false">3461574203279607-BV1pe411F7dB</guid>
+      <pubDate>Sat, 05 Nov 2022 14:37:21 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+The Screen Tones | Leave Him Alone
+水谷広実 | 藁と藁
+Various Artists | 多瑙河之波圆舞曲
+橙光音乐 | 低吟浅唱
+石濱翔 | バカ
+MT1990 | 海上钢琴师
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1pe411F7dB.mp3" length="7291189" type="audio/mpeg"/>
+      <itunes:duration>00:15:11</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1pe411F7dB.jpg"/>
     </item>
   </channel>
 </rss>
