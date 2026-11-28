@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:03:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5223,6 +5223,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1zv4y187sC.mp3" length="20655232" type="audio/mpeg"/>
       <itunes:duration>00:43:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1zv4y187sC.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】山东安丘诡异离奇恐怖事件：起尸，不腐的尸体，长胡子的怪物，鼓惑人的黄鼠狼，我好像见到了龙，被勾引的上吊，有神通的臭椿树，能求药的青干岭，杀狗单身汉，</title>
+      <link>https://www.bilibili.com/video/BV1VM411s7he</link>
+      <guid isPermaLink="false">397444163-BV1VM411s7he</guid>
+      <pubDate>Thu, 09 Mar 2023 10:30:00 +0000</pubDate>
+      <description>【阿福怪谈】山东安丘诡异离奇恐怖事件：起尸，不腐的尸体，长胡子的怪物，鼓惑人的黄鼠狼，我好像见到了龙，被勾引的上吊，有神通的臭椿树，能求药的青干岭，杀狗单身汉，</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1VM411s7he.mp3" length="15713701" type="audio/mpeg"/>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1VM411s7he.jpg"/>
     </item>
   </channel>
 </rss>
