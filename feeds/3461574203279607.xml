@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:30:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -882,6 +882,23 @@ John Morris - The Elephant Man Theme
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1LC4y1T7yX.mp3" length="11209765" type="audio/mpeg"/>
       <itunes:duration>00:23:21</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1LC4y1T7yX.jpg"/>
+    </item>
+    <item>
+      <title>北美最大谜团！失落的殖民地与神秘字符，他们都去哪了？</title>
+      <link>https://www.bilibili.com/video/BV1394y1P7cm</link>
+      <guid isPermaLink="false">3461574203279607-BV1394y1P7cm</guid>
+      <pubDate>Fri, 22 Dec 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM:
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+Myuu | Countdown https://www.youtube.com/watch?v=jleX5xf7cKE
+山岡晃 | True
+山岡晃 | Never Forgive Me, Never Forget Me
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1394y1P7cm.mp3" length="10526828" type="audio/mpeg"/>
+      <itunes:duration>00:21:56</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1394y1P7cm.jpg"/>
     </item>
   </channel>
 </rss>
