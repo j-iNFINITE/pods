@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:05:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1585,6 +1585,23 @@ Creepy Razy | On a Creepy Night
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Qk4y1g7Z6.mp3" length="5902101" type="audio/mpeg"/>
       <itunes:duration>00:12:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Qk4y1g7Z6.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.16」盗梦空间？！灵魂离体，生魂出窍，我被困在了时间里，任凭我怎么叫喊我都出不去！！</title>
+      <link>https://www.bilibili.com/video/BV1Zj41197ez</link>
+      <guid isPermaLink="false">3461574203279607-BV1Zj41197ez</guid>
+      <pubDate>Thu, 03 Aug 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+濱本麻央 | 絶望
+Claustrophobia | 混沌中的祭祀
+John Morris | The Elephant Man Theme
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Zj41197ez.mp3" length="9020294" type="audio/mpeg"/>
+      <itunes:duration>00:18:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Zj41197ez.jpg"/>
     </item>
   </channel>
 </rss>
