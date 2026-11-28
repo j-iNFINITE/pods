@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:56:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2951,6 +2951,24 @@ Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1PD4y1e7wg.mp3" length="8229507" type="audio/mpeg"/>
       <itunes:duration>00:17:09</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1PD4y1e7wg.jpg"/>
+    </item>
+    <item>
+      <title>真实灵异事件：去世的大伯夜半还魂；诡异导游使我高烧不断；午夜惊醒压着我的人竟瞬间消失</title>
+      <link>https://www.bilibili.com/video/BV19W4y1u7yp</link>
+      <guid isPermaLink="false">3461574203279607-BV19W4y1u7yp</guid>
+      <pubDate>Sat, 03 Dec 2022 12:05:25 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 地狱の舟歌
+铭珹 | 迷の洋馆
+Christian Henson | Lullaby
+濱本麻央 | Solitude of frenzy
+Micachu | Death
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV19W4y1u7yp.mp3" length="6399891" type="audio/mpeg"/>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV19W4y1u7yp.jpg"/>
     </item>
   </channel>
 </rss>
