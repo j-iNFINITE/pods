@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:30:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3185,6 +3185,17 @@ Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1k8411x7qb.mp3" length="8466490" type="audio/mpeg"/>
       <itunes:duration>00:17:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1k8411x7qb.jpg"/>
+    </item>
+    <item>
+      <title>【挖掘真实案件】家中惊现人类骸骨，却不知属于谁。儿童失踪案，他是唯一嫌疑人。奇怪味道的汉堡，到底是不是动物肉？数次作案却总能逃脱，他到底都做了些什么？</title>
+      <link>https://www.bilibili.com/video/BV1xR4y1d7e6</link>
+      <guid isPermaLink="false">3461574203279607-BV1xR4y1d7e6</guid>
+      <pubDate>Mon, 03 Oct 2022 12:22:20 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1xR4y1d7e6.mp3" length="9482131" type="audio/mpeg"/>
+      <itunes:duration>00:19:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1xR4y1d7e6.jpg"/>
     </item>
   </channel>
 </rss>
