@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:33:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2308,6 +2308,30 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1KL411k7Fy.mp3" length="7862330" type="audio/mpeg"/>
       <itunes:duration>00:16:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1KL411k7Fy.jpg"/>
+    </item>
+    <item>
+      <title>「解说豆瓣真实灵异神贴 Ep.8」夜晚宿舍楼上空房间里噪杂的吵闹声；黑暗办公室里白衣女子频频出现；离奇死亡率高的双数病房，故事的最终章</title>
+      <link>https://www.bilibili.com/video/BV1RM4y1z7Tg</link>
+      <guid isPermaLink="false">3461574203279607-BV1RM4y1z7Tg</guid>
+      <pubDate>Sun, 19 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+John Morris | The Elephant Man Theme
+橙光音乐 | 微笑诅咒 PART.1
+橙光音乐 | 废旧仓库
+阿灰 | 幽灵调
+丁可 | 饥肠辘辘（Hungry）
+Micachu | Death
+Skyler McGlothlin | Last Lullaby
+大野克夫 | 怪人包帯男2
+Harry Manfredini | Overlay Of Evil / Main Title
+高梨康治 | 沙子“a long story”
+Ryan Amon | Lullaby for Mergo
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1RM4y1z7Tg.mp3" length="9873766" type="audio/mpeg"/>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1RM4y1z7Tg.jpg"/>
     </item>
   </channel>
 </rss>
