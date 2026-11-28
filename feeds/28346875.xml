@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:58:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -577,6 +577,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1D1qpB6ECc.mp3" length="27119381" type="audio/mpeg"/>
       <itunes:duration>00:56:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1D1qpB6ECc.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说164下】广州网约车司机深夜阿婆搭车，靓仔帮帮忙啊，阿婆腿疼；心理咨询师遭遇奇怪顾客，腹中竟然有啃食撕扯痛感，怀疑肚中有其他东西存在</title>
+      <link>https://www.bilibili.com/video/BV11L25BaEqH</link>
+      <guid isPermaLink="false">28346875-BV11L25BaEqH</guid>
+      <pubDate>Sat, 06 Dec 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV11L25BaEqH.mp3" length="29266020" type="audio/mpeg"/>
+      <itunes:duration>01:00:58</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV11L25BaEqH.jpg"/>
     </item>
   </channel>
 </rss>
