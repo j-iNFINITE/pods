@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:56:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1037,6 +1037,25 @@ Myuu | Collapse https://www.youtube.com/watch?v=ZvD8QSO7NPw 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1HQ4y147zj.mp3" length="10663074" type="audio/mpeg"/>
       <itunes:duration>00:22:13</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1HQ4y147zj.jpg"/>
+    </item>
+    <item>
+      <title>阿米蒂维尔鬼屋驱魔事件：沃伦夫妇成名大作，是驱魔师还是真神棍？！30min+ 带你回顾发生在70年代美国纽约的真实恐怖事件</title>
+      <link>https://www.bilibili.com/video/BV1zG411S79m</link>
+      <guid isPermaLink="false">3461574203279607-BV1zG411S79m</guid>
+      <pubDate>Tue, 14 Nov 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+Myuu | Unspoken https://www.youtube.com/watch?v=PvIvXw6gSYA 
+濱本麻央 | 破壊される記憶
+山岡晃 | True
+山岡晃 | Never Forgive Me, Never Forget Me
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1zG411S79m.mp3" length="15495526" type="audio/mpeg"/>
+      <itunes:duration>00:32:17</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1zG411S79m.jpg"/>
     </item>
   </channel>
 </rss>
