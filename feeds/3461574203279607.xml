@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:18:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2671,6 +2671,26 @@ Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV198411c7EQ.mp3" length="9818387" type="audio/mpeg"/>
       <itunes:duration>00:20:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV198411c7EQ.jpg"/>
+    </item>
+    <item>
+      <title>借尸还魂变猫脸，诈尸之后抓小孩，你听说过曾引起东北三省恐慌的猫脸老太太么？「春节特辑: 都市灵异传说大盘点 S1 Ep.1」</title>
+      <link>https://www.bilibili.com/video/BV1pG4y1F7Hu</link>
+      <guid isPermaLink="false">3461574203279607-BV1pG4y1F7Hu</guid>
+      <pubDate>Sat, 21 Jan 2023 02:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+橙光音乐 | 恐怖场景-恐怖音乐
+阿灰 | 诡异
+阿灰 | 幽灵调
+高梨康治 | 沼に沈む
+高梨康治 | 寂れた町
+Skyler McGlothlin | Last Lullaby
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1pG4y1F7Hu.mp3" length="10395162" type="audio/mpeg"/>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1pG4y1F7Hu.jpg"/>
     </item>
   </channel>
 </rss>
