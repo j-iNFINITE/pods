@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:17:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -411,6 +411,18 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1oZ9KBLEwp.mp3" length="30456785" type="audio/mpeg"/>
       <itunes:duration>01:03:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1oZ9KBLEwp.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说172上】县志记载当地走蛟事件频发，奶奶竟然告诉我她小时候经常看见！山中古怪洞穴竟然藏有深坑，坑内竟然密密麻麻站满人，竟要移动整座山，山会动！</title>
+      <link>https://www.bilibili.com/video/BV1vsXfBRERV</link>
+      <guid isPermaLink="false">28346875-BV1vsXfBRERV</guid>
+      <pubDate>Fri, 03 Apr 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系
+封面图片来源艺术博主：汤海青</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1vsXfBRERV.mp3" length="27706405" type="audio/mpeg"/>
+      <itunes:duration>00:57:43</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1vsXfBRERV.jpg"/>
     </item>
   </channel>
 </rss>
