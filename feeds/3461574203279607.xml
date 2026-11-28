@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:09:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -273,6 +273,22 @@ Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1b4421S73i.mp3" length="7319401" type="audio/mpeg"/>
       <itunes:duration>00:15:15</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1b4421S73i.jpg"/>
+    </item>
+    <item>
+      <title>名人也见鬼 Ep.2 | 窗外鬼影、阁楼冤魂、营地杀人案，恐怖元素拉满！欧美明星灵异事件大全！</title>
+      <link>https://www.bilibili.com/video/BV1Pm421K7oQ</link>
+      <guid isPermaLink="false">3461574203279607-BV1Pm421K7oQ</guid>
+      <pubDate>Fri, 07 Jun 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Cornered https://www.youtube.com/watch?v=65d_xK7FEqQ&amp;amp;list=PLt4ZkJ3lYmFUfelz5L_jC6xIknG9leBBX&amp;amp;index=27
+Myuu | Silent Night (Dark Piano Version) https://www.youtube.com/watch?v=REk9Ia6eYXk
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Pm421K7oQ.mp3" length="7253990" type="audio/mpeg"/>
+      <itunes:duration>00:15:07</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Pm421K7oQ.jpg"/>
     </item>
   </channel>
 </rss>
