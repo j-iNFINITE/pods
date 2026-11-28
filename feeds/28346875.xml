@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:49:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:52:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1336,6 +1336,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1D621YKE7o.mp3" length="26147007" type="audio/mpeg"/>
       <itunes:duration>00:54:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1D621YKE7o.jpg"/>
+    </item>
+    <item>
+      <title>诡异儿童频繁敲门出现请求进屋，黑色眼瞳蛊惑人心，这些孩子究竟从何而来？解密美国经典都市传说【黑眼儿童】</title>
+      <link>https://www.bilibili.com/video/BV187xdeFERo</link>
+      <guid isPermaLink="false">28346875-BV187xdeFERo</guid>
+      <pubDate>Fri, 04 Oct 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV187xdeFERo.mp3" length="5164829" type="audio/mpeg"/>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV187xdeFERo.jpg"/>
     </item>
   </channel>
 </rss>
