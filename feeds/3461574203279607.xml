@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:08:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -700,6 +700,22 @@ Skyler McGlothlin｜Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1KK421C7hi.mp3" length="8230559" type="audio/mpeg"/>
       <itunes:duration>00:17:09</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1KK421C7hi.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 租房诡事2：住酒店被下迷魂香；做事要三思，小心现世报！</title>
+      <link>https://www.bilibili.com/video/BV1X4421A7eh</link>
+      <guid isPermaLink="false">3461574203279607-BV1X4421A7eh</guid>
+      <pubDate>Sat, 10 Feb 2024 13:25:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+山岡晃 | Never Forgive Me, Never Forget Me
+Claustrophobia | 闹鬼的地下室
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1X4421A7eh.mp3" length="18384877" type="audio/mpeg"/>
+      <itunes:duration>00:38:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1X4421A7eh.jpg"/>
     </item>
   </channel>
 </rss>
