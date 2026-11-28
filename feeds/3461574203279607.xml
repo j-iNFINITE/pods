@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:55:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -179,6 +179,21 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Ww4m1Y7hT.mp3" length="10485860" type="audio/mpeg"/>
       <itunes:duration>00:21:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Ww4m1Y7hT.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 诡异公路！猛鬼抓替身；长生不老！照片里的人竟不会衰老；走近科学！停尸间诈尸！</title>
+      <link>https://www.bilibili.com/video/BV14W421R7AV</link>
+      <guid isPermaLink="false">3461574203279607-BV14W421R7AV</guid>
+      <pubDate>Fri, 05 Jul 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+Myuu | Living in the Dark https://www.youtube.com/watch?v=_SkUsk07Z-I
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV14W421R7AV.mp3" length="10939345" type="audio/mpeg"/>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV14W421R7AV.jpg"/>
     </item>
   </channel>
 </rss>
