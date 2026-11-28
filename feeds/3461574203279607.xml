@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:16:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3117,6 +3117,22 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1TG411j7fK.mp3" length="7017007" type="audio/mpeg"/>
       <itunes:duration>00:14:37</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1TG411j7fK.jpg"/>
+    </item>
+    <item>
+      <title>【挖掘真实灵异事件】将死之人竟当街发疯当众自杀；半夜赶路遇上不干净的东西，他们究竟撞到了什么？</title>
+      <link>https://www.bilibili.com/video/BV1SK411S7pH</link>
+      <guid isPermaLink="false">3461574203279607-BV1SK411S7pH</guid>
+      <pubDate>Sat, 22 Oct 2022 02:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沼に沈む
+高梨康治 | 寂れた町
+水谷広実 | きくり
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1SK411S7pH.mp3" length="5821853" type="audio/mpeg"/>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1SK411S7pH.jpg"/>
     </item>
   </channel>
 </rss>
