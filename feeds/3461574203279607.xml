@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:37:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2348,6 +2348,27 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1XT411r7xP.mp3" length="5968139" type="audio/mpeg"/>
       <itunes:duration>00:12:26</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1XT411r7xP.jpg"/>
+    </item>
+    <item>
+      <title>「解说豆瓣真实灵异神贴 Ep.7」刑场隔壁的军营，夜晚传出问答与吉他声；半夜出没的白影，三番五次坏掉的车，都是因为什么？</title>
+      <link>https://www.bilibili.com/video/BV1tv4y187z7</link>
+      <guid isPermaLink="false">3461574203279607-BV1tv4y187z7</guid>
+      <pubDate>Sun, 12 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+John Morris | The Elephant Man Theme
+橙光音乐 | 禁锢
+阿灰 | 幽灵调
+丁可 | 饥肠辘辘（Hungry）
+Wendy Carlos | Subliminal Ballroom
+Bruno Coulais | The Supper
+大野克夫 | 怪人包帯男2
+水谷広実 | 藁と藁
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1tv4y187z7.mp3" length="7157241" type="audio/mpeg"/>
+      <itunes:duration>00:14:55</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1tv4y187z7.jpg"/>
     </item>
   </channel>
 </rss>
