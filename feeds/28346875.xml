@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:18:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -918,6 +918,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1MLTxz9EZE.mp3" length="32922125" type="audio/mpeg"/>
       <itunes:duration>01:08:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1MLTxz9EZE.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说150下】突然从井底出现的小孩竟然邀请我一起去死；军中鬼话，楼中吊死红衣女人；深夜矿井传来卖豆腐的声音</title>
+      <link>https://www.bilibili.com/video/BV1a8Jxz4Eip</link>
+      <guid isPermaLink="false">28346875-BV1a8Jxz4Eip</guid>
+      <pubDate>Sat, 24 May 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1a8Jxz4Eip.mp3" length="21427203" type="audio/mpeg"/>
+      <itunes:duration>00:44:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1a8Jxz4Eip.jpg"/>
     </item>
   </channel>
 </rss>
