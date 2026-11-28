@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:18:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -189,6 +189,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1s8ub6mE6U.mp3" length="22780129" type="audio/mpeg"/>
       <itunes:duration>00:47:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1s8ub6mE6U.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说181上】摩托车友结伴抵达武隆区，横遭突变无法前行，竟然看见远处有一群不开灯的工人；闺蜜好友只身前往北京工作，却被发现使用某种手段获利，如今下落不明</title>
+      <link>https://www.bilibili.com/video/BV143un6ZEjs</link>
+      <guid isPermaLink="false">28346875-BV143un6ZEjs</guid>
+      <pubDate>Fri, 07 Aug 2026 01:22:11 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV143un6ZEjs.mp3" length="24623329" type="audio/mpeg"/>
+      <itunes:duration>00:51:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV143un6ZEjs.jpg"/>
     </item>
   </channel>
 </rss>
