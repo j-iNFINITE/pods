@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:40:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1437,6 +1437,29 @@ Bruno Coulais-The Supper
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1YG411d75A.mp3" length="18776506" type="audio/mpeg"/>
       <itunes:duration>00:39:07</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1YG411d75A.jpg"/>
+    </item>
+    <item>
+      <title>【中元节特辑】灵异x玄学up在线输出讲故事，惊悚刺激吓掉魂！</title>
+      <link>https://www.bilibili.com/video/BV17j41127bT</link>
+      <guid isPermaLink="false">3461574203279607-BV17j41127bT</guid>
+      <pubDate>Wed, 30 Aug 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+水谷広実 | 藁と藁
+Christian Henson | Lullaby
+阿灰 | 幽灵调
+Micachu | Death
+高梨康治 | 寂れた町
+Skyler McGlothlin | Theme of Despair
+吟 | 恐怖
+高梨康治 | 彼岸花
+橙光音乐 | 致命游戏-悬疑主题音乐
+Wendy Carlos | Nocturnal Valse Triste [Making The Shining]
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV17j41127bT.mp3" length="22529152" type="audio/mpeg"/>
+      <itunes:duration>00:46:56</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV17j41127bT.jpg"/>
     </item>
   </channel>
 </rss>
