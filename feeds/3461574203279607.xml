@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:48:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2425,6 +2425,24 @@ Claustrophobia | 大教堂外的废墟
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1z54y1g7Nf.mp3" length="9501775" type="audio/mpeg"/>
       <itunes:duration>00:19:48</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1z54y1g7Nf.jpg"/>
+    </item>
+    <item>
+      <title>「解说豆瓣真实灵异神贴 Ep.5」大白天玩笔仙，竟也能招来亡魂！累世因果，今世偿还，关键时刻迷了眼。</title>
+      <link>https://www.bilibili.com/video/BV1Ss4y1Z7TR</link>
+      <guid isPermaLink="false">3461574203279607-BV1Ss4y1Z7TR</guid>
+      <pubDate>Sun, 26 Feb 2023 03:54:53 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 低吟浅唱
+铭珹 | 迷の洋馆
+高梨康治 | 沙子“a long story” 
+Micachu | Death
+丁可 | 饥肠辘辘（Hungry）
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Ss4y1Z7TR.mp3" length="7903925" type="audio/mpeg"/>
+      <itunes:duration>00:16:28</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Ss4y1Z7TR.jpg"/>
     </item>
   </channel>
 </rss>
