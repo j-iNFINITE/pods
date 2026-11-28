@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:46:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:46:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1579,6 +1579,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Ub421i7N2.mp3" length="19885979" type="audio/mpeg"/>
       <itunes:duration>00:41:26</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Ub421i7N2.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说126上】母亲意外走失后，我竟然在家中发现了被下咒的痕迹，这一切的缘故都源自于莫名其妙住进我家的一个老头......</title>
+      <link>https://www.bilibili.com/video/BV1Dt421N7Sa</link>
+      <guid isPermaLink="false">28346875-BV1Dt421N7Sa</guid>
+      <pubDate>Fri, 31 May 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络， 如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Dt421N7Sa.mp3" length="22479206" type="audio/mpeg"/>
+      <itunes:duration>00:46:50</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Dt421N7Sa.jpg"/>
     </item>
   </channel>
 </rss>
