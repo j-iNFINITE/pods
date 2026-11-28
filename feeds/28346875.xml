@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:41:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -511,6 +511,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1NVkJBeENs.mp3" length="7298921" type="audio/mpeg"/>
       <itunes:duration>00:15:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1NVkJBeENs.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说167下】河南小伙自学玄学招惹游师，录下家中灰暗灯管闪烁招灵瞬间；狐狸成精叼走农户瓦片，竟然是想要报恩留作信物祭拜！</title>
+      <link>https://www.bilibili.com/video/BV1P2kPBdEMv</link>
+      <guid isPermaLink="false">28346875-BV1P2kPBdEMv</guid>
+      <pubDate>Sat, 17 Jan 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1P2kPBdEMv.mp3" length="25594248" type="audio/mpeg"/>
+      <itunes:duration>00:53:19</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1P2kPBdEMv.jpg"/>
     </item>
   </channel>
 </rss>
