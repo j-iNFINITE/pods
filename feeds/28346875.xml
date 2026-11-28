@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:30:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1248,6 +1248,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV16CULYzEbb.mp3" length="5344970" type="audio/mpeg"/>
       <itunes:duration>00:11:08</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV16CULYzEbb.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说137下】女儿身穿红裙胸口戴花自杀，家里灵异不断该怎么办？童年霸凌对象竟然奇怪失踪？又一个“潘博文”？</title>
+      <link>https://www.bilibili.com/video/BV1zYDdYxE9e</link>
+      <guid isPermaLink="false">28346875-BV1zYDdYxE9e</guid>
+      <pubDate>Sat, 09 Nov 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1zYDdYxE9e.mp3" length="26039592" type="audio/mpeg"/>
+      <itunes:duration>00:54:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1zYDdYxE9e.jpg"/>
     </item>
   </channel>
 </rss>
