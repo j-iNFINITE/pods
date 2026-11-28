@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:39:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -952,6 +952,16 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1xu4y1H7n1.mp3" length="7489727" type="audio/mpeg"/>
       <itunes:duration>00:15:36</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1xu4y1H7n1.jpg"/>
+    </item>
+    <item>
+      <title>直播回放| 乡村、学校、宾馆、伪人！恐怖元素拉满，小伙伴亲身经历，清凉故事大合集！</title>
+      <link>https://www.bilibili.com/video/BV1hN411j7MR</link>
+      <guid isPermaLink="false">3461574203279607-BV1hN411j7MR</guid>
+      <pubDate>Fri, 08 Dec 2023 13:00:00 +0000</pubDate>
+      <description>11.26直播故事纯享版，谢谢各位观众老爷和我们的好朋友老高的故事（老高在这@老高子丶  ，大家快去关注他呀！！！）</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hN411j7MR.mp3" length="24355634" type="audio/mpeg"/>
+      <itunes:duration>00:50:44</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hN411j7MR.jpg"/>
     </item>
   </channel>
 </rss>
