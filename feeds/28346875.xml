@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:26:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1757,6 +1757,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1QH4y1W7CN.mp3" length="4352316" type="audio/mpeg"/>
       <itunes:duration>00:09:04</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1QH4y1W7CN.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说120下】童年离奇绑架事件真相到底是什么，奶奶去世为何要一直就纠缠我？田野里的黑影究竟是什么？！</title>
+      <link>https://www.bilibili.com/video/BV1Xz421Q7Qm</link>
+      <guid isPermaLink="false">28346875-BV1Xz421Q7Qm</guid>
+      <pubDate>Sat, 09 Mar 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Xz421Q7Qm.mp3" length="20669651" type="audio/mpeg"/>
+      <itunes:duration>00:43:04</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Xz421Q7Qm.jpg"/>
     </item>
   </channel>
 </rss>
