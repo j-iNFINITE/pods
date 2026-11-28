@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:25:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -709,6 +709,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV16r4JzgEuM.mp3" length="28302415" type="audio/mpeg"/>
       <itunes:duration>00:58:58</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV16r4JzgEuM.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说160上】千万不要安装双扇门，儿子死法竟然跟父亲一样！双双折断背脊，蓝皮肤的老头到底是什么东西？！</title>
+      <link>https://www.bilibili.com/video/BV1mAxyzJEzK</link>
+      <guid isPermaLink="false">28346875-BV1mAxyzJEzK</guid>
+      <pubDate>Fri, 10 Oct 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1mAxyzJEzK.mp3" length="26671956" type="audio/mpeg"/>
+      <itunes:duration>00:55:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1mAxyzJEzK.jpg"/>
     </item>
   </channel>
 </rss>
