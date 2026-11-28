@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:18:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5303,6 +5303,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV14D4y137Fj.mp3" length="14644352" type="audio/mpeg"/>
       <itunes:duration>00:30:31</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV14D4y137Fj.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】山东农村灵异事件（下）水诡找替身，蛇灵，舍林，命运，果园传来的哭声，黄仙的报复</title>
+      <link>https://www.bilibili.com/video/BV11j41137f5</link>
+      <guid isPermaLink="false">397444163-BV11j41137f5</guid>
+      <pubDate>Sat, 25 Feb 2023 14:00:33 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV11j41137f5.mp3" length="10747920" type="audio/mpeg"/>
+      <itunes:duration>00:22:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV11j41137f5.jpg"/>
     </item>
   </channel>
 </rss>
