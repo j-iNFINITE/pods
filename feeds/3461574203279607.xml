@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:00:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1548,6 +1548,23 @@ V.A. | 狂父
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1xF411Z7Ea.mp3" length="5394490" type="audio/mpeg"/>
       <itunes:duration>00:11:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1xF411Z7Ea.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 完结篇」亡灵缠身！你怎么还不来看我；梦中预言！我“看”到了我妹淹死的样子！！</title>
+      <link>https://www.bilibili.com/video/BV1E14y1q7CE</link>
+      <guid isPermaLink="false">3461574203279607-BV1E14y1q7CE</guid>
+      <pubDate>Thu, 10 Aug 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1 
+高梨康治 | 寂れた町
+高梨康治 | Silent Night
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1E14y1q7CE.mp3" length="7566632" type="audio/mpeg"/>
+      <itunes:duration>00:15:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1E14y1q7CE.jpg"/>
     </item>
   </channel>
 </rss>
