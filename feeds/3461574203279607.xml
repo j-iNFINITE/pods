@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:09:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1123,6 +1123,25 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV19w411q76E.mp3" length="12762282" type="audio/mpeg"/>
       <itunes:duration>00:26:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV19w411q76E.jpg"/>
+    </item>
+    <item>
+      <title>我遇上了蜥蜴人？！莱瑟塔访谈实录，地心人就在你身旁！</title>
+      <link>https://www.bilibili.com/video/BV15G411C7aN</link>
+      <guid isPermaLink="false">3461574203279607-BV15G411C7aN</guid>
+      <pubDate>Fri, 27 Oct 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+Skyler McGlothlin | Theme of Despair
+濱本麻央 | 破壊される記憶
+橙光音乐 | 鬼山-悬疑主题音乐
+高梨康治 | 沼に沈む
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV15G411C7aN.mp3" length="10110114" type="audio/mpeg"/>
+      <itunes:duration>00:21:04</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV15G411C7aN.jpg"/>
     </item>
   </channel>
 </rss>
