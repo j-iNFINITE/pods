@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:00:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1623,6 +1623,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1pr421j7mZ.mp3" length="17629207" type="audio/mpeg"/>
       <itunes:duration>00:36:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1pr421j7mZ.jpg"/>
+    </item>
+    <item>
+      <title>日本史上最为凶险的村庄，竟然成为都市传说爱好者圣地，改编成的恐怖电影竟然比《咒怨》票房还高！</title>
+      <link>https://www.bilibili.com/video/BV1GD421N7Bk</link>
+      <guid isPermaLink="false">28346875-BV1GD421N7Bk</guid>
+      <pubDate>Fri, 10 May 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1GD421N7Bk.mp3" length="5328877" type="audio/mpeg"/>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1GD421N7Bk.jpg"/>
     </item>
   </channel>
 </rss>
