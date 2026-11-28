@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:42:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1823,6 +1823,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Yy421h7F3.mp3" length="46576851" type="audio/mpeg"/>
       <itunes:duration>01:37:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Yy421h7F3.jpg"/>
+    </item>
+    <item>
+      <title>五子灭门，花莲民房内传出恶臭，邻居报警发现惊天灭门惨案！</title>
+      <link>https://www.bilibili.com/video/BV1U2421w7g1</link>
+      <guid isPermaLink="false">28346875-BV1U2421w7g1</guid>
+      <pubDate>Fri, 02 Feb 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1U2421w7g1.mp3" length="5564397" type="audio/mpeg"/>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1U2421w7g1.jpg"/>
     </item>
   </channel>
 </rss>
