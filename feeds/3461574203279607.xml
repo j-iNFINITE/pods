@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:10:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -734,6 +734,23 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1tC411z7J4.mp3" length="8963652" type="audio/mpeg"/>
       <itunes:duration>00:18:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1tC411z7J4.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 我租房遇到的那些诡异事件；夫妻生死劫，邻居查案有去无回，大龄青年深陷杀猪盘不可自拔</title>
+      <link>https://www.bilibili.com/video/BV1Zg4y1Y7ZL</link>
+      <guid isPermaLink="false">3461574203279607-BV1Zg4y1Y7ZL</guid>
+      <pubDate>Fri, 26 Jan 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沙子“a long story”
+Skyler McGlothlin | Theme of Despair
+山岡晃 | Never Forgive Me, Never Forget Me
+Christian Henson | Lullaby
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Zg4y1Y7ZL.mp3" length="14828253" type="audio/mpeg"/>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Zg4y1Y7ZL.jpg"/>
     </item>
   </channel>
 </rss>
