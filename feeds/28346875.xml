@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大佬何金银</title>
+    <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
+    <description>大佬何金银</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Nov 2026 08:34:23 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>大佬何金银</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875.jpg"/>
+    <image>
+      <url>https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875.jpg</url>
+      <title>大佬何金银</title>
+      <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
+    </image>
+    <item>
+      <title>【道听途说188下】男子半夜惊醒看见天花板上的赤裸肥胖女人，竟然朝着他一步一步爬下来；部队新疆驻扎进入一神秘山谷，竟遭遇奇怪诡异椭圆形球体袭击</title>
+      <link>https://www.bilibili.com/video/BV1ZYWi6fEdF</link>
+      <guid isPermaLink="false">28346875-BV1ZYWi6fEdF</guid>
+      <pubDate>Sat, 14 Nov 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1ZYWi6fEdF.mp3" length="25308782" type="audio/mpeg"/>
+      <itunes:duration>00:52:44</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1ZYWi6fEdF.jpg"/>
+    </item>
+  </channel>
+</rss>
