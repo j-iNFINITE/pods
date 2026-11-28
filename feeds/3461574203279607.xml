@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:36:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1877,6 +1877,29 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1k14y1S7s9.mp3" length="11094207" type="audio/mpeg"/>
       <itunes:duration>00:23:07</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1k14y1S7s9.jpg"/>
+    </item>
+    <item>
+      <title>细思极恐！我解锁了死人的手机，发现了“自杀策划师”，导致被暗网怪物盯上了</title>
+      <link>https://www.bilibili.com/video/BV1ku411Y7HX</link>
+      <guid isPermaLink="false">3461574203279607-BV1ku411Y7HX</guid>
+      <pubDate>Sun, 11 Jun 2023 03:44:21 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Micachu | Death
+増田俊郎 | 気配(けわい)(改)・静
+岩崎琢 | 人形の館
+高梨康治 | 沙子“a long story”
+吟 | 恐怖
+高梨康治 | 彼岸花
+高梨康治 | 寂れた町
+羽毛田丈史 | MARIA KURENAI’S THEME
+阿灰 | 诡异
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ku411Y7HX.mp3" length="12282457" type="audio/mpeg"/>
+      <itunes:duration>00:25:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ku411Y7HX.jpg"/>
     </item>
   </channel>
 </rss>
