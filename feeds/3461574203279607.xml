@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:45:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2407,6 +2407,24 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1oY4y1C7C3.mp3" length="6679095" type="audio/mpeg"/>
       <itunes:duration>00:13:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1oY4y1C7C3.jpg"/>
+    </item>
+    <item>
+      <title>「极度恐惧」我的邻居谋杀剥皮，而我是他的下一个目标</title>
+      <link>https://www.bilibili.com/video/BV1z54y1g7Nf</link>
+      <guid isPermaLink="false">3461574203279607-BV1z54y1g7Nf</guid>
+      <pubDate>Wed, 01 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+佐藤史朗 | The House (Ju-On Theme) 呪怨テーマ～理佳を呼ぶ家
+佐藤史朗 | Soul of The Deceased (Ju-On Theme) 死者の魂とぬくもり～呪怨テーマ
+佐藤史朗 | Diaries 日記～伽椰子テーマ
+Claustrophobia | 大教堂外的废墟
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1z54y1g7Nf.mp3" length="9501775" type="audio/mpeg"/>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1z54y1g7Nf.jpg"/>
     </item>
   </channel>
 </rss>
