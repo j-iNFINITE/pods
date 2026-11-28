@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:07:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -242,6 +242,22 @@ Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Di421a7L2.mp3" length="9327695" type="audio/mpeg"/>
       <itunes:duration>00:19:26</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Di421a7L2.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 受害人惨死关公像下，凶手是故意为之还是单纯的意外？！胡同里的凶宅和神秘老头，到底是怨灵还是长生人？！</title>
+      <link>https://www.bilibili.com/video/BV16S411A7fm</link>
+      <guid isPermaLink="false">3461574203279607-BV16S411A7fm</guid>
+      <pubDate>Fri, 21 Jun 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16S411A7fm.mp3" length="8435569" type="audio/mpeg"/>
+      <itunes:duration>00:17:34</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16S411A7fm.jpg"/>
     </item>
   </channel>
 </rss>
