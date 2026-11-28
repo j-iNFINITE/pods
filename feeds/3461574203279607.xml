@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:42:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -962,6 +962,23 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hN411j7MR.mp3" length="24355634" type="audio/mpeg"/>
       <itunes:duration>00:50:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hN411j7MR.jpg"/>
+    </item>
+    <item>
+      <title>恐怖森林第二弹：爬山要小心！你听过隐藏在森林深处的声音么？一个森林搜救员的见闻实录</title>
+      <link>https://www.bilibili.com/video/BV1bQ4y1V7kB</link>
+      <guid isPermaLink="false">3461574203279607-BV1bQ4y1V7kB</guid>
+      <pubDate>Tue, 05 Dec 2023 13:18:28 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+山岡晃 | Never Forgive Me, Never Forget Me
+Claustrophobia | 闹鬼的地下室
+Claustrophobia | 混沌中的祭祀
+Claustrophobia | 我的葬礼
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1bQ4y1V7kB.mp3" length="6843562" type="audio/mpeg"/>
+      <itunes:duration>00:14:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1bQ4y1V7kB.jpg"/>
     </item>
   </channel>
 </rss>
