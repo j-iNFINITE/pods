@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:35:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1369,6 +1369,25 @@ flash8 | SCARSONG
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1aF411D7Lf.mp3" length="11499419" type="audio/mpeg"/>
       <itunes:duration>00:23:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1aF411D7Lf.jpg"/>
+    </item>
+    <item>
+      <title>我身上背着个看不见的人，怪不得我一直觉得冷；善待动物！你可以不信，但他们真的会复仇！；天生八字轻，我看到的是亡魂？！</title>
+      <link>https://www.bilibili.com/video/BV1Xu4y1k7op</link>
+      <guid isPermaLink="false">3461574203279607-BV1Xu4y1k7op</guid>
+      <pubDate>Sun, 10 Sep 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+高梨康治 | 寂れた町
+Bruno Coulais | The Supper
+増田俊郎 | 思考
+岩崎琢 | 人形の館
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Xu4y1k7op.mp3" length="8921864" type="audio/mpeg"/>
+      <itunes:duration>00:18:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Xu4y1k7op.jpg"/>
     </item>
   </channel>
 </rss>
