@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:54:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1996,6 +1996,24 @@ Claustrophobia | 鬼哭
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Dc411P7KU.mp3" length="9538354" type="audio/mpeg"/>
       <itunes:duration>00:19:52</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Dc411P7KU.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.7」泰国巫师告诉我，我中了怨念极强的苗族蛊术。下蛊之人宁愿双目失明，也见不能让我过得好。</title>
+      <link>https://www.bilibili.com/video/BV1ws4y1g7kc</link>
+      <guid isPermaLink="false">3461574203279607-BV1ws4y1g7kc</guid>
+      <pubDate>Sun, 14 May 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+佐藤史朗 | The House (Ju-On Theme) 呪怨テーマ～理佳を呼ぶ家
+山岡晃 | Promise(Reprise)
+付文超 | 鬼来电（ 恐怖 悬疑）
+羽毛田丈史 | MARIA KURENAI’S THEME
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ws4y1g7kc.mp3" length="10961497" type="audio/mpeg"/>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ws4y1g7kc.jpg"/>
     </item>
   </channel>
 </rss>
