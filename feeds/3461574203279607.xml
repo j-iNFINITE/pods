@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:11:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2105,6 +2105,33 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hs4y1R75z.mp3" length="9882334" type="audio/mpeg"/>
       <itunes:duration>00:20:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hs4y1R75z.jpg"/>
+    </item>
+    <item>
+      <title>深夜校园遇到恐怖人影，封停多年的电梯竟然传来运转声，书中夹的到底是什么照片？「解说豆瓣真实灵异神贴 上」</title>
+      <link>https://www.bilibili.com/video/BV1sm4y1y7tN</link>
+      <guid isPermaLink="false">3461574203279607-BV1sm4y1y7tN</guid>
+      <pubDate>Sun, 23 Apr 2023 03:15:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+阿灰 | 幽灵调
+阿灰 | 诡异
+岩崎琢 | 人形の館
+濱本麻央 | 深层の时空
+Ryan Amon | Lullaby for Mergo
+橙光音乐 | 微笑诅咒 PART.1
+羽毛田丈史 | MARIA KURENAI’S THEME
+高梨康治 | 寂れた町
+濱本麻央 | Solitude of frenzy
+吟 | 恐怖
+Skyler McGlothlin | Theme of Despair
+和田薫 | 墓场鬼太郎
+Micachu | Death
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1sm4y1y7tN.mp3" length="10908424" type="audio/mpeg"/>
+      <itunes:duration>00:22:44</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1sm4y1y7tN.jpg"/>
     </item>
   </channel>
 </rss>
