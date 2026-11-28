@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:23:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -393,6 +393,22 @@ Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Tw4m1Q7Mh.mp3" length="9094264" type="audio/mpeg"/>
       <itunes:duration>00:18:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Tw4m1Q7Mh.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 供奉神像却家破人亡，是邪神还是因为其他原因？一个地宝人后代的诡异经历...</title>
+      <link>https://www.bilibili.com/video/BV12T421X7hB</link>
+      <guid isPermaLink="false">3461574203279607-BV12T421X7hB</guid>
+      <pubDate>Tue, 07 May 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV12T421X7hB.mp3" length="15366585" type="audio/mpeg"/>
+      <itunes:duration>00:32:01</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV12T421X7hB.jpg"/>
     </item>
   </channel>
 </rss>
