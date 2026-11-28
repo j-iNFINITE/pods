@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:13:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -322,6 +322,34 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1oT421U7BY.mp3" length="8990618" type="audio/mpeg"/>
       <itunes:duration>00:18:44</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1oT421U7BY.jpg"/>
+    </item>
+    <item>
+      <title>公寓怪谈（下）误入诡异旅店，这里竟是里世界的入口？！原来真的没有人能离开999号公寓楼...</title>
+      <link>https://www.bilibili.com/video/BV1dr421L7r9</link>
+      <guid isPermaLink="false">3461574203279607-BV1dr421L7r9</guid>
+      <pubDate>Fri, 17 May 2024 13:00:00 +0000</pubDate>
+      <description>💡 挖掘机原创都市怪谈系列
+⚠️故事内容纯属虚构，仅供娱乐，请勿带入现实！
+——————
+故事：维奥拉 杰西
+主演：杰西
+助演：大范 维奥拉
+剪辑：维奥拉
+美术：杰西
+——————
+💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+Myuu | Darkest Night https://www.youtube.com/watch?v=5THepp4L680
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+Myuu | Silent Night (Dark Piano Version) https://www.youtube.com/watch?v=REk9Ia6eYXk
+Myuu | Cornered https://www.youtube.com/watch?v=65d_xK7FEqQ&amp;amp;list=PLt4ZkJ3lYmFUfelz5L_jC6xIknG9leBBX&amp;amp;index=27
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1dr421L7r9.mp3" length="7856478" type="audio/mpeg"/>
+      <itunes:duration>00:16:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1dr421L7r9.jpg"/>
     </item>
   </channel>
 </rss>
