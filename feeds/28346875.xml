@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:19:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -434,6 +434,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1FXAnzJEvG.mp3" length="25049229" type="audio/mpeg"/>
       <itunes:duration>00:52:11</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1FXAnzJEvG.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说171上】男子拜师学习赌术妖法，竟然能百分百赢钱！韩国女室友竟然开口向我表白，还说要把我带去韩国，究竟是有什么目的？</title>
+      <link>https://www.bilibili.com/video/BV1L9wkzPEGc</link>
+      <guid isPermaLink="false">28346875-BV1L9wkzPEGc</guid>
+      <pubDate>Fri, 20 Mar 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1L9wkzPEGc.mp3" length="25070127" type="audio/mpeg"/>
+      <itunes:duration>00:52:14</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1L9wkzPEGc.jpg"/>
     </item>
   </channel>
 </rss>
