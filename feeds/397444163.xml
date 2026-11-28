@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:12:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5283,6 +5283,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Hb411D7mq.mp3" length="14001740" type="audio/mpeg"/>
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Hb411D7mq.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】东北真实灵异事件（一）坟地里捡的孩子，后排座的人影</title>
+      <link>https://www.bilibili.com/video/BV1pb411X7h3</link>
+      <guid isPermaLink="false">397444163-BV1pb411X7h3</guid>
+      <pubDate>Tue, 28 Feb 2023 12:44:46 +0000</pubDate>
+      <description>-</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1pb411X7h3.mp3" length="14762635" type="audio/mpeg"/>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1pb411X7h3.jpg"/>
     </item>
   </channel>
 </rss>
