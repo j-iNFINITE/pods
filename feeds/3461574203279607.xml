@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:13:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2169,6 +2169,25 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hc411n79v.mp3" length="7847500" type="audio/mpeg"/>
       <itunes:duration>00:16:21</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hc411n79v.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.3」死去的妹妹开口说话，看香婆道出她的前世今生</title>
+      <link>https://www.bilibili.com/video/BV1RP411U7gx</link>
+      <guid isPermaLink="false">3461574203279607-BV1RP411U7gx</guid>
+      <pubDate>Fri, 14 Apr 2023 02:00:46 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw 
+濱本麻央 | 深层の时空
+Claustrophobia | 我都葬礼
+高梨康治 | Silent Night
+佐藤史朗 | Diaries 日記～伽椰子テーマ
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1RP411U7gx.mp3" length="12302937" type="audio/mpeg"/>
+      <itunes:duration>00:25:38</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1RP411U7gx.jpg"/>
     </item>
   </channel>
 </rss>
