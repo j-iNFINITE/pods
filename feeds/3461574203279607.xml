@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:11:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1646,6 +1646,25 @@ V.A. | 狂父
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1wN411Y7nd.mp3" length="6281198" type="audio/mpeg"/>
       <itunes:duration>00:13:05</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1wN411Y7nd.jpg"/>
+    </item>
+    <item>
+      <title>「哈佛丑闻」太平间员工贩卖遗体器官，男子家中惊现多具尸体遗骸；“客户”上门自助选购，两张脸皮只要600！</title>
+      <link>https://www.bilibili.com/video/BV1JF411X7zN</link>
+      <guid isPermaLink="false">3461574203279607-BV1JF411X7zN</guid>
+      <pubDate>Sat, 22 Jul 2023 10:30:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Bruno Coulais | The Supper
+flash8 | SCARSONG
+大野克夫 | 事件現場(オリジナル·ヴァージョン)
+大野克夫 | コナンの推理展開
+大野克夫 | 推理(オリジナル·ヴァージョン)
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1JF411X7zN.mp3" length="8363254" type="audio/mpeg"/>
+      <itunes:duration>00:17:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1JF411X7zN.jpg"/>
     </item>
   </channel>
 </rss>
