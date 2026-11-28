@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:47:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1479,6 +1479,16 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ch4y1U71W.mp3" length="10776132" type="audio/mpeg"/>
       <itunes:duration>00:22:27</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ch4y1U71W.jpg"/>
+    </item>
+    <item>
+      <title>天涯苗疆诡事合集 | 超长待机5小时带你一次性听完侗族小姐姐听见和遇到的诡异故事！ p01 天涯苗疆诡事合集 | 超长待机3小时带你一次性听完侗族小姐姐听见和遇到的诡异故事！</title>
+      <link>https://www.bilibili.com/video/BV1kw411D7kh</link>
+      <guid isPermaLink="false">3461574203279607-BV1kw411D7kh</guid>
+      <pubDate>Wed, 23 Aug 2023 03:00:00 +0000</pubDate>
+      <description>天涯神贴 “一个苗岭山脉生长的侗族女子的日常经历和听来的故事” 故事合集</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1kw411D7kh.mp3" length="3829868" type="audio/mpeg"/>
+      <itunes:duration>00:07:59</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1kw411D7kh.jpg"/>
     </item>
   </channel>
 </rss>
