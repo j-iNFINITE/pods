@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:18:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1243,6 +1243,28 @@ Myuu | Living in the dark https://www.youtube.com/watch?v=_SkUsk07Z-I
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1GN411b7sw.mp3" length="17464532" type="audio/mpeg"/>
       <itunes:duration>00:36:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1GN411b7sw.jpg"/>
+    </item>
+    <item>
+      <title>求助！我遇到了时空重叠，这个世界是假的？？！！</title>
+      <link>https://www.bilibili.com/video/BV1kw411a7wa</link>
+      <guid isPermaLink="false">3461574203279607-BV1kw411a7wa</guid>
+      <pubDate>Wed, 04 Oct 2023 11:52:54 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+BCD Studio | Time
+高梨康治 | 沼に沈む
+濱本麻央 | 絶望
+高梨康治 | Memento Mori
+濱本麻央 | 破壊される記憶
+山岡晃 | Promise(Reprise)
+张英奎 | Voice
+高梨康治 | Silent Night
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1kw411a7wa.mp3" length="10927023" type="audio/mpeg"/>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1kw411a7wa.jpg"/>
     </item>
   </channel>
 </rss>
