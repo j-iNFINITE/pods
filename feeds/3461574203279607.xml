@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:06:43 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1107,6 +1107,22 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11c411d71X.mp3" length="8739843" type="audio/mpeg"/>
       <itunes:duration>00:18:12</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11c411d71X.jpg"/>
+    </item>
+    <item>
+      <title>根据真实事件改编《马拉萨尼亚32号鬼宅》，比恐怖片更吓人的永远都是背后的真实惨案</title>
+      <link>https://www.bilibili.com/video/BV19w411q76E</link>
+      <guid isPermaLink="false">3461574203279607-BV19w411q76E</guid>
+      <pubDate>Tue, 31 Oct 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Christian Henson | Lullaby
+山岡晃 | True
+梁斌 | 悬疑背景音乐1
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV19w411q76E.mp3" length="12762282" type="audio/mpeg"/>
+      <itunes:duration>00:26:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV19w411q76E.jpg"/>
     </item>
   </channel>
 </rss>
