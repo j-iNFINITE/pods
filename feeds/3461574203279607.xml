@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:38:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -520,6 +520,22 @@ Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1LC411j7CX.mp3" length="7324423" type="audio/mpeg"/>
       <itunes:duration>00:15:16</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1LC411j7CX.jpg"/>
+    </item>
+    <item>
+      <title>天涯神贴 | 出马仙修邪术惨遭反噬！烫手的钱不能挣...</title>
+      <link>https://www.bilibili.com/video/BV1FJ4m157Cu</link>
+      <guid isPermaLink="false">3461574203279607-BV1FJ4m157Cu</guid>
+      <pubDate>Tue, 02 Apr 2024 12:34:14 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+Myuu | Living in the Dark https://www.youtube.com/watch?v=_SkUsk07Z-I
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1FJ4m157Cu.mp3" length="13558069" type="audio/mpeg"/>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1FJ4m157Cu.jpg"/>
     </item>
   </channel>
 </rss>
