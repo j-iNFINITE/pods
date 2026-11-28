@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:48:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1072,6 +1072,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1NgQcY2EfQ.mp3" length="27073622" type="audio/mpeg"/>
       <itunes:duration>00:56:24</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1NgQcY2EfQ.jpg"/>
+    </item>
+    <item>
+      <title>中国749局秘史：从秘密档案到都市传说，一个被官方认证的“神秘组织”，其中究竟结合了那些人才以及异能人士</title>
+      <link>https://www.bilibili.com/video/BV1gvRKY1EDL</link>
+      <guid isPermaLink="false">28346875-BV1gvRKY1EDL</guid>
+      <pubDate>Fri, 07 Mar 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1gvRKY1EDL.mp3" length="5689569" type="audio/mpeg"/>
+      <itunes:duration>00:11:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1gvRKY1EDL.jpg"/>
     </item>
   </channel>
 </rss>
