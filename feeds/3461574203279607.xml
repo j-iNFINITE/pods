@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:22:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1761,6 +1761,29 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hj411m7of.mp3" length="11301507" type="audio/mpeg"/>
       <itunes:duration>00:23:33</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hj411m7of.jpg"/>
+    </item>
+    <item>
+      <title>我怀疑我妈被抽屉吃了，真相到底是不是这样？她到底去了哪里？</title>
+      <link>https://www.bilibili.com/video/BV1GV4y1a7Tj</link>
+      <guid isPermaLink="false">3461574203279607-BV1GV4y1a7Tj</guid>
+      <pubDate>Sun, 02 Jul 2023 03:17:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Skyler McGlothlin | Theme of Despair
+梶浦由記 | M08c
+阿灰 | 诡异
+高梨康治 | 寂れた町
+橙光音乐 | 灵异气氛
+橙光音乐 | 极度恐怖
+高梨康治 | 沙子“a long story”
+濱本麻央 | 絶望
+田中公平 | シシリエンヌ
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1GV4y1a7Tj.mp3" length="7574364" type="audio/mpeg"/>
+      <itunes:duration>00:15:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1GV4y1a7Tj.jpg"/>
     </item>
   </channel>
 </rss>
