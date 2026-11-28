@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:24:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -456,6 +456,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV17XPszZEE8.mp3" length="24884135" type="audio/mpeg"/>
       <itunes:duration>00:51:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV17XPszZEE8.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说170上】我亲眼目睹姐姐妈妈是如何被一步步榨干枯萎的，河岸边的数千人头浮空排列，好似地狱众生惨状</title>
+      <link>https://www.bilibili.com/video/BV1wYPrz2Erb</link>
+      <guid isPermaLink="false">28346875-BV1wYPrz2Erb</guid>
+      <pubDate>Fri, 06 Mar 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1wYPrz2Erb.mp3" length="25936557" type="audio/mpeg"/>
+      <itunes:duration>00:54:02</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1wYPrz2Erb.jpg"/>
     </item>
   </channel>
 </rss>
