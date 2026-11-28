@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:18:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -907,6 +907,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1nvTNzJEDS.mp3" length="26123183" type="audio/mpeg"/>
       <itunes:duration>00:54:25</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1nvTNzJEDS.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说151上】二奶奶的眼睛究竟是什么邪物，竟然害了我的表姐；谢会计深山偶遇僧道儒尼吟诗作对，离奇经历令人咂舌</title>
+      <link>https://www.bilibili.com/video/BV1MLTxz9EZE</link>
+      <guid isPermaLink="false">28346875-BV1MLTxz9EZE</guid>
+      <pubDate>Fri, 06 Jun 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1MLTxz9EZE.mp3" length="32922125" type="audio/mpeg"/>
+      <itunes:duration>01:08:35</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1MLTxz9EZE.jpg"/>
     </item>
   </channel>
 </rss>
