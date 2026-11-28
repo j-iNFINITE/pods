@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:15:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3101,6 +3101,22 @@ MT1990 | 海上钢琴师
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Xd4y1k7ML.mp3" length="8189174" type="audio/mpeg"/>
       <itunes:duration>00:17:04</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Xd4y1k7ML.jpg"/>
+    </item>
+    <item>
+      <title>【挖掘真实灵异事件】坟头蹦迪，冤鬼缠身，这条路以后再不能走；乡村鱼塘频频传出女鬼哭声，到底是他人的谎言还是不能解释的现象？</title>
+      <link>https://www.bilibili.com/video/BV1TG411j7fK</link>
+      <guid isPermaLink="false">3461574203279607-BV1TG411j7fK</guid>
+      <pubDate>Wed, 26 Oct 2022 12:52:28 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+岩崎琢 | 人形の館
+山岡晃 | Never Forgive Me, Never Forget Me
+水谷広実 | きくり
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1TG411j7fK.mp3" length="7017007" type="audio/mpeg"/>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1TG411j7fK.jpg"/>
     </item>
   </channel>
 </rss>
