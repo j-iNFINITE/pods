@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:11:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -621,6 +621,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1B8ULBZEHh.mp3" length="20616354" type="audio/mpeg"/>
       <itunes:duration>00:42:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1B8ULBZEHh.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说163上】男子接到命令天亮前，必须杀掉全家人！利用邪门雕像运财，竟然害得全家险些绝后！现实版安娜贝尔苦苦纠缠，我只好把它扔掉</title>
+      <link>https://www.bilibili.com/video/BV15BywB3E6w</link>
+      <guid isPermaLink="false">28346875-BV15BywB3E6w</guid>
+      <pubDate>Fri, 21 Nov 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV15BywB3E6w.mp3" length="25332188" type="audio/mpeg"/>
+      <itunes:duration>00:52:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV15BywB3E6w.jpg"/>
     </item>
   </channel>
 </rss>
