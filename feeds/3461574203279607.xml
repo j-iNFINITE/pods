@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:58:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -624,6 +624,22 @@ Charlie Clouser | Insane
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1wD42177jv.mp3" length="10004169" type="audio/mpeg"/>
       <itunes:duration>00:20:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1wD42177jv.jpg"/>
+    </item>
+    <item>
+      <title>恶毒诅咒！男版安娜贝尔，送不走的恐怖人偶：罗伯特</title>
+      <link>https://www.bilibili.com/video/BV1tt421L7su</link>
+      <guid isPermaLink="false">3461574203279607-BV1tt421L7su</guid>
+      <pubDate>Tue, 12 Mar 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw
+BCD Studio | Time
+山岡晃 | Never Forgive Me, Never Forget Me
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1tt421L7su.mp3" length="7042092" type="audio/mpeg"/>
+      <itunes:duration>00:14:40</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1tt421L7su.jpg"/>
     </item>
   </channel>
 </rss>
