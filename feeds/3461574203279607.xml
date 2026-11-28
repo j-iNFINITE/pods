@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:12:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2564,6 +2564,26 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1dY411X7KL.mp3" length="9233027" type="audio/mpeg"/>
       <itunes:duration>00:19:14</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1dY411X7KL.jpg"/>
+    </item>
+    <item>
+      <title>一家三口惨死凶宅，灭门惨案阴魂不散；调查惊现长生怪人，是人是鬼还是魂？「春节特辑: 都市灵异传说大盘点 S1 Ep.6」</title>
+      <link>https://www.bilibili.com/video/BV1R8411w7Pf</link>
+      <guid isPermaLink="false">3461574203279607-BV1R8411w7Pf</guid>
+      <pubDate>Thu, 26 Jan 2023 04:57:35 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+
+BGM：
+阿灰 | 诡异
+Skyler McGlothlin | Weeping Angel
+Skyler McGlothlin | Theme of Despair
+铭珹 | 迷の洋馆
+高梨康治 | 寂れた町
+Micachu | Death
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1R8411w7Pf.mp3" length="9971778" type="audio/mpeg"/>
+      <itunes:duration>00:20:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1R8411w7Pf.jpg"/>
     </item>
   </channel>
 </rss>
