@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:36:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1413,6 +1413,30 @@ Claustrophobia | 闹鬼的地下室
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1FN411i7dq.mp3" length="10345642" type="audio/mpeg"/>
       <itunes:duration>00:21:33</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1FN411i7dq.jpg"/>
+    </item>
+    <item>
+      <title>【中元节特辑】书接上文！灵异x玄学up继续输出，高能故事不间断</title>
+      <link>https://www.bilibili.com/video/BV1YG411d75A</link>
+      <guid isPermaLink="false">3461574203279607-BV1YG411d75A</guid>
+      <pubDate>Sat, 02 Sep 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+阿灰-诡异
+坂本英城-Lost Hall
+Wendy Carlos-Nocturnal Valse Triste [Making The Shining] 
+橙光音乐-极度恐怖
+Bruno Coulais-The Supper
+羽毛田丈史-MARIA KURENAI’S THEME
+橙光音乐-微笑诅咒 PART.1
+増田俊郎-思考
+母里治樹-疑惑
+高梨康治-少女のうた
+川井憲次-恐怖
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1YG411d75A.mp3" length="18776506" type="audio/mpeg"/>
+      <itunes:duration>00:39:07</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1YG411d75A.jpg"/>
     </item>
   </channel>
 </rss>
