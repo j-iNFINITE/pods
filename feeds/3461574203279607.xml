@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:10:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3033,6 +3033,22 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16P4y117Bw.mp3" length="6244828" type="audio/mpeg"/>
       <itunes:duration>00:13:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16P4y117Bw.jpg"/>
+    </item>
+    <item>
+      <title>夜半三更哭声回荡，冤鬼索命无法超度，台湾高雄最凶猛鬼楼</title>
+      <link>https://www.bilibili.com/video/BV1YP411c7oy</link>
+      <guid isPermaLink="false">3461574203279607-BV1YP411c7oy</guid>
+      <pubDate>Sat, 12 Nov 2022 05:46:44 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+濱本麻央 | Mind of frenzy
+水谷広実 | きくり
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw&amp;amp;list=PLt4ZkJ3lYmFUfelz5L_jC6xIknG9leBBX&amp;amp;index=1 
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1YP411c7oy.mp3" length="6895799" type="audio/mpeg"/>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1YP411c7oy.jpg"/>
     </item>
   </channel>
 </rss>
