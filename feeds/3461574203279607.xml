@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:11:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1665,6 +1665,22 @@ flash8 | SCARSONG
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1JF411X7zN.mp3" length="8363254" type="audio/mpeg"/>
       <itunes:duration>00:17:25</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1JF411X7zN.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.15」苗疆夺舍术！老公每晚都会变成女人，我以为自己嫁了疯子，可谁知他的生魂早已变身另一人…</title>
+      <link>https://www.bilibili.com/video/BV11X4y1a7Cu</link>
+      <guid isPermaLink="false">3461574203279607-BV11X4y1a7Cu</guid>
+      <pubDate>Thu, 20 Jul 2023 10:30:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+遠藤浩二 | 着信アリ2
+Christian Henson | Lullaby
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11X4y1a7Cu.mp3" length="7240824" type="audio/mpeg"/>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11X4y1a7Cu.jpg"/>
     </item>
   </channel>
 </rss>
