@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:01:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5213,6 +5213,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV17Y4y19727.mp3" length="16274184" type="audio/mpeg"/>
       <itunes:duration>00:33:54</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV17Y4y19727.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】山东安丘诡异离奇恐怖事件2：发疯的母亲，鬼压床，房子的风水，家门前的烧纸，鸡冠蛇，玻璃上的鬼脸，无头鬼，外来户的预言，死人活了活人死了，是谁杀死了女</title>
+      <link>https://www.bilibili.com/video/BV1zv4y187sC</link>
+      <guid isPermaLink="false">397444163-BV1zv4y187sC</guid>
+      <pubDate>Sat, 11 Mar 2023 00:21:49 +0000</pubDate>
+      <description>【阿福怪谈】山东安丘诡异离奇恐怖事件2：发疯的母亲，鬼压床，房子的风水，家门前的烧纸，鸡冠蛇，玻璃上的鬼脸，无头鬼，外来户的预言，死人活了活人死了，是谁杀死了女</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1zv4y187sC.mp3" length="20655232" type="audio/mpeg"/>
+      <itunes:duration>00:43:02</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1zv4y187sC.jpg"/>
     </item>
   </channel>
 </rss>
