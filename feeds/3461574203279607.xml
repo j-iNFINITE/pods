@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:05:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -676,6 +676,30 @@ Wendy Carlos | Nocturnal Valse Triste [Making The Shining]
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16W421w7Gd.mp3" length="9822774" type="audio/mpeg"/>
       <itunes:duration>00:20:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16W421w7Gd.jpg"/>
+    </item>
+    <item>
+      <title>美剧《鸡皮疙瘩》解说：救命！我被相机鬼缠上了</title>
+      <link>https://www.bilibili.com/video/BV1KK421C7hi</link>
+      <guid isPermaLink="false">3461574203279607-BV1KK421C7hi</guid>
+      <pubDate>Wed, 21 Feb 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+
+BGM：
+Goblin｜Suspiria (Celesta and Bells)
+Joep Beving｜Ala
+KK｜おやおや?
+Skyler McGlothlin｜Theme of Despair
+和田薫｜Ballad of Returns
+和田薫｜Beginning of the Case
+山岡晃｜Promise(Reprise)
+岩崎琢｜人形の館
+濱本麻央｜恐るべき暗暗
+———————————————
+
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1KK421C7hi.mp3" length="8230559" type="audio/mpeg"/>
+      <itunes:duration>00:17:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1KK421C7hi.jpg"/>
     </item>
   </channel>
 </rss>
