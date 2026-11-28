@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:38:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2369,6 +2369,22 @@ Bruno Coulais | The Supper
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1tv4y187z7.mp3" length="7157241" type="audio/mpeg"/>
       <itunes:duration>00:14:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1tv4y187z7.jpg"/>
+    </item>
+    <item>
+      <title>「粉丝投稿」住在新家的几年里，我总能看到不干净的东西，是我的问题还是房子的原因？</title>
+      <link>https://www.bilibili.com/video/BV1fo4y1z7G8</link>
+      <guid isPermaLink="false">3461574203279607-BV1fo4y1z7G8</guid>
+      <pubDate>Fri, 10 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Claustrophobia | 鬼哭
+Claustrophobia | 心灵的黑死病
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1fo4y1z7G8.mp3" length="6920459" type="audio/mpeg"/>
+      <itunes:duration>00:14:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1fo4y1z7G8.jpg"/>
     </item>
   </channel>
 </rss>
