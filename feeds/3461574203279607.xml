@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:29:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2727,6 +2727,16 @@ Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw&amp;amp;list=PLt4ZkJ3l
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1yR4y127rt.mp3" length="8720400" type="audio/mpeg"/>
       <itunes:duration>00:18:10</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1yR4y127rt.jpg"/>
+    </item>
+    <item>
+      <title>「解说豆瓣真实灵异神贴 Ep.1」你信命吗？算命先生说我死期将至，可我却想逆天改命。</title>
+      <link>https://www.bilibili.com/video/BV1j84y1e74p</link>
+      <guid isPermaLink="false">3461574203279607-BV1j84y1e74p</guid>
+      <pubDate>Fri, 06 Jan 2023 04:00:00 +0000</pubDate>
+      <description>图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1j84y1e74p.mp3" length="6828725" type="audio/mpeg"/>
+      <itunes:duration>00:14:14</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1j84y1e74p.jpg"/>
     </item>
   </channel>
 </rss>
