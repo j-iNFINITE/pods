@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:25:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1491,6 +1491,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Uy411e7v3.mp3" length="23488787" type="audio/mpeg"/>
       <itunes:duration>00:48:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Uy411e7v3.jpg"/>
+    </item>
+    <item>
+      <title>95年香港巫师林天明作案害死无辜两人，被抓后审讯室竟然当场暴毙？！原因竟然是......</title>
+      <link>https://www.bilibili.com/video/BV1yw4m1k79A</link>
+      <guid isPermaLink="false">28346875-BV1yw4m1k79A</guid>
+      <pubDate>Fri, 26 Jul 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1yw4m1k79A.mp3" length="4697760" type="audio/mpeg"/>
+      <itunes:duration>00:09:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1yw4m1k79A.jpg"/>
     </item>
   </channel>
 </rss>
