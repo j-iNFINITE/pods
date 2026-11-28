@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:31:06 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1823,6 +1823,24 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ph4y1g7XM.mp3" length="7339889" type="audio/mpeg"/>
       <itunes:duration>00:15:17</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ph4y1g7XM.jpg"/>
+    </item>
+    <item>
+      <title>登山队员离奇失踪，地上插着的三双筷子究竟是为何？9年后离奇的照片竟拍下“魔神仔”身着殉难者的衣物？台湾最诡异的山脉，黑色奇莱上到底都发生了什么？</title>
+      <link>https://www.bilibili.com/video/BV1p14y1U7kL</link>
+      <guid isPermaLink="false">3461574203279607-BV1p14y1U7kL</guid>
+      <pubDate>Fri, 23 Jun 2023 07:47:48 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+张英奎 | Elevator III
+Christian Henson | Lullaby
+John Morris | The Elephant Man Theme
+水谷広実 | きくり
+Myuu | Lights Out https://www.youtube.com/watch?v=t0mpckYc3W8
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1p14y1U7kL.mp3" length="10291300" type="audio/mpeg"/>
+      <itunes:duration>00:21:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1p14y1U7kL.jpg"/>
     </item>
   </channel>
 </rss>
