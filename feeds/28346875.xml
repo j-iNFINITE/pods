@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:13:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -377,6 +377,18 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Rt9YBDEUT.mp3" length="26046898" type="audio/mpeg"/>
       <itunes:duration>00:54:16</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Rt9YBDEUT.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说173下】重绘佛像竟然得到菩萨回报，母亲还魂重逢相聚；女生目睹同学跳楼后惨遭被缠，红色眼睛一直尾随</title>
+      <link>https://www.bilibili.com/video/BV1yvdqBJEgh</link>
+      <guid isPermaLink="false">28346875-BV1yvdqBJEgh</guid>
+      <pubDate>Sat, 18 Apr 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系
+封面图片来源艺术博主：汤海青</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1yvdqBJEgh.mp3" length="27324599" type="audio/mpeg"/>
+      <itunes:duration>00:56:56</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1yvdqBJEgh.jpg"/>
     </item>
   </channel>
 </rss>
