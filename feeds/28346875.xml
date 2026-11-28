@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:45:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1557,6 +1557,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1SM4m1U7eo.mp3" length="20831611" type="audio/mpeg"/>
       <itunes:duration>00:43:24</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1SM4m1U7eo.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说127上】又傻又哑的福妹一哭就会死人！我的哥哥出去玩竟然带回来一把面条，而此刻门外响起了福妹的哭声......</title>
+      <link>https://www.bilibili.com/video/BV1CJ4m1g7Y3</link>
+      <guid isPermaLink="false">28346875-BV1CJ4m1g7Y3</guid>
+      <pubDate>Fri, 14 Jun 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1CJ4m1g7Y3.mp3" length="23108862" type="audio/mpeg"/>
+      <itunes:duration>00:48:09</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1CJ4m1g7Y3.jpg"/>
     </item>
   </channel>
 </rss>
