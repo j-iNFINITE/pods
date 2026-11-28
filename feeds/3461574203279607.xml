@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:32:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2290,6 +2290,24 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1eV4y1X7kg.mp3" length="7188797" type="audio/mpeg"/>
       <itunes:duration>00:14:59</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1eV4y1X7kg.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.1」我天生八字轻，魂魄也不稳；我见到了鬼魂上身，他的声音和死去的人竟一模一样；前世的因化成今世的果，这人到底和我有什么仇？</title>
+      <link>https://www.bilibili.com/video/BV1KL411k7Fy</link>
+      <guid isPermaLink="false">3461574203279607-BV1KL411k7Fy</guid>
+      <pubDate>Fri, 24 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+韦启良 | 误入迷失森林
+高梨康治 | 寂れた町
+高梨康治 | 沼に沈む
+佐藤史朗 | The House (Ju-On Theme) 呪怨テーマ～理佳を呼ぶ家
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1KL411k7Fy.mp3" length="7862330" type="audio/mpeg"/>
+      <itunes:duration>00:16:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1KL411k7Fy.jpg"/>
     </item>
   </channel>
 </rss>
