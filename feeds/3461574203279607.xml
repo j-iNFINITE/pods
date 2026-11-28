@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:37:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2332,6 +2332,22 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1RM4y1z7Tg.mp3" length="9873766" type="audio/mpeg"/>
       <itunes:duration>00:20:34</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1RM4y1z7Tg.jpg"/>
+    </item>
+    <item>
+      <title>「粉丝投稿」现实版“盗墓笔记”墓主人给我送了只野兔子；我把鳖骨做成了项链，一戴上就噩梦缠身</title>
+      <link>https://www.bilibili.com/video/BV1XT411r7xP</link>
+      <guid isPermaLink="false">3461574203279607-BV1XT411r7xP</guid>
+      <pubDate>Fri, 17 Mar 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Claustrophobia | 闹鬼的地下室
+Christian Henson | Lullaby
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1XT411r7xP.mp3" length="5968139" type="audio/mpeg"/>
+      <itunes:duration>00:12:26</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1XT411r7xP.jpg"/>
     </item>
   </channel>
 </rss>
