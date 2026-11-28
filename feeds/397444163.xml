@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:17:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5063,6 +5063,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1Uo4y1n7qt.mp3" length="18768983" type="audio/mpeg"/>
       <itunes:duration>00:39:06</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1Uo4y1n7qt.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】老东北工业基地离奇事件2：铁道口，诡异的天象，苗圃，透视奇人，看虚病，灵性，世界，火炮</title>
+      <link>https://www.bilibili.com/video/BV1ts4y1m7r4</link>
+      <guid isPermaLink="false">397444163-BV1ts4y1m7r4</guid>
+      <pubDate>Sat, 08 Apr 2023 05:26:08 +0000</pubDate>
+      <description>【阿福怪谈】老东北工业基地离奇事件2：铁道口，诡异的天象，苗圃，透视奇人，看虚病，灵性，世界，火炮</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1ts4y1m7r4.mp3" length="21767213" type="audio/mpeg"/>
+      <itunes:duration>00:45:21</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1ts4y1m7r4.jpg"/>
     </item>
   </channel>
 </rss>
