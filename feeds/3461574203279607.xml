@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:07:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2535,6 +2535,16 @@ Myuu | Bittersweet https://www.youtube.com/watch?v=f7rYJ3Eg-mU
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Fj411T73A.mp3" length="7860658" type="audio/mpeg"/>
       <itunes:duration>00:16:23</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Fj411T73A.jpg"/>
+    </item>
+    <item>
+      <title>【元宵节夜话剧场】惊悚超长篇！怪谈UP主们的恐怖夜话时间</title>
+      <link>https://www.bilibili.com/video/BV11j411T7CA</link>
+      <guid isPermaLink="false">3461574203279607-BV11j411T7CA</guid>
+      <pubDate>Sun, 05 Feb 2023 10:30:00 +0000</pubDate>
+      <description>2023年的元宵特辑来啦！大范小朋友、听挖掘机讲故事、乖怪钟联合出品，给大家带来份量足足的元宵“诡话”。汤圆得吃，故事也得听！快快落座吧！</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11j411T7CA.mp3" length="27450622" type="audio/mpeg"/>
+      <itunes:duration>00:57:11</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11j411T7CA.jpg"/>
     </item>
   </channel>
 </rss>
