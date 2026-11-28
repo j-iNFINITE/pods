@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:49:18 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -299,6 +299,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1ZhEv6CEhB.mp3" length="23218568" type="audio/mpeg"/>
       <itunes:duration>00:48:22</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1ZhEv6CEhB.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说176下】和领导下乡进入山中破观目睹无法解释现象！领导和我看见的根本不一样！女生爬山遇见全是倒着走的人，是时空扭曲还是平行宇宙？</title>
+      <link>https://www.bilibili.com/video/BV1y8Vh6cEYf</link>
+      <guid isPermaLink="false">28346875-BV1y8Vh6cEYf</guid>
+      <pubDate>Sat, 30 May 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1y8Vh6cEYf.mp3" length="24447786" type="audio/mpeg"/>
+      <itunes:duration>00:50:56</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1y8Vh6cEYf.jpg"/>
     </item>
   </channel>
 </rss>
