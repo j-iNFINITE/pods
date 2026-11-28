@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:16:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -178,6 +178,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1NUgp6NEJi.mp3" length="7162666" type="audio/mpeg"/>
       <itunes:duration>00:14:55</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1NUgp6NEJi.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说181下】掉井女人生还后状态迷离，竟然半夜带领一群小孩跳井；北京朝阳某商场风水诡异，好友竟然幻视恐怖红色，逐渐蔓延覆盖一切</title>
+      <link>https://www.bilibili.com/video/BV1s8ub6mE6U</link>
+      <guid isPermaLink="false">28346875-BV1s8ub6mE6U</guid>
+      <pubDate>Sat, 08 Aug 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1s8ub6mE6U.mp3" length="22780129" type="audio/mpeg"/>
+      <itunes:duration>00:47:27</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1s8ub6mE6U.jpg"/>
     </item>
   </channel>
 </rss>
