@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:50:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1489,6 +1489,27 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1kw411D7kh.mp3" length="3829868" type="audio/mpeg"/>
       <itunes:duration>00:07:59</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1kw411D7kh.jpg"/>
+    </item>
+    <item>
+      <title>「豆瓣真实灵异贴实录」一个人的身上到底能发生多少邪性怪事儿？是倒霉还是幸运？</title>
+      <link>https://www.bilibili.com/video/BV1aP411p7AU</link>
+      <guid isPermaLink="false">3461574203279607-BV1aP411p7AU</guid>
+      <pubDate>Sun, 20 Aug 2023 04:51:40 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+V.A. | 狂父
+Micachu | Death
+阿灰 | 幽灵调
+阿灰 | 诡异
+Skyler McGlothlin | Weeping Angel
+和田薫 | 墓场鬼太郎
+水谷広実 | きくり
+
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1aP411p7AU.mp3" length="7124849" type="audio/mpeg"/>
+      <itunes:duration>00:14:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1aP411p7AU.jpg"/>
     </item>
   </channel>
 </rss>
