@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:49:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -998,6 +998,26 @@ Claustrophobia | 大教堂外的废墟
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1qG411S7L5.mp3" length="10137700" type="audio/mpeg"/>
       <itunes:duration>00:21:07</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1qG411S7L5.jpg"/>
+    </item>
+    <item>
+      <title>恐怖森林惊魂：露营请慎重！你永远不知道森林里都藏着什么！一个森林搜救员的自白书</title>
+      <link>https://www.bilibili.com/video/BV1BG411U7gQ</link>
+      <guid isPermaLink="false">3461574203279607-BV1BG411U7gQ</guid>
+      <pubDate>Fri, 24 Nov 2023 13:10:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1 
+Christian Henson | Lullaby
+濱本麻央 | 深层の时空
+山岡晃 | Never Forgive Me, Never Forget Me
+高梨康治 | 寂れた町
+Claustrophobia | 闹鬼的地下室 
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1BG411U7gQ.mp3" length="9616721" type="audio/mpeg"/>
+      <itunes:duration>00:20:02</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1BG411U7gQ.jpg"/>
     </item>
   </channel>
 </rss>
