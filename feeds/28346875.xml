@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:37:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1270,6 +1270,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1eSD2YXEK9.mp3" length="22760702" type="audio/mpeg"/>
       <itunes:duration>00:47:25</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1eSD2YXEK9.jpg"/>
+    </item>
+    <item>
+      <title>王思聪舅舅林友杀害瑞典妻子后又杀一人？两任妻子接连遇害，罪犯逃亡多年终于被捕？</title>
+      <link>https://www.bilibili.com/video/BV1SrSnYuEqy</link>
+      <guid isPermaLink="false">28346875-BV1SrSnYuEqy</guid>
+      <pubDate>Fri, 01 Nov 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1SrSnYuEqy.mp3" length="4920741" type="audio/mpeg"/>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1SrSnYuEqy.jpg"/>
     </item>
   </channel>
 </rss>
