@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:51:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5183,6 +5183,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1DL411R7sr.mp3" length="23009179" type="audio/mpeg"/>
       <itunes:duration>00:47:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1DL411R7sr.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】火葬场工作的禁忌和恐怖经历2</title>
+      <link>https://www.bilibili.com/video/BV1W24y1x7Sh</link>
+      <guid isPermaLink="false">397444163-BV1W24y1x7Sh</guid>
+      <pubDate>Wed, 15 Mar 2023 10:16:17 +0000</pubDate>
+      <description>【阿福怪谈】火葬场工作的禁忌和恐怖经历2</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1W24y1x7Sh.mp3" length="16570099" type="audio/mpeg"/>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1W24y1x7Sh.jpg"/>
     </item>
   </channel>
 </rss>
