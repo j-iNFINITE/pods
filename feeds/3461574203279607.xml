@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:27:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1803,6 +1803,26 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1LX4y1v77e.mp3" length="6946589" type="audio/mpeg"/>
       <itunes:duration>00:14:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1LX4y1v77e.jpg"/>
+    </item>
+    <item>
+      <title>「粉丝投稿」七八岁的女孩被“蛇山神”看上，该如何化解？我在家看到了传说中的飞头降，又该怎么办？</title>
+      <link>https://www.bilibili.com/video/BV1ph4y1g7XM</link>
+      <guid isPermaLink="false">3461574203279607-BV1ph4y1g7XM</guid>
+      <pubDate>Sun, 25 Jun 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Skyler McGlothlin | Theme of Despair
+増田俊郎 | 気配(けわい)(改)・静
+阿灰 | 幽灵调
+高梨康治 | 六文灯笼
+高梨康治 | 彼岸花
+大野克夫 | 怪人包帯男2
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ph4y1g7XM.mp3" length="7339889" type="audio/mpeg"/>
+      <itunes:duration>00:15:17</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ph4y1g7XM.jpg"/>
     </item>
   </channel>
 </rss>
