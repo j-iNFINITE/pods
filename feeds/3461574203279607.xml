@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:20:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2224,6 +2224,22 @@ Ryan Amon | Lullaby for Mergo
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1hV4y1S7TA.mp3" length="17310096" type="audio/mpeg"/>
       <itunes:duration>00:36:04</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1hV4y1S7TA.jpg"/>
+    </item>
+    <item>
+      <title>「清明怪谈会」超级恐怖！5位up身边的真实经历，或许你的身后也跟着鬼 Ep.2</title>
+      <link>https://www.bilibili.com/video/BV1dL411S718</link>
+      <guid isPermaLink="false">3461574203279607-BV1dL411S718</guid>
+      <pubDate>Tue, 04 Apr 2023 03:00:00 +0000</pubDate>
+      <description>【听挖掘机讲故事 X 千语谈异灵】
+超长故事三天连更，清明假期伴你入眠。
+美梦常伴你的身边，还不快点来个三连。
+——————————————————
+文案：贝尔 杰西 维奥拉
+剪辑：五槐
+美术：泰格</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1dL411S718.mp3" length="15985165" type="audio/mpeg"/>
+      <itunes:duration>00:33:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1dL411S718.jpg"/>
     </item>
   </channel>
 </rss>
