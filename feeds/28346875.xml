@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:37:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -500,6 +500,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Gg6iB9EbS.mp3" length="89731339" type="audio/mpeg"/>
       <itunes:duration>03:06:56</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Gg6iB9EbS.jpg"/>
+    </item>
+    <item>
+      <title>从猴子换头术到恐怖模拟生物警笛头，人身异头的生物为何总让人痴迷又恐惧？</title>
+      <link>https://www.bilibili.com/video/BV1NVkJBeENs</link>
+      <guid isPermaLink="false">28346875-BV1NVkJBeENs</guid>
+      <pubDate>Wed, 21 Jan 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1NVkJBeENs.mp3" length="7298921" type="audio/mpeg"/>
+      <itunes:duration>00:15:12</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1NVkJBeENs.jpg"/>
     </item>
   </channel>
 </rss>
