@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:04:09 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1565,6 +1565,26 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1E14y1q7CE.mp3" length="7566632" type="audio/mpeg"/>
       <itunes:duration>00:15:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1E14y1q7CE.jpg"/>
+    </item>
+    <item>
+      <title>「短篇恐怖故事两则」未知来电每次都精准预言即将发生的厄运，我养的狗很奇怪不会犬吠。</title>
+      <link>https://www.bilibili.com/video/BV1Qk4y1g7Z6</link>
+      <guid isPermaLink="false">3461574203279607-BV1Qk4y1g7Z6</guid>
+      <pubDate>Sun, 06 Aug 2023 03:54:01 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 沼に沈む
+梶浦由記 | M08c
+和田薫 | 墓场鬼太郎
+Creepy Razy | On a Creepy Night
+吉田順一 | 疑惑
+坂本英城 | Lost Hall
+
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Qk4y1g7Z6.mp3" length="5902101" type="audio/mpeg"/>
+      <itunes:duration>00:12:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Qk4y1g7Z6.jpg"/>
     </item>
   </channel>
 </rss>
