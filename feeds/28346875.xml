@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:39:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -764,6 +764,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1U8HezjEAC.mp3" length="23493167" type="audio/mpeg"/>
       <itunes:duration>00:48:57</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1U8HezjEAC.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说157下】长脖子人头钻入宿舍偷窥我，不停对我说“过来，过来”，冒死录下真实灵异音频，最凶的一集宿舍闹鬼事件！</title>
+      <link>https://www.bilibili.com/video/BV1W8h9znETX</link>
+      <guid isPermaLink="false">28346875-BV1W8h9znETX</guid>
+      <pubDate>Sat, 30 Aug 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1W8h9znETX.mp3" length="30669735" type="audio/mpeg"/>
+      <itunes:duration>01:03:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1W8h9znETX.jpg"/>
     </item>
   </channel>
 </rss>
