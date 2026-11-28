@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:27:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -467,6 +467,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1wYPrz2Erb.mp3" length="25936557" type="audio/mpeg"/>
       <itunes:duration>00:54:02</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1wYPrz2Erb.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说169下】三霄娘娘抱走我的孩子后许诺我家女娃三代平安，但当初真的是三霄娘娘吗？还是什么别的东西；悉尼蓝山深处的恐怖巨人，一直徘徊在我的帐篷周围</title>
+      <link>https://www.bilibili.com/video/BV1NuAmzYEQi</link>
+      <guid isPermaLink="false">28346875-BV1NuAmzYEQi</guid>
+      <pubDate>Sat, 28 Feb 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1NuAmzYEQi.mp3" length="23382826" type="audio/mpeg"/>
+      <itunes:duration>00:48:43</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1NuAmzYEQi.jpg"/>
     </item>
   </channel>
 </rss>
