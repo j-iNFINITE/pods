@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:13:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1149,6 +1149,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1aE6rYVEoq.mp3" length="59531705" type="audio/mpeg"/>
       <itunes:duration>02:04:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1aE6rYVEoq.jpg"/>
+    </item>
+    <item>
+      <title>从宋朝一直延续至今的【采生折割】，背后究竟是一段什么历史，拥有什么样残忍的折磨手段？</title>
+      <link>https://www.bilibili.com/video/BV15BC6YHEC1</link>
+      <guid isPermaLink="false">28346875-BV15BC6YHEC1</guid>
+      <pubDate>Fri, 27 Dec 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV15BC6YHEC1.mp3" length="6012867" type="audio/mpeg"/>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV15BC6YHEC1.jpg"/>
     </item>
   </channel>
 </rss>
