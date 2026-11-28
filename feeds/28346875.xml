@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:56:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -101,6 +101,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1sCJy6nEoT.mp3" length="23904857" type="audio/mpeg"/>
       <itunes:duration>00:49:48</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1sCJy6nEoT.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说185】外公安排重棺下葬事件竟然还有后续？观众的胃肝脾肺和心脏，究竟还会遭遇什么样的折磨；酒店大厦遭遇离奇火灾，一家三口自焚屋内</title>
+      <link>https://www.bilibili.com/video/BV12SaB6NEQp</link>
+      <guid isPermaLink="false">28346875-BV12SaB6NEQp</guid>
+      <pubDate>Fri, 02 Oct 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV12SaB6NEQp.mp3" length="53233053" type="audio/mpeg"/>
+      <itunes:duration>01:50:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV12SaB6NEQp.jpg"/>
     </item>
   </channel>
 </rss>
