@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:18:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1171,6 +1171,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1wJkCYMEPg.mp3" length="19406369" type="audio/mpeg"/>
       <itunes:duration>00:40:26</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1wJkCYMEPg.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说140上】工地男子捡到一诡异无头雕像，拿回家后供养起来竟然大发横财；孩童车祸后行为诡异举动异常，还说自己要去寻道？</title>
+      <link>https://www.bilibili.com/video/BV1JrkMYKE9p</link>
+      <guid isPermaLink="false">28346875-BV1JrkMYKE9p</guid>
+      <pubDate>Fri, 20 Dec 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1JrkMYKE9p.mp3" length="22967591" type="audio/mpeg"/>
+      <itunes:duration>00:47:51</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1JrkMYKE9p.jpg"/>
     </item>
   </channel>
 </rss>
