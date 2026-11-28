@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:11:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1174,6 +1174,30 @@ Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1K84y1o7TM.mp3" length="7142604" type="audio/mpeg"/>
       <itunes:duration>00:14:53</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1K84y1o7TM.jpg"/>
+    </item>
+    <item>
+      <title>光明会总部，“魔鬼”的产物！丹佛机场里究竟都有什么？揭秘丹佛机场地下的阴谋以及它不为人知的秘密...</title>
+      <link>https://www.bilibili.com/video/BV1Su4y1p798</link>
+      <guid isPermaLink="false">3461574203279607-BV1Su4y1p798</guid>
+      <pubDate>Wed, 18 Oct 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+Myuu | Nebula https://www.youtube.com/watch?v=tXC5pgOKcRw 
+flash8 | SCARSONG
+Charlie Clouser | Insane
+濱本麻央 | 破壊される記憶
+Nightcore | Puppet
+高梨康治 | 沼に沈む
+佐藤史朗 | Stagnant Air (The Closet) 押入れと澱んだ空気
+和田薫 | 伯爵のモノローグ
+山岡晃 | True
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Su4y1p798.mp3" length="11438806" type="audio/mpeg"/>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Su4y1p798.jpg"/>
     </item>
   </channel>
 </rss>
