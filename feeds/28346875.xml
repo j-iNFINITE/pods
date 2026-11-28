@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:22:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1724,6 +1724,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Nr421b7i8.mp3" length="4545831" type="audio/mpeg"/>
       <itunes:duration>00:09:28</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Nr421b7i8.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说121下】小偷钻入家中偷钱最后被困在栏杆里，最后浑身颤抖求人放走，说自己在房子里看见了奇怪恐怖的东西</title>
+      <link>https://www.bilibili.com/video/BV1Su4m1T7vD</link>
+      <guid isPermaLink="false">28346875-BV1Su4m1T7vD</guid>
+      <pubDate>Sat, 23 Mar 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Su4m1T7vD.mp3" length="23282314" type="audio/mpeg"/>
+      <itunes:duration>00:48:30</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Su4m1T7vD.jpg"/>
     </item>
   </channel>
 </rss>
