@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:00:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1056,6 +1056,23 @@ Myuu | Unspoken https://www.youtube.com/watch?v=PvIvXw6gSYA 
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1zG411S79m.mp3" length="15495526" type="audio/mpeg"/>
       <itunes:duration>00:32:17</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1zG411S79m.jpg"/>
+    </item>
+    <item>
+      <title>吓破胆！我最好的朋友是杀人犯，而我竟是他的目标之一？！</title>
+      <link>https://www.bilibili.com/video/BV1UM411S7ef</link>
+      <guid isPermaLink="false">3461574203279607-BV1UM411S7ef</guid>
+      <pubDate>Fri, 10 Nov 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1 
+山岡晃 | Never Forgive Me, Never Forget Me
+濱本麻央 | Solitude of frenzy
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1UM411S7ef.mp3" length="6597585" type="audio/mpeg"/>
+      <itunes:duration>00:13:45</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1UM411S7ef.jpg"/>
     </item>
   </channel>
 </rss>
