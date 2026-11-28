@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:11:57 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -156,6 +156,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1cMtz6EExy.mp3" length="25440648" type="audio/mpeg"/>
       <itunes:duration>00:53:00</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1cMtz6EExy.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说183上】富豪女儿半夜梦游发病不断，寻得仙家得知竟然是自作孽！护士医院诡异见闻几则，120急救竟然撞上残忍凶杀案——</title>
+      <link>https://www.bilibili.com/video/BV15VtZ6oEb4</link>
+      <guid isPermaLink="false">28346875-BV15VtZ6oEb4</guid>
+      <pubDate>Fri, 04 Sep 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV15VtZ6oEb4.mp3" length="27248113" type="audio/mpeg"/>
+      <itunes:duration>00:56:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV15VtZ6oEb4.jpg"/>
     </item>
   </channel>
 </rss>
