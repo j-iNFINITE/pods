@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:15:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1216,6 +1216,33 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1f841167mD.mp3" length="8188555" type="audio/mpeg"/>
       <itunes:duration>00:17:04</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1f841167mD.jpg"/>
+    </item>
+    <item>
+      <title>渗透世界各处的黑手，控制人心，与魔鬼做交易的光明会究竟是什么来头？！30min+的光明会全科普，花边新闻等你来听！</title>
+      <link>https://www.bilibili.com/video/BV1GN411b7sw</link>
+      <guid isPermaLink="false">3461574203279607-BV1GN411b7sw</guid>
+      <pubDate>Wed, 11 Oct 2023 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+濱本麻央 | 破壊される記憶
+山岡晃 | Promise(Reprise)
+高梨康治 | 沼に沈む
+Claustrophobia | 混沌中的祭祀
+高梨康治 | Memento Mori
+濱本麻央 | Solitude of frenzy
+川井憲次 | 恐怖新闻の谜
+大野克夫 | 推理(オリジナル·ヴァージョン)
+山岡晃 | Never Forgive Me, Never Forget Me
+Myuu | Angst https://www.youtube.com/watch?v=ODIyUwS2p2M 
+Myuu | Bittersweet https://www.youtube.com/watch?v=f7rYJ3Eg-mU
+Myuu | Living in the dark https://www.youtube.com/watch?v=_SkUsk07Z-I
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1GN411b7sw.mp3" length="17464532" type="audio/mpeg"/>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1GN411b7sw.jpg"/>
     </item>
   </channel>
 </rss>
