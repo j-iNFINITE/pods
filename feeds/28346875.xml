@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:07:40 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -355,6 +355,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1tJdcB9EQE.mp3" length="9268135" type="audio/mpeg"/>
       <itunes:duration>00:19:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1tJdcB9EQE.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说174下】海南乡村男子竟然能言出法随，口出恶言咒人死全家！天津恐怖大厦内发生多起恶性事件，楼中防火层里藏着某种似人似鬼的生物——</title>
+      <link>https://www.bilibili.com/video/BV16sRuB8Eti</link>
+      <guid isPermaLink="false">28346875-BV16sRuB8Eti</guid>
+      <pubDate>Sat, 02 May 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV16sRuB8Eti.mp3" length="29003750" type="audio/mpeg"/>
+      <itunes:duration>01:00:25</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV16sRuB8Eti.jpg"/>
     </item>
   </channel>
 </rss>
