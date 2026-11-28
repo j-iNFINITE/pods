@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:38:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2782,6 +2782,31 @@ Skyler McGlothlin | Theme of Despair
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1884y1W7RW.mp3" length="8569734" type="audio/mpeg"/>
       <itunes:duration>00:17:51</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1884y1W7RW.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：当导游那些年的诡异经历 Ep.5」我客人的后脑上长出了剪不断的针线，她在结婚当天被人下了降头，直到今天还都疯疯癫癫</title>
+      <link>https://www.bilibili.com/video/BV1K14y1A74G</link>
+      <guid isPermaLink="false">3461574203279607-BV1K14y1A74G</guid>
+      <pubDate>Thu, 29 Dec 2022 02:00:00 +0000</pubDate>
+      <description>🚪传送门🚪
+当导游那些年的诡异经历 Ep.1：BV1PD4y1e7wg
+当导游那些年的诡异经历 Ep.2：BV1yv4y1R7iJ 
+当导游那些年的诡异经历 Ep.3：BV1WW4y1T7Zm 
+当导游那些年的诡异经历 Ep.4：BV1324y1Q7c2 
+当导游那些年的诡异经历 Ep.5：BV1K14y1A74G 👈🏻当前位置
+当导游那些年的诡异经历 Ep.6：BV1WG4y177aU
+———————————————
+💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1
+高梨康治 | 寂れた町
+水谷広実 | きくり
+Myuu | Unspoken https://www.youtube.com/watch?v=PvIvXw6gSYA&amp;amp;list=PLt4ZkJ3lYmFUfelz5L_jC6xIknG9leBBX&amp;amp;index=28  
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1K14y1A74G.mp3" length="9927683" type="audio/mpeg"/>
+      <itunes:duration>00:20:41</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1K14y1A74G.jpg"/>
     </item>
   </channel>
 </rss>
