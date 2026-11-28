@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:13:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -632,6 +632,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV15BywB3E6w.mp3" length="25332188" type="audio/mpeg"/>
       <itunes:duration>00:52:46</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV15BywB3E6w.jpg"/>
+    </item>
+    <item>
+      <title>幸运仪式竟然是厄运的开始？一家四口三人死于火灾，一人重伤，幸运的背后代价是什么，又是谁要谢罪？</title>
+      <link>https://www.bilibili.com/video/BV1kcCbB4EYW</link>
+      <guid isPermaLink="false">28346875-BV1kcCbB4EYW</guid>
+      <pubDate>Fri, 14 Nov 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1kcCbB4EYW.mp3" length="13920230" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1kcCbB4EYW.jpg"/>
     </item>
   </channel>
 </rss>
