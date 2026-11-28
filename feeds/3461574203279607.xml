@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:07:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -3002,6 +3002,21 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Ge4y1W7se.mp3" length="7194013" type="audio/mpeg"/>
       <itunes:duration>00:14:59</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Ge4y1W7se.jpg"/>
+    </item>
+    <item>
+      <title>解说天涯恐怖神贴：亲身经历的转世投胎【上集】</title>
+      <link>https://www.bilibili.com/video/BV1eg411v75U</link>
+      <guid isPermaLink="false">3461574203279607-BV1eg411v75U</guid>
+      <pubDate>Sun, 20 Nov 2022 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Christian Henson | Lullaby
+水谷広実 | きくり
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1eg411v75U.mp3" length="6898098" type="audio/mpeg"/>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1eg411v75U.jpg"/>
     </item>
   </channel>
 </rss>
