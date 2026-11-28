@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:03:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1369,6 +1369,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Vcx7e4EWB.mp3" length="23317841" type="audio/mpeg"/>
       <itunes:duration>00:48:35</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Vcx7e4EWB.jpg"/>
+    </item>
+    <item>
+      <title>三人好友相约登山却离奇失踪至今毫无下落，唯一线索是插在地上的三双筷子......邱高事件解密</title>
+      <link>https://www.bilibili.com/video/BV1EgtQeKETp</link>
+      <guid isPermaLink="false">28346875-BV1EgtQeKETp</guid>
+      <pubDate>Fri, 20 Sep 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1EgtQeKETp.mp3" length="5469312" type="audio/mpeg"/>
+      <itunes:duration>00:11:24</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1EgtQeKETp.jpg"/>
     </item>
   </channel>
 </rss>
