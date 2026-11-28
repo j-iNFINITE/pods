@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 07:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:49:47 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2893,6 +2893,32 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1M84y1t75u.mp3" length="8267332" type="audio/mpeg"/>
       <itunes:duration>00:17:13</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1M84y1t75u.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：当导游那些年的诡异经历 Ep.2」巫医看到了我的过去，他说他的戒指是我命中注定的礼物</title>
+      <link>https://www.bilibili.com/video/BV1yv4y1R7iJ</link>
+      <guid isPermaLink="false">3461574203279607-BV1yv4y1R7iJ</guid>
+      <pubDate>Fri, 09 Dec 2022 03:00:00 +0000</pubDate>
+      <description>🚪传送门🚪
+当导游那些年的诡异经历 Ep.1：BV1PD4y1e7wg  
+当导游那些年的诡异经历 Ep.2：BV1yv4y1R7iJ  👈🏻当前位置
+当导游那些年的诡异经历 Ep.3：BV1WW4y1T7Zm
+当导游那些年的诡异经历 Ep.4：BV1324y1Q7c2
+当导游那些年的诡异经历 Ep.5：BV1K14y1A74G
+当导游那些年的诡异经历 Ep.6：BV1WG4y177aU
+———————————————
+💡特别感谢（Credit）
+BGM：
+濱本麻央 | 深层の时空
+高梨康治 | 寂れた町
+高梨康治 | 沙子“a long story”
+John Morris | The Elephant Man Theme
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1yv4y1R7iJ.mp3" length="7633923" type="audio/mpeg"/>
+      <itunes:duration>00:15:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1yv4y1R7iJ.jpg"/>
     </item>
   </channel>
 </rss>
