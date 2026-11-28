@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:26:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -853,6 +853,16 @@ BGM：
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1iQ4y1E77T.mp3" length="18160016" type="audio/mpeg"/>
       <itunes:duration>00:37:50</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1iQ4y1E77T.jpg"/>
+    </item>
+    <item>
+      <title>长篇巨作！恐怖森林合集：搜救员的诡异经历，你知道森林深处的秘密么？</title>
+      <link>https://www.bilibili.com/video/BV1iN4y1q7co</link>
+      <guid isPermaLink="false">3461574203279607-BV1iN4y1q7co</guid>
+      <pubDate>Fri, 29 Dec 2023 13:00:00 +0000</pubDate>
+      <description>本篇均改编自欧美怪谈故事，节目内容仅供娱乐，还请大家谨慎甄别。</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1iN4y1q7co.mp3" length="31007245" type="audio/mpeg"/>
+      <itunes:duration>01:04:36</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1iN4y1q7co.jpg"/>
     </item>
   </channel>
 </rss>
