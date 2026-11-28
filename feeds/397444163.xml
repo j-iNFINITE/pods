@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/397444163?sort_field=pubtime&amp;oid=117680560410950&amp;bvid=BV14zy2zMEQe</link>
     <description>阿福的平凡冒险</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:37:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/397444163.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>阿福的平凡冒险</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -5143,6 +5143,16 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1pX4y1o72a.mp3" length="22104924" type="audio/mpeg"/>
       <itunes:duration>00:46:03</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1pX4y1o72a.jpg"/>
+    </item>
+    <item>
+      <title>【阿福怪谈】站友投稿第三期：附身（窜窍），学校宿舍诡事，合租的凶宅，复活的尸体，续命，亡魂来电，子牙河女鬼，诡异的锤子声，窗户底下的青狮子，红轿子里的故人</title>
+      <link>https://www.bilibili.com/video/BV1gV4y1X7d5</link>
+      <guid isPermaLink="false">397444163-BV1gV4y1X7d5</guid>
+      <pubDate>Thu, 23 Mar 2023 08:45:34 +0000</pubDate>
+      <description>【阿福怪谈】站友投稿第三期：附身（窜窍），学校宿舍诡事，合租的凶宅，复活的尸体，续命，亡魂来电，子牙河女鬼，诡异的锤子声，窗户底下的青狮子，红轿子里的故人</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/397444163/BV1gV4y1X7d5.mp3" length="29118906" type="audio/mpeg"/>
+      <itunes:duration>01:00:40</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/397444163/BV1gV4y1X7d5.jpg"/>
     </item>
   </channel>
 </rss>
