@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:21:35 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1215,6 +1215,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1G4iRY6ERG.mp3" length="22394778" type="audio/mpeg"/>
       <itunes:duration>00:46:39</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1G4iRY6ERG.jpg"/>
+    </item>
+    <item>
+      <title>99年北京房山一校长曹公夜晚被外星人掳走，穿越上千公里竟然是为了给另外一个中国女孩治病？！真实发生的UFO事件！</title>
+      <link>https://www.bilibili.com/video/BV1fBzhY9Egj</link>
+      <guid isPermaLink="false">28346875-BV1fBzhY9Egj</guid>
+      <pubDate>Fri, 29 Nov 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络人，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1fBzhY9Egj.mp3" length="7144911" type="audio/mpeg"/>
+      <itunes:duration>00:14:53</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1fBzhY9Egj.jpg"/>
     </item>
   </channel>
 </rss>
