@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:20:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -200,6 +200,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV143un6ZEjs.mp3" length="24623329" type="audio/mpeg"/>
       <itunes:duration>00:51:18</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV143un6ZEjs.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说180下】学生误入楼道循环结界，遭遇恐怖高跟鞋女人追逐，竟然意外发现它是循声行动！画廊贵妇最新后续，稿主小伙伴被贵妇严厉警告！</title>
+      <link>https://www.bilibili.com/video/BV1jAgY62EZY</link>
+      <guid isPermaLink="false">28346875-BV1jAgY62EZY</guid>
+      <pubDate>Sat, 25 Jul 2026 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1jAgY62EZY.mp3" length="25738444" type="audio/mpeg"/>
+      <itunes:duration>00:53:37</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1jAgY62EZY.jpg"/>
     </item>
   </channel>
 </rss>
