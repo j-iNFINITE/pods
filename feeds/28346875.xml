@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:43:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -786,6 +786,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Fwh2z4E9T.mp3" length="25216413" type="audio/mpeg"/>
       <itunes:duration>00:52:32</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Fwh2z4E9T.jpg"/>
+    </item>
+    <item>
+      <title>洋抖爆火的《天使引擎》到底是什么？凡人竟然捕获天使究竟有什么用，代价又是什么？！</title>
+      <link>https://www.bilibili.com/video/BV1RkYXzgECU</link>
+      <guid isPermaLink="false">28346875-BV1RkYXzgECU</guid>
+      <pubDate>Fri, 22 Aug 2025 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1RkYXzgECU.mp3" length="9933109" type="audio/mpeg"/>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1RkYXzgECU.jpg"/>
     </item>
   </channel>
 </rss>
