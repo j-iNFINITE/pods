@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:07:38 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1602,6 +1602,28 @@ John Morris | The Elephant Man Theme
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Zj41197ez.mp3" length="9020294" type="audio/mpeg"/>
       <itunes:duration>00:18:47</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Zj41197ez.jpg"/>
+    </item>
+    <item>
+      <title>「B站UP真实恐怖经历 下集」搬家后诡异怪事频频，竟是邻居做法害人，把我选成了目标！</title>
+      <link>https://www.bilibili.com/video/BV1w841127vC</link>
+      <guid isPermaLink="false">3461574203279607-BV1w841127vC</guid>
+      <pubDate>Sun, 30 Jul 2023 04:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+高梨康治 | 彼岸花
+橙光音乐 | 致命游戏-悬疑主题音乐
+蓑部雄崇 | 事件発生
+阿灰 | 诡异
+Goblin | Suspiria (Celesta and Bells)
+高梨康治 | 地狱の舟歌
+増田俊郎 | 思考
+母里治樹 | 疑惑
+吉田順一 | 疑惑
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1w841127vC.mp3" length="8419268" type="audio/mpeg"/>
+      <itunes:duration>00:17:32</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1w841127vC.jpg"/>
     </item>
   </channel>
 </rss>
