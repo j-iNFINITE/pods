@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:23:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1735,6 +1735,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Su4m1T7vD.mp3" length="23282314" type="audio/mpeg"/>
       <itunes:duration>00:48:30</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Su4m1T7vD.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说121上】沿海小镇上的诡异肉鱼传说，究竟是真实存在还是人肉扮演？山村孩子露营究竟遇见了什么诡谲的亮光？</title>
+      <link>https://www.bilibili.com/video/BV1bA4m1P7Rh</link>
+      <guid isPermaLink="false">28346875-BV1bA4m1P7Rh</guid>
+      <pubDate>Fri, 22 Mar 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成更习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1bA4m1P7Rh.mp3" length="23886056" type="audio/mpeg"/>
+      <itunes:duration>00:49:46</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1bA4m1P7Rh.jpg"/>
     </item>
   </channel>
 </rss>
