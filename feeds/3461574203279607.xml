@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:32:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -48,6 +48,20 @@ Myuu | Haunted by Screams https://www.youtube.com/watch?v=uSxM2IIABRg
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1HE4m1d7Nz.mp3" length="7757840" type="audio/mpeg"/>
       <itunes:duration>00:16:10</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1HE4m1d7Nz.jpg"/>
+    </item>
+    <item>
+      <title>潘博文事件姊妹篇！朋友在书上写下自己的死亡预言，几年前他拉我去世博园探险，可我却感觉他浑身都透露着古怪...</title>
+      <link>https://www.bilibili.com/video/BV11y411i7CM</link>
+      <guid isPermaLink="false">3461574203279607-BV11y411i7CM</guid>
+      <pubDate>Tue, 06 Aug 2024 13:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Myuu | Haunted House https://www.youtube.com/watch?v=ddUymkZ5a80
+———————————————
+其他视频片段及图片皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV11y411i7CM.mp3" length="10509892" type="audio/mpeg"/>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV11y411i7CM.jpg"/>
     </item>
   </channel>
 </rss>
