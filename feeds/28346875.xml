@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:20:10 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1193,6 +1193,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1RuqaY2Eym.mp3" length="6732175" type="audio/mpeg"/>
       <itunes:duration>00:14:01</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1RuqaY2Eym.jpg"/>
+    </item>
+    <item>
+      <title>【道听途说139下】传遍全网的中山老太吊死闹鬼事件，到底来龙去脉是怎么回事？香港酒保身边一直缠着的，竟然是他的死鬼老婆</title>
+      <link>https://www.bilibili.com/video/BV1gwiBYXEqS</link>
+      <guid isPermaLink="false">28346875-BV1gwiBYXEqS</guid>
+      <pubDate>Sat, 07 Dec 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1gwiBYXEqS.mp3" length="20992942" type="audio/mpeg"/>
+      <itunes:duration>00:43:44</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1gwiBYXEqS.jpg"/>
     </item>
   </channel>
 </rss>
