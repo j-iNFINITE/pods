@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:06:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2069,6 +2069,23 @@ Christian Henson | Lullaby
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV16V4y1k7Tu.mp3" length="11755837" type="audio/mpeg"/>
       <itunes:duration>00:24:29</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV16V4y1k7Tu.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.5」因为嘴馋我中了虫蛊，差一点我就没了性命；我骗了苗女的爱情，却中了她的情蛊</title>
+      <link>https://www.bilibili.com/video/BV1nM411G76X</link>
+      <guid isPermaLink="false">3461574203279607-BV1nM411G76X</guid>
+      <pubDate>Sun, 30 Apr 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+橙光音乐 | 微笑诅咒 PART.1 
+高梨康治 | 寂れた町
+濱本麻央 | Solitude of frenzy
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1nM411G76X.mp3" length="14967644" type="audio/mpeg"/>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1nM411G76X.jpg"/>
     </item>
   </channel>
 </rss>
