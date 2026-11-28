@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:55:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2461,6 +2461,24 @@ Claustrophobia | 我的葬礼
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV19Y411k7bo.mp3" length="8772227" type="audio/mpeg"/>
       <itunes:duration>00:18:16</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV19Y411k7bo.jpg"/>
+    </item>
+    <item>
+      <title>「解说豆瓣真实灵异神贴 Ep.4」军训那年，后山冤魂蛊惑人，我遇到了中邪，你有过死前预感吗？</title>
+      <link>https://www.bilibili.com/video/BV1aj411P7WC</link>
+      <guid isPermaLink="false">3461574203279607-BV1aj411P7WC</guid>
+      <pubDate>Sun, 19 Feb 2023 04:33:50 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+羽毛田丈史 | MARIA KURENAI’S THEME
+阿灰 | 幽灵调
+阿灰 | 诡异
+Micachu | Death
+丁可 | 饥肠辘辘（Hungry）
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1aj411P7WC.mp3" length="8787072" type="audio/mpeg"/>
+      <itunes:duration>00:18:18</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1aj411P7WC.jpg"/>
     </item>
   </channel>
 </rss>
