@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 05:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:51:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1977,6 +1977,25 @@ Micachu | Death
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV14c411A7Fp.mp3" length="5622912" type="audio/mpeg"/>
       <itunes:duration>00:11:43</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV14c411A7Fp.jpg"/>
+    </item>
+    <item>
+      <title>「天涯神贴：苗疆女孩的所见所闻 Ep.8」孤寡老人惨死家中，不愿投胎也不愿走。午夜鬼影惊现床头，鬼魂上身吓怕众人</title>
+      <link>https://www.bilibili.com/video/BV1Dc411P7KU</link>
+      <guid isPermaLink="false">3461574203279607-BV1Dc411P7KU</guid>
+      <pubDate>Fri, 19 May 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+铭珹 | 迷の洋馆
+岩崎琢 | 人形の館
+Claustrophobia | 闹鬼的地下室
+高梨康治 | 沙子“a long story”
+Claustrophobia | 鬼哭
+水谷広実 | きくり
+———————————————
+其他图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1Dc411P7KU.mp3" length="9538354" type="audio/mpeg"/>
+      <itunes:duration>00:19:52</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1Dc411P7KU.jpg"/>
     </item>
   </channel>
 </rss>
