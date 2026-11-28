@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/28346875?sort_field=pubtime&amp;oid=117608586223103&amp;bvid=BV1ZYWi6fEdF</link>
     <description>大佬何金银</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 15:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:32:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/28346875.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>大佬何金银</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -1779,6 +1779,17 @@
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Cy421B7sj.mp3" length="20961804" type="audio/mpeg"/>
       <itunes:duration>00:43:40</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Cy421B7sj.jpg"/>
+    </item>
+    <item>
+      <title>日本历史上最为严重的熊灾，扑杀儿童妇女，吞噬孕妇腹中胎儿，7死3重伤的惨剧——日本三毛别羆事件</title>
+      <link>https://www.bilibili.com/video/BV1Ty421B7d1</link>
+      <guid isPermaLink="false">28346875-BV1Ty421B7d1</guid>
+      <pubDate>Fri, 01 Mar 2024 01:00:00 +0000</pubDate>
+      <description>先赞后看，养成习惯
+图文皆源自于网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/28346875/BV1Ty421B7d1.mp3" length="5658647" type="audio/mpeg"/>
+      <itunes:duration>00:11:47</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/28346875/BV1Ty421B7d1.jpg"/>
     </item>
   </channel>
 </rss>
