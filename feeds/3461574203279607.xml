@@ -5,7 +5,7 @@
     <link>https://www.bilibili.com/list/3461574203279607?sort_field=pubtime&amp;oid=113055987992523&amp;bvid=BV1VUnoeFEQs</link>
     <description>听挖掘机讲故事</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Nov 2026 06:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:14:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/feeds/3461574203279607.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>听挖掘机讲故事</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -2188,6 +2188,26 @@ Claustrophobia | 我都葬礼
       <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1RP411U7gx.mp3" length="12302937" type="audio/mpeg"/>
       <itunes:duration>00:25:38</itunes:duration>
       <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1RP411U7gx.jpg"/>
+    </item>
+    <item>
+      <title>「粉丝投稿」吓人！旧校舍老头半夜要我脑袋！亲眼见证七彩大蜘蛛渡劫；半夜钓鱼回家路上有人勒我脖子？</title>
+      <link>https://www.bilibili.com/video/BV1ag4y1g7yS</link>
+      <guid isPermaLink="false">3461574203279607-BV1ag4y1g7yS</guid>
+      <pubDate>Sat, 08 Apr 2023 03:00:00 +0000</pubDate>
+      <description>💡特别感谢（Credit）
+BGM：
+Micachu | Death
+高梨康治 | 沙子“a long story” 
+Wendy Carlos | Nocturnal Valse Triste
+Harry Manfredini | Overlay Of Evil / Main Title
+水谷広実 | 藁と藁
+Ryan Amon | Lullaby for Mergo
+高梨康治 | 沼に沈む
+———————————————
+图文皆源自与网络，如有侵权还请私信联系</description>
+      <enclosure url="https://raw.githubusercontent.com/j-iNFINITE/pods/main/audio/3461574203279607/BV1ag4y1g7yS.mp3" length="6663840" type="audio/mpeg"/>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/j-iNFINITE/pods/main/covers/3461574203279607/BV1ag4y1g7yS.jpg"/>
     </item>
   </channel>
 </rss>
